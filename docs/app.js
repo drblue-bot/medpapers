@@ -187,49 +187,86 @@ function showDetail(paper) {
 
   function renderDetail() {
     const pico = paper.pico || {}
-    const hasJa = !!paper.abstract_ja
+    const isPECO = pico.framework === 'PECO'
+    const hasPico = pico.P || pico.I || pico.C || pico.O
+    const nntVal = paper.nnt ?? (pico.significant !== false ? pico.NNT : null)
+
+    const hasSections = Array.isArray(paper.abstract_sections) && paper.abstract_sections.length > 0
+    const hasJa = hasSections || !!paper.abstract_ja
     const hasEn = !!paper.abstract_en
-    const abstract = abstractLang === 'ja'
-      ? (paper.abstract_ja || paper.abstract_en || '')
-      : (paper.abstract_en || paper.abstract_ja || '')
+    const hasAbstract = hasJa || hasEn
+
+    // PICO rows
+    const picoRows = [
+      { key: 'P', label: 'P', title: 'Patient（患者・対象）', value: pico.P },
+      { key: 'I', label: isPECO ? 'E' : 'I', title: isPECO ? 'Exposure（曝露）' : 'Intervention（介入）', value: isPECO ? (pico.E || pico.I) : pico.I },
+      { key: 'C', label: 'C', title: 'Comparison（対照）', value: pico.C },
+      { key: 'O', label: 'O', title: 'Outcome（アウトカム）', value: pico.O },
+    ]
+
+    // Abstract content by lang
+    function abstractHtml(lang) {
+      if (lang === 'ja') {
+        if (hasSections) {
+          return paper.abstract_sections.map(s =>
+            `<div class="abstract-section-item">
+              <div class="abstract-section-label">${esc(s.label)}</div>
+              <div class="abstract-section-body">${escNl(s.content)}</div>
+            </div>`
+          ).join('')
+        }
+        return escNl(paper.abstract_ja || '（日本語訳なし）')
+      } else {
+        if (hasSections && paper.abstract_sections.some(s => s.content_en)) {
+          return paper.abstract_sections.map(s =>
+            `<div class="abstract-section-item">
+              <div class="abstract-section-label">${esc(s.label_en || s.label)}</div>
+              <div class="abstract-section-body">${escNl(s.content_en || s.content)}</div>
+            </div>`
+          ).join('')
+        }
+        return escNl(paper.abstract_en || '（アブストラクトなし）')
+      }
+    }
 
     detailContent.innerHTML = `
       <div class="detail-title">${esc(paper.title || '無題')}</div>
       <div class="detail-meta">${esc([paper.journal, paper.year].filter(Boolean).join(' · '))}<br>${esc(paper.authors || '')}</div>
       <div class="detail-tags">${(paper.tags || []).map(t => `<span class="paper-tag">${esc(t)}</span>`).join('')}</div>
 
-      ${(pico.P || pico.I || pico.C || pico.O) ? `
+      ${hasPico ? `
       <div class="section">
-        <div class="section-title">PICO</div>
-        <div class="pico-grid">
-          ${pico.P ? `<div class="pico-item"><div class="pico-label">P — Patient</div><div class="pico-value">${esc(pico.P)}</div></div>` : ''}
-          ${pico.I ? `<div class="pico-item"><div class="pico-label">I — Intervention</div><div class="pico-value">${esc(pico.I)}</div></div>` : ''}
-          ${pico.C ? `<div class="pico-item"><div class="pico-label">C — Comparison</div><div class="pico-value">${esc(pico.C)}</div></div>` : ''}
-          ${pico.O ? `<div class="pico-item"><div class="pico-label">O — Outcome</div><div class="pico-value">${esc(pico.O)}</div></div>` : ''}
+        <div class="section-title">🎯 ${esc(pico.framework || 'PICO')} フレームワーク</div>
+        <div class="pico-box">
+          ${picoRows.map(row => row.value ? `
+          <div class="pico-row">
+            <div class="pico-key">${row.label}</div>
+            <div class="pico-content">
+              <div class="pico-title">${row.title}</div>
+              <div class="pico-value">${escNl(row.value)}</div>
+            </div>
+          </div>` : '').join('')}
+          ${nntVal != null ? `
+          <div class="pico-nnt">
+            <span class="pico-nnt-label">NNT</span>
+            <span class="pico-nnt-value">${esc(String(nntVal))}</span>
+            <span class="pico-nnt-desc">Number Needed to Treat（治療必要数）</span>
+          </div>` : ''}
         </div>
-      </div>` : ''}
-
-      ${paper.key_results ? `
+      </div>` : paper.key_results ? `
       <div class="section">
-        <div class="section-title">主要結果</div>
+        <div class="section-title">🔑 主要結果</div>
         <div class="section-body">${escNl(paper.key_results)}</div>
       </div>` : ''}
 
-      ${(paper.nnt || pico.NNT) ? `
-      <div class="section">
-        <div class="section-title">NNT</div>
-        <div class="section-body" style="font-size:22px;font-weight:700;color:var(--blue)">${esc(String(paper.nnt || pico.NNT))}</div>
-      </div>` : ''}
-
-      ${(hasJa || hasEn) ? `
+      ${hasAbstract ? `
       <div class="section">
         <div class="section-title">アブストラクト</div>
-        ${(hasJa && hasEn) ? `
         <div class="abstract-toggle">
-          <button class="abstract-tab ${abstractLang==='ja'?'active':''}" data-lang="ja">日本語</button>
-          <button class="abstract-tab ${abstractLang==='en'?'active':''}" data-lang="en">English</button>
-        </div>` : ''}
-        <div class="section-body">${escNl(abstract)}</div>
+          ${hasJa ? `<button class="abstract-tab ${abstractLang==='ja'?'active':''}" data-lang="ja">日本語</button>` : ''}
+          ${hasEn ? `<button class="abstract-tab ${abstractLang==='en'?'active':''}" data-lang="en">English</button>` : ''}
+        </div>
+        <div class="abstract-body">${abstractHtml(abstractLang)}</div>
       </div>` : ''}
     `
 
