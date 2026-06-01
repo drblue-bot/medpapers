@@ -169,7 +169,8 @@ function renderList() {
     const card = document.createElement('div')
     card.className = 'paper-card'
     card.innerHTML = `
-      <div class="paper-title">${esc(paper.title || '無題')}</div>
+      <div class="paper-title">${esc(paper.title_ja || paper.title || '無題')}</div>
+      ${paper.title_ja ? `<div class="paper-title-en">${esc(paper.title)}</div>` : ''}
       <div class="paper-meta">${esc([paper.journal, paper.year, paper.authors?.split(',')[0]].filter(Boolean).join(' · '))}</div>
       <div class="paper-tags">${(paper.tags || []).map(t => `<span class="paper-tag">${esc(t)}</span>`).join('')}</div>`
     card.addEventListener('click', () => showDetail(paper))
@@ -231,7 +232,8 @@ function showDetail(paper) {
     }
 
     detailContent.innerHTML = `
-      <div class="detail-title">${esc(paper.title || '無題')}</div>
+      <div class="detail-title">${esc(paper.title_ja || paper.title || '無題')}</div>
+      ${paper.title_ja ? `<div class="detail-title-en">${esc(paper.title)}</div>` : ''}
       <div class="detail-meta">${esc([paper.journal, paper.year].filter(Boolean).join(' · '))}<br>${esc(paper.authors || '')}</div>
       <div class="detail-tags">${(paper.tags || []).map(t => `<span class="paper-tag">${esc(t)}</span>`).join('')}</div>
 

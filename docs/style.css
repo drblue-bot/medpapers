@@ -144,6 +144,16 @@ body {
   overflow: hidden;
 }
 
+.paper-title-en {
+  font-size: 11px;
+  color: var(--text-muted);
+  margin-bottom: 4px;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
 .paper-meta {
   font-size: 12px;
   color: var(--text-muted);
@@ -220,6 +230,14 @@ body {
   font-weight: 700;
   line-height: 1.4;
   margin-bottom: 8px;
+}
+
+.detail-title-en {
+  font-size: 12px;
+  color: var(--text-muted);
+  line-height: 1.4;
+  margin-bottom: 6px;
+  margin-top: 2px;
 }
 
 .detail-meta {
