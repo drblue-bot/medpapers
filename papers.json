@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-06-01T05:22:24.276Z",
+  "exported_at": "2026-06-01T05:45:26.423Z",
   "papers": [
     {
       "id": 16,
@@ -7,11 +7,25 @@
       "journal": "The NEW ENGLAND JOURNAL of MEDICINE",
       "year": 2026,
       "authors": "Anderson CS, Song L, et al.",
-      "tags": [],
+      "tags": [
+        "RCT",
+        "脳卒中",
+        "神経",
+        "薬物療法",
+        "ARB/ACE阻害薬"
+      ],
       "abstract_en": "BACKGROUND\nBlood-pressure reduction is the only proven treatment to prevent stroke due to intracerebral hemorrhage. Whether a single pill that combines three antihypertensive drugs at low doses, in addition to standard antihypertensive treatment, can lower blood pressure more than standard care alone and reduce the risk of recurrent stroke after intracerebral hemorrhage is uncertain.\nMETHODS\nWe conducted a multinational, double-blind, randomized, placebo-controlled trial involving patients with a history of intracerebral hemorrhage. Patients were eligible for the trial if they had a systolic blood pressure of 130 to 160 mm Hg at baseline and were in clinically stable condition. After a 2-week active run-in phase during which all the patients received a once-daily pill containing three antihypertensive agents at low doses (telmisartan at 20 mg, amlodipine at 2.5 mg, and indapamide at 1.25 mg; the triple pill), the patients were randomly assigned to continue receiving the triple pill or to receive matching placebo. The primary outcome was the first recurrent stroke. Secondary outcomes included blood-pressure control, major cardiovascular events, death from cardiovascular causes, and safety.\nRESULTS\nOf 1670 patients who underwent randomization, 833 were assigned to receive the triple pill and 837 to receive placebo. The mean age of the patients was 58 years. At a median follow-up of 2.5 years, recurrent stroke had occurred in 38 patients (4.6%) in the triple-pill group and 62 (7.4%) in the placebo group (hazard ratio, 0.61; 95% confidence interval [CI], 0.41 to 0.92; P=0.02). The mean systolic blood pressure during follow-up was 127 mm Hg and 138 mm Hg, respectively. The incidence of major cardiovascular events was lower with the triple pill than with placebo (6.6% vs. 9.8%; P=0.04). Serious adverse events occurred in 23.2% of the patients in the triple-pill group and 26.0% of those in the placebo group. Early discontinuation of the trial regimen due to an adverse event occurred in 13.6% and 6.0%, respectively. The most common adverse event leading to discontinuation was an increase of 20% or more in the serum creatinine level.\nCONCLUSIONS\nAmong patients with intracerebral hemorrhage, treatment with a combination of three low-dose antihypertensive agents in a single pill, in addition to standard care, was associated with a lower incidence of recurrent stroke and major cardiovascular events than placebo. (Funded by the National Health and Medical Research Council of Australia and the Brazilian Ministry of Health; TRIDENT ClinicalTrials.gov number, NCT02699645; Australian New Zealand Clinical Trials Registry number, ACTRN12616000327482.)",
-      "abstract_ja": "",
-      "pico": null,
-      "key_results": "",
+      "abstract_ja": null,
+      "pico": {
+        "framework": "PICO",
+        "P": "脳内出血の既往があり、ベースライン時の収縮期血圧が130～160 mmHgで臨床的に安定している患者 (Patients with a history of intracerebral hemorrhage, with a systolic blood pressure of 130 to 160 mm Hg at baseline and in clinically stable condition)",
+        "I": "標準治療に加え、低用量の3種類の降圧薬（テルミサルタン20 mg、アムロジピン2.5 mg、インダパミド1.25 mg；トリプルピル）を含む1日1回服用ピル (A once-daily pill containing three low-dose antihypertensive agents (telmisartan 20 mg, amlodipine 2.5 mg, and indapamide 1.25 mg; the triple pill), in addition to standard care)",
+        "C": "一致するプラセボ (Matching placebo)",
+        "O": "初回再発性脳卒中：トリプルピル群で38人（4.6%）、プラセボ群で62人（7.4%）に発生した（ハザード比0.61；95%信頼区間0.41～0.92；P=0.02）。(First recurrent stroke: occurred in 38 patients (4.6%) in the triple-pill group and 62 (7.4%) in the placebo group (hazard ratio, 0.61; 95% CI, 0.41 to 0.92; P=0.02).)",
+        "NNT": 35.7,
+        "significant": true
+      },
+      "key_results": null,
       "nnt": null
     }
   ]
