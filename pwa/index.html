@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+  <meta name="apple-mobile-web-app-title" content="MedPapers" />
+  <meta name="theme-color" content="#2563EB" />
+  <title>MedPapers</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="manifest" href="manifest.json" />
+  <link rel="apple-touch-icon" href="icon-192.png" />
+</head>
+<body>
+
+<!-- メインアプリ -->
+<div id="app">
+  <div class="header">
+    <div class="header-inner">
+      <span class="header-title">📄 MedPapers</span>
+      <button class="sync-btn" id="sync-btn" title="同期">🔄</button>
+    </div>
+    <div class="search-bar">
+      <input class="search-input" id="search-input" type="search" placeholder="タイトル・著者・アブストで検索..." />
+    </div>
+    <div class="tags-scroll" id="tags-scroll"></div>
+    <div class="status-bar" id="status-bar">読み込み中...</div>
+  </div>
+  <div id="paper-list"></div>
+</div>
+
+<!-- 詳細画面 -->
+<div id="detail-view">
+  <div class="detail-header">
+    <div class="detail-header-inner">
+      <button class="back-btn" id="back-btn">‹ 一覧</button>
+    </div>
+  </div>
+  <div class="detail-content" id="detail-content"></div>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script src="app.js"></script>
+</body>
+</html>
