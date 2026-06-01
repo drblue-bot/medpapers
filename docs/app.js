@@ -215,10 +215,10 @@ function showDetail(paper) {
         <div class="section-body">${escNl(paper.key_results)}</div>
       </div>` : ''}
 
-      ${paper.nnt ? `
+      ${(paper.nnt || pico.NNT) ? `
       <div class="section">
         <div class="section-title">NNT</div>
-        <div class="section-body" style="font-size:22px;font-weight:700;color:var(--blue)">${esc(String(paper.nnt))}</div>
+        <div class="section-body" style="font-size:22px;font-weight:700;color:var(--blue)">${esc(String(paper.nnt || pico.NNT))}</div>
       </div>` : ''}
 
       ${(hasJa || hasEn) ? `
