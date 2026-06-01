@@ -183,7 +183,8 @@ function showDetail(paper) {
   detailView.style.display = 'flex'
   detailView.style.flexDirection = 'column'
 
-  let abstractLang = paper.abstract_ja ? 'ja' : 'en'
+  const hasSectionsCheck = Array.isArray(paper.abstract_sections) && paper.abstract_sections.length > 0
+  let abstractLang = (hasSectionsCheck || paper.abstract_ja) ? 'ja' : 'en'
 
   function renderDetail() {
     const pico = paper.pico || {}
@@ -198,10 +199,10 @@ function showDetail(paper) {
 
     // PICO rows
     const picoRows = [
-      { key: 'P', label: 'P', title: 'Patient（患者・対象）', value: pico.P },
-      { key: 'I', label: isPECO ? 'E' : 'I', title: isPECO ? 'Exposure（曝露）' : 'Intervention（介入）', value: isPECO ? (pico.E || pico.I) : pico.I },
-      { key: 'C', label: 'C', title: 'Comparison（対照）', value: pico.C },
-      { key: 'O', label: 'O', title: 'Outcome（アウトカム）', value: pico.O },
+      { key: 'P', label: 'P', title: 'Patient（患者・対象）', value: jaOnly(pico.P) },
+      { key: 'I', label: isPECO ? 'E' : 'I', title: isPECO ? 'Exposure（曝露）' : 'Intervention（介入）', value: jaOnly(isPECO ? (pico.E || pico.I) : pico.I) },
+      { key: 'C', label: 'C', title: 'Comparison（対照）', value: jaOnly(pico.C) },
+      { key: 'O', label: 'O', title: 'Outcome（アウトカム）', value: jaOnly(pico.O) },
     ]
 
     // Abstract content by lang
@@ -295,9 +296,16 @@ function esc(str) {
     .replace(/"/g, '&quot;')
 }
 
-// 改行をbrタグに変換（アブスト・key_results用）
+// 改行をbrタグに変換
 function escNl(str) {
   return esc(str).replace(/\n/g, '<br>')
+}
+
+// PICO値から末尾の英語括弧を除去: "日本語テキスト (English text)" → "日本語テキスト"
+function jaOnly(str) {
+  if (!str) return str
+  // 最後の " (..." を除去（ネストした括弧も考慮）
+  return str.replace(/\s*\([A-Za-z][^)]*(\([^)]*\)[^)]*)*\)\s*$/, '').trim()
 }
 
 // ── Start ─────────────────────────────────────────────
