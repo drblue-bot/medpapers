@@ -1,4 +1,59 @@
 {
-  "exported_at": "2026-06-01T09:12:38.709Z",
-  "papers": []
+  "exported_at": "2026-06-01T09:13:35.303Z",
+  "papers": [
+    {
+      "id": 18,
+      "title": "Three Low-Dose Antihypertensive Agents in a Single Pill after Intracerebral Hemorrhage",
+      "title_ja": "脳内出血後の再発性脳卒中および主要心血管イベントを低減する低用量3剤合剤の有効性",
+      "journal": "The New England Journal of Medicine",
+      "year": 2026,
+      "authors": "Craig S. Anderson, Lili Song, et al.",
+      "tags": [
+        "RCT",
+        "脳出血",
+        "神経",
+        "薬物療法",
+        "ARB/ACE阻害薬"
+      ],
+      "abstract_en": "BACKGROUND\nBlood-pressure reduction is the only proven treatment to prevent stroke due to intra-cerebral hemorrhage. Whether a single pill that combines three antihypertensive drugs at low doses, in addition to standard antihypertensive treatment, can lower blood pressure more than standard care alone and reduce the risk of recurrent stroke after intracerebral hemorrhage is uncertain.\nMETHODS\nWe conducted a multinational, double-blind, randomized, placebo-controlled trial involving patients with a history of intracerebral hemorrhage. Patients were eligible for the trial if they had a systolic blood pressure of 130 to 160 mm Hg at baseline and were in clinically stable condition. After a 2-week active run-in phase during which all the patients received a once-daily pill containing three antihypertensive agents at low doses (telmisartan at 20 mg, amlodipine at 2.5 mg, and indapamide at 1.25 mg; the triple pill), the patients were randomly assigned to continue receiving the triple pill or to receive matching placebo. The primary outcome was the first recurrent stroke. Secondary outcomes included blood-pressure control, major cardio-vascular events, death from cardiovascular causes, and safety.\nRESULTS\nOf 1670 patients who underwent randomization, 833 were assigned to receive the triple pill and 837 to receive placebo. The mean age of the patients was 58 years. At a median follow-up of 2.5 years, recurrent stroke had occurred in 38 patients (4.6%) in the triple-pill group and 62 (7.4%) in the placebo group (hazard ratio, 0.61; 95% confi-dence interval [CI], 0.41 to 0.92; P=0.02). The mean systolic blood pressure during follow-up was 127 mm Hg and 138 mm Hg, respectively. The incidence of major cardiovascular events was lower with the triple pill than with placebo (6.6% vs. 9.8%; P=0.04). Serious adverse events occurred in 23.2% of the patients in the triple-pill group and 26.0% of those in the placebo group. Early discontinuation of the trial regimen due to an adverse event occurred in 13.6% and 6.0%, respectively. The most common adverse event leading to discontinuation was an increase of 20% or more in the serum creatinine level.\nCONCLUSIONS\nAmong patients with intracerebral hemorrhage, treatment with a combination of three low-dose antihypertensive agents in a single pill, in addition to standard care, was associated with a lower incidence of recurrent stroke and major cardiovascular events than placebo. (Funded by the National Health and Medical Research Coun-cil of Australia and the Brazilian Ministry of Health; TRIDENT ClinicalTrials.gov number, NCT02699645; Australian New Zealand Clinical Trials Registry number, ACTRN12616000327482.)",
+      "abstract_ja": null,
+      "abstract_sections": [
+        {
+          "label": "背景",
+          "label_en": "BACKGROUND",
+          "content": "血圧低下は、脳内出血による脳卒中を予防する唯一の確立された治療法である。低用量の3種類の降圧薬を単一の錠剤に組み合わせたものが、標準的な降圧治療に加えて、標準治療単独よりも血圧をさらに低下させ、脳内出血後の再発性脳卒中のリスクを軽減できるかどうかは不明である。",
+          "content_en": "Blood-pressure reduction is the only proven treatment to prevent stroke due to intra-cerebral hemorrhage. Whether a single pill that combines three antihypertensive drugs at low doses, in addition to standard antihypertensive treatment, can lower blood pressure more than standard care alone and reduce the risk of recurrent stroke after intracerebral hemorrhage is uncertain."
+        },
+        {
+          "label": "方法",
+          "label_en": "METHODS",
+          "content": "我々は、脳内出血の既往を持つ患者を対象とした多施設共同、二重盲検、無作為化、プラセボ対照試験を実施した。ベースライン時に収縮期血圧が130〜160 mmHgであり、臨床的に安定した状態の患者が試験の対象となった。2週間のアクティブ・ランイン期間中、全患者が低用量の3種類の降圧薬（テルミサルタン20mg、アムロジピン2.5mg、インダパミド1.25mg；トリプルピル）を含む1日1回の錠剤を服用した後、患者はトリプルピルを引き続き服用する群またはプラセボを服用する群に無作為に割り付けられた。主要評価項目は最初の再発性脳卒中であった。副次評価項目には、血圧コントロール、主要心血管イベント、心血管原因による死亡、および安全性が含まれた。",
+          "content_en": "We conducted a multinational, double-blind, randomized, placebo-controlled trial involving patients with a history of intracerebral hemorrhage. Patients were eligible for the trial if they had a systolic blood pressure of 130 to 160 mm Hg at baseline and were in clinically stable condition. After a 2-week active run-in phase during which all the patients received a once-daily pill containing three antihypertensive agents at low doses (telmisartan at 20 mg, amlodipine at 2.5 mg, and indapamide at 1.25 mg; the triple pill), the patients were randomly assigned to continue receiving the triple pill or to receive matching placebo. The primary outcome was the first recurrent stroke. Secondary outcomes included blood-pressure control, major cardio-vascular events, death from cardiovascular causes, and safety."
+        },
+        {
+          "label": "結果",
+          "label_en": "RESULTS",
+          "content": "無作為化された1670人の患者のうち、833人がトリプルピル群に、837人がプラセボ群に割り当てられた。患者の平均年齢は58歳であった。中央値2.5年の追跡期間で、再発性脳卒中はトリプルピル群で38人（4.6%）、プラセボ群で62人（7.4%）に発生した（ハザード比0.61；95%信頼区間[CI] 0.41〜0.92；P=0.02）。追跡期間中の平均収縮期血圧は、それぞれ127mmHgと138mmHgであった。主要心血管イベントの発生率は、トリプルピル群の方がプラセボ群よりも低かった（6.6% vs. 9.8%；P=0.04）。重篤な有害事象は、トリプルピル群の23.2%、プラセボ群の26.0%に発生した。有害事象による試験レジメンの早期中止は、それぞれ13.6%と6.0%に発生した。中止に至った最も一般的な有害事象は、血清クレアチニンレベルの20%以上の増加であった。",
+          "content_en": "Of 1670 patients who underwent randomization, 833 were assigned to receive the triple pill and 837 to receive placebo. The mean age of the patients was 58 years. At a median follow-up of 2.5 years, recurrent stroke had occurred in 38 patients (4.6%) in the triple-pill group and 62 (7.4%) in the placebo group (hazard ratio, 0.61; 95% confi-dence interval [CI], 0.41 to 0.92; P=0.02). The mean systolic blood pressure during follow-up was 127 mm Hg and 138 mm Hg, respectively. The incidence of major cardiovascular events was lower with the triple pill than with placebo (6.6% vs. 9.8%; P=0.04). Serious adverse events occurred in 23.2% of the patients in the triple-pill group and 26.0% of those in the placebo group. Early discontinuation of the trial regimen due to an adverse event occurred in 13.6% and 6.0%, respectively. The most common adverse event leading to discontinuation was an increase of 20% or more in the serum creatinine level."
+        },
+        {
+          "label": "結論",
+          "label_en": "CONCLUSIONS",
+          "content": "脳内出血の患者において、標準治療に加えて、低用量の3種類の降圧薬を単一の錠剤で組み合わせた治療は、プラセボと比較して再発性脳卒中および主要心血管イベントの発生率低下と関連していた。（オーストラリア国立保健医療研究評議会およびブラジル保健省からの資金提供；TRIDENT ClinicalTrials.gov登録番号、NCT02699645；Australian New Zealand Clinical Trials Registry番号、ACTRN12616000327482。）",
+          "content_en": "Among patients with intracerebral hemorrhage, treatment with a combination of three low-dose antihypertensive agents in a single pill, in addition to standard care, was associated with a lower incidence of recurrent stroke and major cardiovascular events than placebo. (Funded by the National Health and Medical Research Coun-cil of Australia and the Brazilian Ministry of Health; TRIDENT ClinicalTrials.gov number, NCT02699645; Australian New Zealand Clinical Trials Registry number, ACTRN12616000327482.)"
+        }
+      ],
+      "pico": {
+        "framework": "PICO",
+        "P": "脳内出血の既往があり、ベースライン時に収縮期血圧130〜160 mmHgで臨床的に安定した状態の患者",
+        "I": "低用量の3種類の降圧薬（テルミサルタン20mg、アムロジピン2.5mg、インダパミド1.25mg）を組み合わせた単一の錠剤（トリプルピル） + 標準治療",
+        "C": "プラセボ + 標準治療",
+        "O": "主要評価項目：最初の再発性脳卒中。トリプルピル群38人（4.6%）vs プラセボ群62人（7.4%）（ハザード比0.61；95%信頼区間0.41〜0.92；P=0.02）。\n副次評価項目：主要心血管イベントの発生率は、トリプルピル群6.6% vs プラセボ群9.8%（P=0.04）。血圧コントロール（収縮期血圧<130 mmHg）は、トリプルピル群49.9% vs プラセボ群26.4%（オッズ比3.15；P<0.001）。",
+        "NNT": 35,
+        "significant": true
+      },
+      "key_results": null,
+      "nnt": null
+    }
+  ]
 }
