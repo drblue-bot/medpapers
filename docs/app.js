@@ -212,7 +212,7 @@ function showDetail(paper) {
       ${paper.key_results ? `
       <div class="section">
         <div class="section-title">主要結果</div>
-        <div class="section-body">${esc(paper.key_results)}</div>
+        <div class="section-body">${escNl(paper.key_results)}</div>
       </div>` : ''}
 
       ${paper.nnt ? `
@@ -229,7 +229,7 @@ function showDetail(paper) {
           <button class="abstract-tab ${abstractLang==='ja'?'active':''}" data-lang="ja">日本語</button>
           <button class="abstract-tab ${abstractLang==='en'?'active':''}" data-lang="en">English</button>
         </div>` : ''}
-        <div class="section-body">${esc(abstract)}</div>
+        <div class="section-body">${escNl(abstract)}</div>
       </div>` : ''}
     `
 
@@ -256,6 +256,11 @@ function esc(str) {
     .replace(/</g, '&lt;')
     .replace(/>/g, '&gt;')
     .replace(/"/g, '&quot;')
+}
+
+// 改行をbrタグに変換（アブスト・key_results用）
+function escNl(str) {
+  return esc(str).replace(/\n/g, '<br>')
 }
 
 // ── Start ─────────────────────────────────────────────
