@@ -75,6 +75,25 @@ body {
 }
 .search-input:focus { border-color: var(--blue); background: white; }
 
+.sort-select {
+  flex: 0 0 auto;
+  padding: 0 8px;
+  border: 1.5px solid var(--border);
+  border-radius: 10px;
+  font-size: 13px;
+  background: var(--bg);
+  color: var(--text, #1e293b);
+  outline: none;
+}
+.sort-select:focus { border-color: var(--blue); }
+
+.memo-body {
+  font-size: 14px;
+  line-height: 1.7;
+  word-break: break-word;
+}
+.memo-body hr { border: none; border-top: 1px solid var(--border); margin: 10px 0; }
+
 /* Tags */
 .tags-scroll {
   display: flex;

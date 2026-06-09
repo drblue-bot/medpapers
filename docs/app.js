@@ -6,6 +6,7 @@ let allPapers = []
 let filteredPapers = []
 let activeTags = new Set()
 let searchQuery = ''
+let sortMode = localStorage.getItem('mp_sort') || 'added'
 
 // ── DOM ───────────────────────────────────────────────
 const appEl         = document.getElementById('app')
@@ -13,6 +14,7 @@ const syncBtn       = document.getElementById('sync-btn')
 const searchInput   = document.getElementById('search-input')
 const tagsScroll    = document.getElementById('tags-scroll')
 const statusBar     = document.getElementById('status-bar')
+const sortSelect    = document.getElementById('sort-select')
 const paperList     = document.getElementById('paper-list')
 const detailView    = document.getElementById('detail-view')
 const detailContent = document.getElementById('detail-content')
@@ -102,11 +104,38 @@ syncBtn.addEventListener('click', async () => {
   }
 })
 
-// ── Search & Filter ───────────────────────────────────
+// ── Search & Filter & Sort ────────────────────────────
 searchInput.addEventListener('input', e => {
   searchQuery = e.target.value.trim().toLowerCase()
   applyFilters()
 })
+
+if (sortSelect) {
+  sortSelect.value = sortMode
+  sortSelect.addEventListener('change', e => {
+    sortMode = e.target.value
+    localStorage.setItem('mp_sort', sortMode)
+    applyFilters()
+  })
+}
+
+function sortPapers(papers) {
+  const arr = [...papers]
+  switch (sortMode) {
+    case 'updated':
+      return arr.sort((a, b) =>
+        String(b.updated_at || '').localeCompare(String(a.updated_at || '')) ||
+        (b.id || 0) - (a.id || 0))
+    case 'year':
+      return arr.sort((a, b) => (b.year || 0) - (a.year || 0) || (b.id || 0) - (a.id || 0))
+    case 'title':
+      return arr.sort((a, b) =>
+        String(a.title_ja || a.title || '').localeCompare(String(b.title_ja || b.title || ''), 'ja'))
+    case 'added':
+    default:
+      return arr.sort((a, b) => (b.id || 0) - (a.id || 0))
+  }
+}
 
 function applyFilters() {
   let papers = allPapers
@@ -125,7 +154,7 @@ function applyFilters() {
     )
   }
 
-  filteredPapers = papers
+  filteredPapers = sortPapers(papers)
   renderList()
 }
 
@@ -271,6 +300,12 @@ function showDetail(paper) {
         </div>
         <div class="abstract-body">${abstractHtml(abstractLang)}</div>
       </div>` : ''}
+
+      ${paper.memo ? `
+      <div class="section">
+        <div class="section-title">📝 メモ</div>
+        <div class="memo-body">${memoHtml(paper.memo)}</div>
+      </div>` : ''}
     `
 
     detailContent.querySelectorAll('.abstract-tab').forEach(btn => {
@@ -301,6 +336,12 @@ function esc(str) {
 // 改行をbrタグに変換
 function escNl(str) {
   return esc(str).replace(/\n/g, '<br>')
+}
+
+// メモ表示：リッチHTML（<を含む）はそのまま、旧プレーンは改行をbr化
+function memoHtml(memo) {
+  if (!memo) return ''
+  return /<[a-z][\s\S]*>/i.test(memo) ? memo : escNl(memo)
 }
 
 // PICO値から末尾の英語括弧を除去: "日本語テキスト (English text)" → "日本語テキスト"
