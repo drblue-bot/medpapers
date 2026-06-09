@@ -328,13 +328,13 @@ backBtn.addEventListener('click', () => {
 })
 
 // ── 共有 ──────────────────────────────────────────────
+// 共有項目: 日本語タイトル / 雑誌・年 / PICO / PMID / PubMedリンク
+// （著者・タグ・要点は含めない）
 function buildShareText(paper) {
   const lines = []
   lines.push(`【${paper.title_ja || paper.title || '無題'}】`)
-  if (paper.title_ja && paper.title) lines.push(paper.title)
-  const meta = [paper.journal, paper.year, paper.authors].filter(Boolean).join(' · ')
+  const meta = [paper.journal, paper.year].filter(Boolean).join(' · ')
   if (meta) lines.push(meta)
-  if (paper.tags?.length) lines.push(paper.tags.join(' / '))
 
   const pico = paper.pico || {}
   const isPECO = pico.framework === 'PECO'
@@ -352,10 +352,11 @@ function buildShareText(paper) {
     if (nntVal != null) lines.push(`NNT: ${nntVal}`)
   }
 
-  const summary = paper.key_results || paper.abstract_ja
-  if (summary) { lines.push(''); lines.push('要点:'); lines.push(summary) }
-
-  if (paper.pmid) { lines.push(''); lines.push(`PubMed: https://pubmed.ncbi.nlm.nih.gov/${paper.pmid}/`) }
+  if (paper.pmid) {
+    lines.push('')
+    lines.push(`PMID: ${paper.pmid}`)
+    lines.push(`PubMed: https://pubmed.ncbi.nlm.nih.gov/${paper.pmid}/`)
+  }
   return lines.join('\n')
 }
 
