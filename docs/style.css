@@ -223,6 +223,19 @@ body {
   padding: 12px 16px;
 }
 
+.detail-share-btn {
+  margin-left: auto;
+  background: none;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  font-size: 14px;
+  color: var(--blue);
+  font-weight: 500;
+  cursor: pointer;
+  padding: 6px 12px;
+}
+.detail-share-btn:active { background: var(--bg); }
+
 .back-btn {
   background: none;
   border: none;

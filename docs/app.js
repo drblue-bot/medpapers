@@ -7,6 +7,7 @@ let filteredPapers = []
 let activeTags = new Set()
 let searchQuery = ''
 let sortMode = localStorage.getItem('mp_sort') || 'added'
+let currentDetailPaper = null
 
 // ── DOM ───────────────────────────────────────────────
 const appEl         = document.getElementById('app')
@@ -19,6 +20,7 @@ const paperList     = document.getElementById('paper-list')
 const detailView    = document.getElementById('detail-view')
 const detailContent = document.getElementById('detail-content')
 const backBtn       = document.getElementById('back-btn')
+const shareBtn      = document.getElementById('detail-share-btn')
 const toast         = document.getElementById('toast')
 
 // ── Service Worker ────────────────────────────────────
@@ -209,6 +211,7 @@ function renderList() {
 
 // ── Detail View ───────────────────────────────────────
 function showDetail(paper) {
+  currentDetailPaper = paper
   appEl.style.display = 'none'
   detailView.style.display = 'flex'
   detailView.style.flexDirection = 'column'
@@ -323,6 +326,63 @@ backBtn.addEventListener('click', () => {
   detailView.style.display = 'none'
   appEl.style.display = 'flex'
 })
+
+// ── 共有 ──────────────────────────────────────────────
+function buildShareText(paper) {
+  const lines = []
+  lines.push(`【${paper.title_ja || paper.title || '無題'}】`)
+  if (paper.title_ja && paper.title) lines.push(paper.title)
+  const meta = [paper.journal, paper.year, paper.authors].filter(Boolean).join(' · ')
+  if (meta) lines.push(meta)
+  if (paper.tags?.length) lines.push(paper.tags.join(' / '))
+
+  const pico = paper.pico || {}
+  const isPECO = pico.framework === 'PECO'
+  const picoRows = [
+    ['P', jaOnly(pico.P)],
+    [isPECO ? 'E' : 'I', jaOnly(isPECO ? (pico.E || pico.I) : pico.I)],
+    ['C', jaOnly(pico.C)],
+    ['O', jaOnly(pico.O)],
+  ].filter(([, v]) => v)
+  if (picoRows.length) {
+    lines.push('')
+    lines.push(`[${pico.framework || 'PICO'}]`)
+    picoRows.forEach(([k, v]) => lines.push(`${k}: ${v}`))
+    const nntVal = paper.nnt ?? (pico.significant !== false ? pico.NNT : null)
+    if (nntVal != null) lines.push(`NNT: ${nntVal}`)
+  }
+
+  const summary = paper.key_results || paper.abstract_ja
+  if (summary) { lines.push(''); lines.push('要点:'); lines.push(summary) }
+
+  if (paper.pmid) { lines.push(''); lines.push(`PubMed: https://pubmed.ncbi.nlm.nih.gov/${paper.pmid}/`) }
+  return lines.join('\n')
+}
+
+if (shareBtn) {
+  shareBtn.addEventListener('click', async () => {
+    const paper = currentDetailPaper
+    if (!paper) return
+    const text = buildShareText(paper)
+    const title = paper.title_ja || paper.title || 'MedPapers'
+    // ネイティブ共有シート（iOS Safari等）
+    if (navigator.share) {
+      try {
+        await navigator.share({ title, text })
+        return
+      } catch (e) {
+        if (e && e.name === 'AbortError') return // ユーザーがキャンセル
+      }
+    }
+    // フォールバック: クリップボードへコピー
+    try {
+      await navigator.clipboard.writeText(text)
+      showToast('📋 コピーしました')
+    } catch {
+      showToast('共有に対応していません')
+    }
+  })
+}
 
 // ── Utils ─────────────────────────────────────────────
 function esc(str) {
