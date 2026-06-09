@@ -1,6 +1,62 @@
 {
-  "exported_at": "2026-06-09T05:49:31.721Z",
+  "exported_at": "2026-06-09T07:18:05.684Z",
   "papers": [
+    {
+      "id": 22,
+      "title": "Glycaemic control and pregnancy outcomes with real-time continuous glucose monitoring in gestational diabetes (GRACE): an open-label, multicentre, multinational, randomised controlled trial",
+      "title_ja": "妊娠糖尿病女性においてリアルタイム持続血糖モニタリングが巨大児出生を有意に減少させることを示したオープンラベル、多施設共同、ランダム化比較試験",
+      "journal": "Lancet Diabetes Endocrinol",
+      "year": 2026,
+      "authors": "Linder T, Dressler-Steinbach I, et al.",
+      "tags": [
+        "RCT",
+        "糖尿病",
+        "生殖器",
+        "デバイス治療"
+      ],
+      "abstract_en": "Background Data regarding the impact of real-time continuous glucose monitoring (rt-CGM) on reducing adverse pregnancy outcomes in women with gestational diabetes are contradictory. We aimed to assess differences in the proportion of large-for-gestational-age (LGA) newborns between women using rt-CGM versus self-monitoring of blood glucose (SMBG).\nMethods For this open-label, parallel-group, multicentre, randomised controlled trial, women aged 18-55 years with singleton pregnancy and gestational diabetes (diagnosed according to the International Association of the Diabetes and Pregnancy Study Groups criteria), were randomly assigned (1:1) to rt-CGM or SMBG. The first allocation was by chance; for subsequent allocations, minimisation was used to balance three prespecified factors: gestational age at study entry, previous gestational diabetes, and preconceptional BMI. SMBG participants used blinded CGM for 10 days after randomisation and at 36–38 weeks; rt-CGM participants used open rt-CGM until delivery. All were managed according to standard care protocols in four university hospitals in Austria, Germany, and Switzerland. The primary endpoint was the proportion of LGA newborns (using the Perinatal Institute's GROW customised birthweight percentiles), assessed in the intention-to-treat population. Secondary endpoints included the requirement for glucose-lowering medication, CGM metrics, and non-glycaemic maternal and neonatal outcomes. Recruitment and follow-up are complete. This study is registered with ClinicalTrials.gov (NCT03981328).\nFindings Between Aug 24, 2020, and May 30, 2024, 610 women were screened for eligibility, of whom 375 (diagnosed with gestational diabetes at a mean of 25.2 weeks [SD 2.3] of gestation), were randomly assigned to rt-CGM (n=190) or SMBG (n=185) at a mean of 28.6 weeks (SD 1.9) of gestation. 170 intervention and 175 control participants with available data were assessed for the primary endpoint. LGA neonates were born to six (4%) of 170 rt-CGM and 18 (10%) of 175 SMBG participants (OR 0.32, 95% CI 0.10-0.87, p=0.014). Small-for-gestational-age (SGA) neonates were born to 33 (19%) and 23 (13%) participants, respectively (OR 1.59, 0.86-2.99, p=0.11). Serious adverse events occurred in 23 (12%) of 190 versus 28 (15%) of 185 participants (OR 0.77, 0.42-1.40, p=0.39).\nInterpretation rt-CGM use in women with gestational diabetes reduced LGA births, without differences in serious adverse events. The higher-than-expected overall prevalence of SGA infants, possibly related to the tight glycaemic control in our cohort, requires further research.",
+      "abstract_ja": null,
+      "abstract_sections": [
+        {
+          "label": "背景",
+          "label_en": "Background",
+          "content": "妊娠糖尿病女性におけるリアルタイム持続血糖モニタリング（rt-CGM）が有害な妊娠アウトカムを減少させる効果に関するデータは矛盾している。本研究では、rt-CGM使用女性と自己血糖測定（SMBG）使用女性の間で巨大児（LGA）出生の割合に差があるかを評価することを目的とした。",
+          "content_en": "Data regarding the impact of real-time continuous glucose monitoring (rt-CGM) on reducing adverse pregnancy outcomes in women with gestational diabetes are contradictory. We aimed to assess differences in the proportion of large-for-gestational-age (LGA) newborns between women using rt-CGM versus self-monitoring of blood glucose (SMBG)."
+        },
+        {
+          "label": "方法",
+          "label_en": "Methods",
+          "content": "このオープンラベル、並行群間、多施設共同、ランダム化比較試験では、単胎妊娠で妊娠糖尿病と診断された（国際糖尿病・妊娠研究グループ基準による）18～55歳の女性をrt-CGM群またはSMBG群に1：1の比率でランダムに割り付けた。最初の割り付けは無作為であり、その後の割り付けには、研究開始時の妊娠週数、以前の妊娠糖尿病歴、妊娠前のBMIという3つの事前指定因子をバランスさせるために最小化法が用いられた。SMBG参加者はランダム化後および妊娠36～38週に盲検CGMを10日間使用し、rt-CGM参加者は出産までオープンrt-CGMを使用した。全参加者は、オーストリア、ドイツ、スイスの4つの大学病院で標準的なケアプロトコルに従って管理された。主要評価項目は、Perinatal InstituteのGROWカスタマイズ出生時体重パーセンタイルを用いたLGA新生児の割合で、intention-to-treat集団で評価された。副次評価項目には、血糖降下薬の必要性、CGM指標、非血糖関連の母体および新生児アウトカムが含まれた。募集と追跡調査は完了している。本研究はClinicalTrials.gov（NCT03981328）に登録されている。",
+          "content_en": "For this open-label, parallel-group, multicentre, randomised controlled trial, women aged 18-55 years with singleton pregnancy and gestational diabetes (diagnosed according to the International Association of the Diabetes and Pregnancy Study Groups criteria), were randomly assigned (1:1) to rt-CGM or SMBG. The first allocation was by chance; for subsequent allocations, minimisation was used to balance three prespecified factors: gestational age at study entry, previous gestational diabetes, and preconceptional BMI. SMBG participants used blinded CGM for 10 days after randomisation and at 36–38 weeks; rt-CGM participants used open rt-CGM until delivery. All were managed according to standard care protocols in four university hospitals in Austria, Germany, and Switzerland. The primary endpoint was the proportion of LGA newborns (using the Perinatal Institute's GROW customised birthweight percentiles), assessed in the intention-to-treat population. Secondary endpoints included the requirement for glucose-lowering medication, CGM metrics, and non-glycaemic maternal and neonatal outcomes. Recruitment and follow-up are complete. This study is registered with ClinicalTrials.gov (NCT03981328)."
+        },
+        {
+          "label": "結果",
+          "label_en": "Findings",
+          "content": "2020年8月24日から2024年5月30日までに、適格性審査のため610人の女性がスクリーニングされ、そのうち375人（平均妊娠25.2週[SD 2.3]で妊娠糖尿病と診断）が平均妊娠28.6週[SD 1.9]でrt-CGM群（n=190）またはSMBG群（n=185）にランダムに割り付けられた。データが得られた介入群170人および対照群175人の参加者が主要評価項目の評価対象となった。LGA新生児は、rt-CGM群170人のうち6人（4%）とSMBG群175人のうち18人（10%）に生まれた（OR 0.32、95% CI 0.10-0.87、p=0.014）。在胎不当過小児（SGA）新生児は、それぞれ33人（19%）と23人（13%）に生まれた（OR 1.59、0.86-2.99、p=0.11）。重篤な有害事象は、rt-CGM群190人のうち23人（12%）とSMBG群185人のうち28人（15%）に発生した（OR 0.77、0.42-1.40、p=0.39）。",
+          "content_en": "Between Aug 24, 2020, and May 30, 2024, 610 women were screened for eligibility, of whom 375 (diagnosed with gestational diabetes at a mean of 25.2 weeks [SD 2.3] of gestation), were randomly assigned to rt-CGM (n=190) or SMBG (n=185) at a mean of 28.6 weeks (SD 1.9) of gestation. 170 intervention and 175 control participants with available data were assessed for the primary endpoint. LGA neonates were born to six (4%) of 170 rt-CGM and 18 (10%) of 175 SMBG participants (OR 0.32, 95% CI 0.10-0.87, p=0.014). Small-for-gestational-age (SGA) neonates were born to 33 (19%) and 23 (13%) participants, respectively (OR 1.59, 0.86-2.99, p=0.11). Serious adverse events occurred in 23 (12%) of 190 versus 28 (15%) of 185 participants (OR 0.77, 0.42-1.40, p=0.39)."
+        },
+        {
+          "label": "結論",
+          "label_en": "Interpretation",
+          "content": "妊娠糖尿病女性におけるrt-CGMの使用は、重篤な有害事象に差がないままLGA出生を減少させた。SGA乳児の全体的な有病率が予想よりも高かったことは、本コホートにおける厳格な血糖コントロールに関連している可能性があり、さらなる研究が必要となる。",
+          "content_en": "rt-CGM use in women with gestational diabetes reduced LGA births, without differences in serious adverse events. The higher-than-expected overall prevalence of SGA infants, possibly related to the tight glycaemic control in our cohort, requires further research."
+        }
+      ],
+      "pico": {
+        "framework": "PICO",
+        "P": "単胎妊娠で妊娠糖尿病と診断された18～55歳の女性",
+        "I": "リアルタイム持続血糖モニタリング (rt-CGM)",
+        "C": "自己血糖測定 (SMBG)",
+        "O": "主要評価項目：巨大児（LGA）新生児の割合。rt-CGM群6人（4%） vs SMBG群18人（10%）（OR 0.32、95% CI 0.10-0.87、p=0.014）。",
+        "NNT": 16.7,
+        "significant": true
+      },
+      "key_results": null,
+      "nnt": null,
+      "memo": null,
+      "pmid": null,
+      "updated_at": "2026-06-09 07:18:03"
+    },
     {
       "id": 21,
       "title": "Glycaemic control and pregnancy outcomes with real-time continuous glucose monitoring in gestational diabetes (GRACE): an open-label, multicentre, multinational, randomised controlled trial",
@@ -52,7 +108,10 @@
         "significant": true
       },
       "key_results": null,
-      "nnt": null
+      "nnt": null,
+      "memo": null,
+      "pmid": null,
+      "updated_at": "2026-06-09 06:08:41"
     },
     {
       "id": 20,
@@ -107,7 +166,10 @@
         "significant": true
       },
       "key_results": null,
-      "nnt": null
+      "nnt": null,
+      "memo": null,
+      "pmid": null,
+      "updated_at": "2026-06-08 01:06:32"
     },
     {
       "id": 19,
@@ -178,7 +240,10 @@
         "significant": true
       },
       "key_results": null,
-      "nnt": null
+      "nnt": null,
+      "memo": "　甲状腺ホルモン製剤であるレボチロキシンは、60歳以上の甲状腺機能低下症では一般に生涯にわたって継続投与されるが、長期の投与が常に必要かは定かでないという。オランダ・ライデン大学医療センターのJanneke Ravensberg氏らは、安定用量のレボチロキシンの投与を1年以上受けていた甲状腺機能低下症の60歳以上の集団では、その約4分の1が、投与中止から1年後も適切な甲状腺機能を維持し、甲状腺関連の生活の質（QOL）にも臨床的に意義のある変化を認めないことを示した。研究の成果は、JAMA誌オンライン版2026年4月6日号で報告された。<br><br><b><font size=\"3\">オランダのプライマリケアの単群前向きコホート研究</font></b><br>　研究グループは、レボチロキシンの投与を受けている甲状腺機能低下症の年齢60歳以上の集団における投与中止の成功率を明らかにする目的で、オランダの58の一般診療施設で非盲検単群前向きコホート研究を実施した（ZonMwの助成を受けた）。2020年1月～2022年7月に被験者の登録を行った。<br>　対象は、少なくとも1年間、安定用量（150μg/日以下）のレボチロキシンの投与を受け、甲状腺刺激ホルモン（TSH）値が10mIU/L未満の60歳以上の地域在住者とした。<br>　レボチロキシンの用量を段階的に減量し、各減量時から少なくとも6週間が経過した後に甲状腺機能検査を行った。<br>　主要アウトカムは、レボチロキシンの投与を中止して1年後に、投与中止を継続しており、かつTSH値が10mIU/L未満で、遊離サイロキシン値が基準値の範囲内にある被験者の割合であった。<br><br>投与量が少ないほど、中止の成功率が高い<br>　370例を登録した。ベースラインの年齢中央値は70.5歳（四分位範囲[IQR]：65.7～75.7、範囲：60.6～89.0）で、294例（79.5％）が女性であった。平均レボチロキシン投与量は84（SD 31）μg/日であり、TSH値中央値は2.2mIU/L（IQR：1.1～3.5、範囲：0.02～9.69）、平均遊離サイロキシン値は1.21（SD 0.18）ng/dLであった。このうち366例が1年後の最終追跡調査を完了した。<br>　370例中95例（25.7％、95％信頼区間[CI]：21.5～30.4）が、1年後の時点でレボチロキシンの投与中止を継続しており、その時点のTSH値中央値は5.03mIU/L（範囲：1.56～9.40）、平均遊離サイロキシン値は1.01ng/dL（範囲：0.80～1.43）であった。<br>　レボチロキシンの投与中止に成功した95例のうち、46例（48.4％、95％CI：38.6～58.3）の1年後のTSH値は4.8mIU/L未満であった。<br>　また、ベースラインのレボチロキシン投与量が少ないほど、投与中止の成功率が高かった。レボチロキシン50μg/日以下の投与を受けていた88例のうち、56例（63.6％）がこの治療の中止に成功し、75μg/日以下の投与を受けていた176例では、79例（44.9％）が中止の成功に至った。<br><br>介入に関連した重篤な有害事象はない<br>　甲状腺関連QOLは、ベースラインからその後1年の時点まで、全体として臨床的に意義のある変化を認めなかった。また、レボチロキシン中止の成功例と不成功例に層別化しても、QOLの差が臨床的に意義のある最小変化量（MCID）を超えることはなかった。<br><br>　平均12.9ヵ月の追跡期間中に、16例に17件の重篤な有害事象（予定外の入院15件、死亡2件）が発現したが、試験介入に関連したものはなかった。<br>　著者は、「60歳以上、とくにレボチロキシン50μg/日以下の投与を受けている患者において、レボチロキシン治療の継続の必要性について評価を行うべきである」としている。",
+      "pmid": null,
+      "updated_at": "2026-06-09 06:38:04"
     },
     {
       "id": 18,
@@ -232,7 +297,10 @@
         "significant": true
       },
       "key_results": null,
-      "nnt": null
+      "nnt": null,
+      "memo": null,
+      "pmid": null,
+      "updated_at": "2026-06-01 09:13:35"
     }
   ]
 }
