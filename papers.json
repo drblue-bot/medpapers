@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-06-18T03:02:24.275Z",
+  "exported_at": "2026-06-18T03:03:17.199Z",
   "papers": [
     {
       "id": 27,
@@ -12,7 +12,8 @@
         "RCT",
         "糖尿病",
         "内分泌",
-        "デバイス治療"
+        "デバイス治療",
+        "GDM"
       ],
       "abstract_en": "Background: Data regarding the impact of real-time continuous glucose monitoring (rt-CGM) on reducing adverse pregnancy outcomes in women with gestational diabetes are contradictory. We aimed to assess differences in the proportion of large-for-gestational-age (LGA) newborns between women using rt-CGM versus self-monitoring of blood glucose (SMBG).\nMethods: For this open-label, parallel-group, multicentre, randomised controlled trial, women aged 18–55 years with singleton pregnancy and gestational diabetes (diagnosed according to the International Association of the Diabetes and Pregnancy Study Groups criteria), were randomly assigned (1:1) to rt-CGM or SMBG. The first allocation was by chance; for subsequent allocations, minimisation was used to balance three prespecified factors: gestational age at study entry, previous gestational diabetes, and preconceptional BMI. SMBG participants used blinded CGM for 10 days after randomisation and at 36–38 weeks; rt-CGM participants used open rt-CGM until delivery. All were managed according to standard care protocols in four university hospitals in Austria, Germany, and Switzerland. The primary endpoint was the proportion of LGA newborns (using the Perinatal Institute’s GROW customised birthweight percentiles), assessed in the intention-to-treat population. Secondary endpoints included the requirement for glucose lowering medication, CGM metrics, and non-glycaemic maternal and neonatal outcomes. Recruitment and follow-up are complete. This study is registered with ClinicalTrials.gov (NCT03981328).\nFindings: Between Aug 24, 2020, and May 30, 2024, 610 women were screened for eligibility, of whom 375 (diagnosed with gestational diabetes at a mean of 25·2weeks [SD 2·3] of gestation), were randomly assigned to rt-CGM (n=190) or SMBG (n=185) at a mean of 28·6 weeks (SD 1·9) of gestation. 170 intervention and 175 control participants with available data were assessed for the primary endpoint. LGA neonates were born to six (4%) of 170 rt-CGM and 18 (10%) of 175 SMBG participants (OR 0·32, 95% CI 0·10–0·87, p=0·014). Small-for-gestational-age (SGA) neonates were born to 33 (19%) and 23 (13%) participants, respectively (OR 1·59, 0·86–2·99, p=0·11). Serious adverse events occurred in 23 (12%) of 190 versus 28 (15%) of 185 participants (OR 0·77, 0·42–1·40, p=0·39).\nInterpretation: rt-CGM use in women with gestational diabetes reduced LGA births, without differences in serious adverse events. The higher-than-expected overall prevalence of SGA infants, possibly related to the tight glycaemic control in our cohort, requires further research.",
       "abstract_ja": null,
@@ -55,7 +56,7 @@
       "nnt": null,
       "memo": null,
       "pmid": "41308662",
-      "updated_at": "2026-06-18 03:02:22"
+      "updated_at": "2026-06-18 03:03:17"
     }
   ]
 }
