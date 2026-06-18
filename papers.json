@@ -1,6 +1,62 @@
 {
-  "exported_at": "2026-06-18T03:03:17.199Z",
+  "exported_at": "2026-06-18T03:07:46.337Z",
   "papers": [
+    {
+      "id": 28,
+      "title": "Routine vs Selective Calcium Supplementation After Total Thyroidectomy: A Randomized Clinical Trial",
+      "title_ja": "甲状腺全摘術後のカルシウム補充において、PTH値を指標とした選択的投与はルーチン投与と比較して非劣性ではない",
+      "journal": "JAMA Otolaryngology–Head & Neck Surgery",
+      "year": 2026,
+      "authors": "Garcia-Lozano C, Betancourt C, Sanchez JG, et al.",
+      "tags": [
+        "RCT",
+        "甲状腺疾患",
+        "内分泌",
+        "手術・処置"
+      ],
+      "abstract_en": "IMPORTANCE Postoperative hypocalcemia is the most frequent complication after total thyroidectomy. Prophylactic supplementation with calcium and calcitriol (C+C) is widely used, but selective administration based on early postoperative parathyroid hormone (PTH) levels may reduce overtreatment.\nOBJECTIVE To compare the incidence of symptomatic and biochemical hypocalcemia with routine prophylactic C+C and selective supplementation guided by postoperative PTH levels.\nDESIGN, SETTINGS, AND PARTICIPANTS This was a multicenter, pragmatic, randomized clinical trial conducted from June 1, 2022, to July 31, 2024, at 3 tertiary hospitals with adult patients undergoing total thyroidectomy for benign or malignant disease.\nINTERVENTIONS Selective supplementation when 4-hour postoperative PTH level was less than 15 pg/mL (PTH group) or routine prophylactic C+C for 15 days (C+C group).\nRESULTS The analysis included a total of 258 participants; the PTH group comprised 117 patients and the C+C group, 141 patients. Symptomatic hypocalcemia occurred in 24 patients overall (9.3%), 11 (7.8%) in PTH group and 13 (11.1%) in C+C group (odds ratio [OR], 0.68; 95% CI, 0.29-1.57; P = .36). In the subgroup with complete biochemical data, biochemical hypocalcemia was observed in 29 of 148 participants (16 in PTH [21.6%] and 13 in C+C [17.6%]) (OR, 1.29; 95% CI, 0.57-2.93; P = .53). The PTH group needed less calcium supplementation.\nCONCLUSIONS AND RELEVANCE This randomized clinical trial found that selective calcium supplementation based on postoperative PTH values was not superior to routine calcium supplementation for preventing symptomatic or biochemical hypocalcemia after total thyroidectomy. Either strategy may be used, with choice depending on resource availability and clinical setting.",
+      "abstract_ja": null,
+      "abstract_sections": [
+        {
+          "label": "背景",
+          "label_en": "Importance",
+          "content": "術後低カルシウム血症は甲状腺全摘術後の最も頻度の高い合併症である。カルシウムおよびカルシトリオール（C+C）の予防的投与が広く行われているが、術後早期の副甲状腺ホルモン（PTH）値を指標とした選択的投与により過剰治療を減らせる可能性がある。",
+          "content_en": "Postoperative hypocalcemia is the most frequent complication after total thyroidectomy. Prophylactic supplementation with calcium and calcitriol (C+C) is widely used, but selective administration based on early postoperative parathyroid hormone (PTH) levels may reduce overtreatment."
+        },
+        {
+          "label": "方法",
+          "label_en": "Methods",
+          "content": "良性または悪性疾患のため甲状腺全摘術を受ける成人患者を対象とした多施設共同実用的無作為化比較試験。介入群（PTH群）は術後4時間のPTH値が15pg/mL未満の場合にのみカルシウム補充を行い、対照群（C+C群）は15日間のルーチン予防投与を行った。",
+          "content_en": "This was a multicenter, pragmatic, randomized clinical trial conducted from June 1, 2022, to July 31, 2024, at 3 tertiary hospitals with adult patients undergoing total thyroidectomy for benign or malignant disease. Selective supplementation when 4-hour postoperative PTH level was less than 15 pg/mL (PTH group) or routine prophylactic C+C for 15 days (C+C group)."
+        },
+        {
+          "label": "結果",
+          "label_en": "Results",
+          "content": "258例を解析した。術後15日時点の症候性低カルシウム血症は、PTH群で11例（7.8%）、C+C群で13例（11.1%）であり、有意差は認められなかった（OR 0.68, 95% CI 0.29-1.57, P = .36）。生化学的低カルシウム血症の発生率にも有意差はなかった。PTH群は補充の必要性が少なかった。",
+          "content_en": "The analysis included a total of 258 participants; the PTH group comprised 117 patients and the C+C group, 141 patients. Symptomatic hypocalcemia occurred in 24 patients overall (9.3%), 11 (7.8%) in PTH group and 13 (11.1%) in C+C group (odds ratio [OR], 0.68; 95% CI, 0.29-1.57; P = .36). In the subgroup with complete biochemical data, biochemical hypocalcemia was observed in 29 of 148 participants (16 in PTH [21.6%] and 13 in C+C [17.6%]) (OR, 1.29; 95% CI, 0.57-2.93; P = .53). The PTH group needed less calcium supplementation."
+        },
+        {
+          "label": "結論",
+          "label_en": "Conclusions",
+          "content": "PTH値を指標とした選択的カルシウム補充は、ルーチン補充と比較して術後低カルシウム血症の予防において優越性を示さなかった。いずれの戦略も使用可能であり、医療資源や臨床現場の状況に応じて選択すべきである。",
+          "content_en": "This randomized clinical trial found that selective calcium supplementation based on postoperative PTH values was not superior to routine calcium supplementation for preventing symptomatic or biochemical hypocalcemia after total thyroidectomy. Either strategy may be used, with choice depending on resource availability and clinical setting."
+        }
+      ],
+      "pico": {
+        "framework": "PICO",
+        "P": "甲状腺全摘術を受ける成人患者",
+        "I": "術後PTH値に基づく選択的カルシウム・カルシトリオール補充",
+        "C": "ルーチンでのカルシウム・カルシトリオール予防投与",
+        "O": "術後15日時点の症候性低カルシウム血症発生率（PTH群 7.8% vs C+C群 11.1%, OR 0.68, 95% CI 0.29-1.57, P = .36）",
+        "NNT": null,
+        "significant": false
+      },
+      "key_results": null,
+      "nnt": null,
+      "memo": null,
+      "pmid": "41712216",
+      "updated_at": "2026-06-18 03:07:44"
+    },
     {
       "id": 27,
       "title": "Glycaemic control and pregnancy outcomes with real-time continuous glucose monitoring in gestational diabetes (GRACE): an open-label, multicentre, multinational, randomised controlled trial",
