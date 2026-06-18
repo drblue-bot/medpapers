@@ -1,4 +1,61 @@
 {
-  "exported_at": "2026-06-18T03:00:01.740Z",
-  "papers": []
+  "exported_at": "2026-06-18T03:02:24.275Z",
+  "papers": [
+    {
+      "id": 27,
+      "title": "Glycaemic control and pregnancy outcomes with real-time continuous glucose monitoring in gestational diabetes (GRACE): an open-label, multicentre, multinational, randomised controlled trial",
+      "title_ja": "妊娠糖尿病の女性においてリアルタイム持続血糖測定（rt-CGM）は、自己血糖測定（SMBG）と比較して巨大児（LGA）の割合を有意に減少させる",
+      "journal": "The Lancet Diabetes & Endocrinology",
+      "year": 2026,
+      "authors": "Linder T, Dressler-Steinbach I, Wegener S, Schellong K, Schmidt S, Eppel D, Monod C, Heinzl F, Redling K, Winzeler B, Mosimann B, Weschenfelder F, Groten T, Mittlböck M, Jendle J, Henrich W, Morettini M, Bozkurt L, Tura A, Göbl C, et al.",
+      "tags": [
+        "RCT",
+        "糖尿病",
+        "内分泌",
+        "デバイス治療"
+      ],
+      "abstract_en": "Background: Data regarding the impact of real-time continuous glucose monitoring (rt-CGM) on reducing adverse pregnancy outcomes in women with gestational diabetes are contradictory. We aimed to assess differences in the proportion of large-for-gestational-age (LGA) newborns between women using rt-CGM versus self-monitoring of blood glucose (SMBG).\nMethods: For this open-label, parallel-group, multicentre, randomised controlled trial, women aged 18–55 years with singleton pregnancy and gestational diabetes (diagnosed according to the International Association of the Diabetes and Pregnancy Study Groups criteria), were randomly assigned (1:1) to rt-CGM or SMBG. The first allocation was by chance; for subsequent allocations, minimisation was used to balance three prespecified factors: gestational age at study entry, previous gestational diabetes, and preconceptional BMI. SMBG participants used blinded CGM for 10 days after randomisation and at 36–38 weeks; rt-CGM participants used open rt-CGM until delivery. All were managed according to standard care protocols in four university hospitals in Austria, Germany, and Switzerland. The primary endpoint was the proportion of LGA newborns (using the Perinatal Institute’s GROW customised birthweight percentiles), assessed in the intention-to-treat population. Secondary endpoints included the requirement for glucose lowering medication, CGM metrics, and non-glycaemic maternal and neonatal outcomes. Recruitment and follow-up are complete. This study is registered with ClinicalTrials.gov (NCT03981328).\nFindings: Between Aug 24, 2020, and May 30, 2024, 610 women were screened for eligibility, of whom 375 (diagnosed with gestational diabetes at a mean of 25·2weeks [SD 2·3] of gestation), were randomly assigned to rt-CGM (n=190) or SMBG (n=185) at a mean of 28·6 weeks (SD 1·9) of gestation. 170 intervention and 175 control participants with available data were assessed for the primary endpoint. LGA neonates were born to six (4%) of 170 rt-CGM and 18 (10%) of 175 SMBG participants (OR 0·32, 95% CI 0·10–0·87, p=0·014). Small-for-gestational-age (SGA) neonates were born to 33 (19%) and 23 (13%) participants, respectively (OR 1·59, 0·86–2·99, p=0·11). Serious adverse events occurred in 23 (12%) of 190 versus 28 (15%) of 185 participants (OR 0·77, 0·42–1·40, p=0·39).\nInterpretation: rt-CGM use in women with gestational diabetes reduced LGA births, without differences in serious adverse events. The higher-than-expected overall prevalence of SGA infants, possibly related to the tight glycaemic control in our cohort, requires further research.",
+      "abstract_ja": null,
+      "abstract_sections": [
+        {
+          "label": "背景",
+          "label_en": "Background",
+          "content": "妊娠糖尿病の女性において、リアルタイム持続血糖測定（rt-CGM）が妊娠悪影響の減少に及ぼす影響に関するデータは矛盾している。我々は、rt-CGMを使用する女性と自己血糖測定（SMBG）を使用する女性との間で、妊娠週数に比して大きい（LGA）新生児の割合の差を評価することを目的とした。",
+          "content_en": "Data regarding the impact of real-time continuous glucose monitoring (rt-CGM) on reducing adverse pregnancy outcomes in women with gestational diabetes are contradictory. We aimed to assess differences in the proportion of large-for-gestational-age (LGA) newborns between women using rt-CGM versus self-monitoring of blood glucose (SMBG)."
+        },
+        {
+          "label": "方法",
+          "label_en": "Methods",
+          "content": "このオープンラベル、並行群間、多施設、ランダム化比較試験では、単胎妊娠で妊娠糖尿病（国際糖尿病・妊娠研究グループ連合の基準に従って診断）の18〜55歳の女性を、rt-CGM群またはSMBG群に（1:1）の割合でランダムに割り付けた。最初の割り付けは確率的に行われ、それ以降の割り付けでは、試験登録時の妊娠週数、過去の妊娠糖尿病の有無、受胎前BMIの3つの事前規定因子をバランスさせるために最小化法が用いられた。SMBG群の参加者は、ランダム化後10日間および妊娠36〜38週目に盲検化CGMを使用し、rt-CGM群の参加者は分娩まで非盲検rt-CGMを使用した。全員がオーストリア、ドイツ、スイスの4つの大学病院における標準治療プロトコルに従って管理された。主要エンドポイントは、意図治療（ITT）集団において評価された、Perinatal InstituteのGROWカスタマイズ出生体重パーセンタイルを用いたLGA新生児の割合であった。副次エンドポイントには、血糖降下薬の必要性、CGM指標、および非血糖に関連する母体および新生児のアウトカムが含まれた。リクルートおよびフォローアップは完了している。本試験はClinicalTrials.gov（NCT03981328）に登録されている。",
+          "content_en": "For this open-label, parallel-group, multicentre, randomised controlled trial, women aged 18–55 years with singleton pregnancy and gestational diabetes (diagnosed according to the International Association of the Diabetes and Pregnancy Study Groups criteria), were randomly assigned (1:1) to rt-CGM or SMBG. The first allocation was by chance; for subsequent allocations, minimisation was used to balance three prespecified factors: gestational age at study entry, previous gestational diabetes, and preconceptional BMI. SMBG participants used blinded CGM for 10 days after randomisation and at 36–38 weeks; rt-CGM participants used open rt-CGM until delivery. All were managed according to standard care protocols in four university hospitals in Austria, Germany, and Switzerland. The primary endpoint was the proportion of LGA newborns (using the Perinatal Institute’s GROW customised birthweight percentiles), assessed in the intention-to-treat population. Secondary endpoints included the requirement for glucose lowering medication, CGM metrics, and non-glycaemic maternal and neonatal outcomes. Recruitment and follow-up are complete. This study is registered with ClinicalTrials.gov (NCT03981328)."
+        },
+        {
+          "label": "結果",
+          "label_en": "Findings",
+          "content": "2020年8月24日から2024年5月30日の間に、610人の女性が適格性をスクリーニングされ、そのうち妊娠糖尿病と診断された375人（平均妊娠週数25.2週［SD 2.3］）が、平均妊娠週数28.6週（SD 1.9）でrt-CGM群（n=190）またはSMBG群（n=185）にランダムに割り付けられた。データが利用可能であった介入群170人と対照群175人が主要エンドポイントについて評価された。LGA新生児は、rt-CGM群の170人中6人（4%）およびSMBG群の175人中18人（10%）に生まれた（OR 0.32, 95% CI 0.10–0.87, p=0.014）。妊娠週数に比して小さい（SGA）新生児は、それぞれ33人（19%）および23人（13%）に生まれた（OR 1.59, 0.86–2.99, p=0.11）。重篤な有害事象は、190人中23人（12%）対185人中28人（15%）で発生した（OR 0.77, 0.42–1.40, p=0.39）。",
+          "content_en": "Between Aug 24, 2020, and May 30, 2024, 610 women were screened for eligibility, of whom 375 (diagnosed with gestational diabetes at a mean of 25·2weeks [SD 2·3] of gestation), were randomly assigned to rt-CGM (n=190) or SMBG (n=185) at a mean of 28·6 weeks (SD 1·9) of gestation. 170 intervention and 175 control participants with available data were assessed for the primary endpoint. LGA neonates were born to six (4%) of 170 rt-CGM and 18 (10%) of 175 SMBG participants (OR 0·32, 95% CI 0·10–0·87, p=0·014). Small-for-gestational-age (SGA) neonates were born to 33 (19%) and 23 (13%) participants, respectively (OR 1·59, 0·86–2·99, p=0·11). Serious adverse events occurred in 23 (12%) of 190 versus 28 (15%) of 185 participants (OR 0·77, 0·42–1·40, p=0·39)."
+        },
+        {
+          "label": "結論",
+          "label_en": "Interpretation",
+          "content": "妊娠糖尿病女性におけるrt-CGMの使用は、重篤な有害事象に差を認めることなく、LGA児の誕生を減少させた。SGA児の全体的な有病率が予想以上に高かったことは、本コホートにおける厳格な血糖管理に関連している可能性があり、さらなる研究が必要である。",
+          "content_en": "rt-CGM use in women with gestational diabetes reduced LGA births, without differences in serious adverse events. The higher-than-expected overall prevalence of SGA infants, possibly related to the tight glycaemic control in our cohort, requires further research."
+        }
+      ],
+      "pico": {
+        "framework": "PICO",
+        "P": "妊娠糖尿病と診断された18〜55歳の単胎妊娠の女性（375人、ランダム化時の平均妊娠週数28.6週）",
+        "I": "分娩までリアルタイム持続血糖測定（rt-CGM、Dexcom G6 Pro）を継続的に使用する血糖管理管理",
+        "C": "自己血糖測定（SMBG、1日4回測定）による標準的な治療管理",
+        "O": "主要アウトカム：妊娠週数に比して大きい（LGA）新生児の割合。rt-CGM群で4%（6/170人）対 SMBG群で10%（18/175人）であり、rt-CGMの使用によりLGA新生児の割合が有意に減少した（OR 0.32, 95% CI 0.10–0.87, p=0.014）。",
+        "significant": true,
+        "NNT": 14.8
+      },
+      "key_results": null,
+      "nnt": null,
+      "memo": null,
+      "pmid": "41308662",
+      "updated_at": "2026-06-18 03:02:22"
+    }
+  ]
 }
