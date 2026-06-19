@@ -1,6 +1,68 @@
 {
-  "exported_at": "2026-06-19T05:10:37.122Z",
+  "exported_at": "2026-06-19T05:14:02.641Z",
   "papers": [
+    {
+      "id": 32,
+      "title": "Discontinuation of Levothyroxine in Adults Aged 60 Years or Older",
+      "title_ja": "60歳以上の成人におけるレボチロキシン休薬の妥当性に関する検討",
+      "journal": "JAMA",
+      "year": 2026,
+      "authors": "Ravensberg J, Gussekloo J, Le Cessie S, Dekkers OM, Mooijaart SP, Poortvliet RKE.",
+      "tags": [
+        "コホート研究",
+        "甲状腺疾患",
+        "内分泌",
+        "薬物療法"
+      ],
+      "abstract_en": "IMPORTANCE Many adults aged 60 years or older take the thyroid hormone levothyroxine, which is generally continued for life. However, it is uncertain whether long-term continuation is always necessary.\nOBJECTIVE To determine the percentage of adults aged 60 years or older who can successfully discontinue levothyroxine treatment.\nDESIGN, SETTING, AND PARTICIPANTS This single-group, prospective study included community-dwelling adults aged 60 years or older who were taking levothyroxine at a stable dosage (≤150 μg/d) for at least 1 year and had a thyrotropin (TSH) level of less than 10 mIU/L. The study was conducted at 58 general practices in the Netherlands. Participants were enrolled between January 2020 and July 2022 and final follow-up occurred on December 12, 2023.\nINTERVENTIONS Open-label, protocol-driven, stepwise dose reduction with thyroid function testing performed at least 6 weeks after each reduction in levothyroxine dose.\nMAIN OUTCOMES AND MEASURES The primary outcome was the proportion of participants who discontinued levothyroxine and had both a thyrotropin level of less than 10 mIU/L and a free thyroxine level within the reference range at 1 year after the start of discontinuation.\nRESULTS Of the 370 participants who started the levothyroxine discontinuation phase (median age, 70 [range, 60-89] years; 80% female; median thyrotropin level, 2.2 [range, 0.02-9.69] mIU/L; mean free thyroxine level, 1.21 [SD, 0.18] ng/dL), 366 completed final follow-up at 1 year. Of the 370 participants (median levothyroxine dose at baseline, 50 [range, 12.5-150] μg/d), 95 (25.7% [95% CI, 21.5%-30.4%]) successfully stopped taking levothyroxine and had a median thyrotropin level of 5.03 mIU/L (range, 1.56-9.40 mIU/L) and a mean free thyroxine level of 1.01 ng/dL (range, 0.80-1.43 ng/dL) at 1 year. Among the 88 participants taking a levothyroxine dose of 50 μg/d or lower, 56 (63.6%) successfully discontinued this treatment.\nCONCLUSIONS AND RELEVANCE In this open-label, single-group prospective study, 25.7% of adults aged 60 years or older discontinued levothyroxine treatment while maintaining adequate thyroid function at 1 year. Evaluation of the need to continue levothyroxine should be considered in adults aged 60 years or older, particularly in those taking a dose of 50 μg/d or lower.",
+      "abstract_ja": null,
+      "abstract_sections": [
+        {
+          "label": "背景",
+          "label_en": "IMPORTANCE",
+          "content": "60歳以上の多くの成人がレボチロキシンを服用しているが、その長期継続の必要性については不透明である。",
+          "content_en": "Many adults aged 60 years or older take the thyroid hormone levothyroxine, which is generally continued for life. However, it is uncertain whether long-term continuation is always necessary."
+        },
+        {
+          "label": "目的",
+          "label_en": "OBJECTIVE",
+          "content": "レボチロキシン治療を中止できる60歳以上の成人の割合を明らかにすること。",
+          "content_en": "To determine the percentage of adults aged 60 years or older who can successfully discontinue levothyroxine treatment."
+        },
+        {
+          "label": "方法",
+          "label_en": "DESIGN, SETTING, AND PARTICIPANTS",
+          "content": "オランダの58の一般診療所で行われた単群のプロスペクティブ研究。安定した用量のレボチロキシンを1年以上服用し、TSH値が10 mIU/L未満の60歳以上の地域在住成人を対象とした。プロトコルに基づいた段階的な減量を行い、6週間以上の間隔で甲状腺機能を測定した。",
+          "content_en": "This single-group, prospective study included community-dwelling adults aged 60 years or older who were taking levothyroxine at a stable dosage (≤150 μg/d) for at least 1 year and had a thyrotropin (TSH) level of less than 10 mIU/L. The study was conducted at 58 general practices in the Netherlands. Open-label, protocol-driven, stepwise dose reduction with thyroid function testing performed at least 6 weeks after each reduction in levothyroxine dose."
+        },
+        {
+          "label": "結果",
+          "label_en": "RESULTS",
+          "content": "370例が開始し、366例が1年後のフォローアップを完了した。95例（25.7%）が治療中止に成功し、1年後も甲状腺機能を維持していた。特にベースライン用量が50 μg/d以下の層では63.6%が中止に成功した。",
+          "content_en": "Of the 370 participants, 95 (25.7% [95% CI, 21.5%-30.4%]) successfully stopped taking levothyroxine and had a median thyrotropin level of 5.03 mIU/L and a mean free thyroxine level of 1.01 ng/dL at 1 year. Among the 88 participants taking a levothyroxine dose of 50 μg/d or lower, 56 (63.6%) successfully discontinued this treatment."
+        },
+        {
+          "label": "結論",
+          "label_en": "CONCLUSIONS AND RELEVANCE",
+          "content": "60歳以上の成人の約4分の1がレボチロキシン治療の中止に成功した。特に低用量（50 μg/d以下）の患者においては、中止を検討すべきである。",
+          "content_en": "In this open-label, single-group prospective study, 25.7% of adults aged 60 years or older discontinued levothyroxine treatment while maintaining adequate thyroid function at 1 year. Evaluation of the need to continue levothyroxine should be considered in adults aged 60 years or older, particularly in those taking a dose of 50 μg/d or lower."
+        }
+      ],
+      "pico": {
+        "framework": "PECO",
+        "P": "安定した用量のレボチロキシンを1年以上服用している60歳以上の地域在住成人",
+        "I": "段階的な減量・中止の試み",
+        "C": "該当なし",
+        "O": "1年後のレボチロキシン中止率（TSH 10 mIU/L未満かつFT4正常値内）：25.7%（95% CI 21.5-30.4%）",
+        "NNT": null,
+        "significant": true
+      },
+      "key_results": null,
+      "nnt": null,
+      "memo": null,
+      "pmid": "41941226",
+      "updated_at": "2026-06-19 05:14:00"
+    },
     {
       "id": 30,
       "title": "Tirzepatide for Heart Failure with Preserved Ejection Fraction and Obesity",
