@@ -1,6 +1,62 @@
 {
-  "exported_at": "2026-06-19T05:14:02.641Z",
+  "exported_at": "2026-06-19T05:14:12.573Z",
   "papers": [
+    {
+      "id": 33,
+      "title": "Routine vs Selective Calcium Supplementation After Total Thyroidectomy: A Randomized Clinical Trial",
+      "title_ja": "甲状腺全摘術後のカルシウム補充において、PTH値に基づく選択的補充はルーチン補充に対して非劣性を示さなかった",
+      "journal": "JAMA Otolaryngology–Head & Neck Surgery",
+      "year": 2026,
+      "authors": "Garcia-Lozano C, Betancourt C, Sanchez JG, et al.",
+      "tags": [
+        "RCT",
+        "甲状腺疾患",
+        "内分泌",
+        "手術・処置"
+      ],
+      "abstract_en": "IMPORTANCE Postoperative hypocalcemia is the most frequent complication after total thyroidectomy. Prophylactic supplementation with calcium and calcitriol (C+C) is widely used, but selective administration based on early postoperative parathyroid hormone (PTH) levels may reduce overtreatment.\nOBJECTIVE To compare the incidence of symptomatic and biochemical hypocalcemia with routine prophylactic C+C and selective supplementation guided by postoperative PTH levels.\nDESIGN, SETTINGS, AND PARTICIPANTS This was a multicenter, pragmatic, randomized clinical trial conducted from June 1, 2022, to July 31, 2024, at 3 tertiary hospitals with adult patients undergoing total thyroidectomy for benign or malignant disease.\nINTERVENTIONS Selective supplementation when 4-hour postoperative PTH level was less than 15 pg/mL (PTH group; to convert to ng/L, multiply by 1) or routine prophylactic C+C for 15 days (C+C group).\nMAIN OUTCOMES AND MEASURES Symptomatic hypocalcemia at 15 days postoperatively, assessed via a symptom scale. Secondary outcomes included biochemical hypocalcemia, adverse events, calcium supplementation, and readmissions.\nRESULTS The analysis included a total of 258 participants; the PTH group comprised 117 patients and the C+C group 141 patients. Symptomatic hypocalcemia occurred in 24 patients overall (9.3%), 11 (7.8%) in the PTH group and 13 (11.1%) in the C+C group (odds ratio [OR], 0.68; 95% CI, 0.29-1.57; P = .36). In the subgroup with complete biochemical data, biochemical hypocalcemia was observed in 29 of 148 participants (16 in PTH [21.6%] and 13 in C+C [17.6%]) (OR, 1.29; 95% CI, 0.57-2.93; P = .53). The PTH group needed less calcium supplementation.\nCONCLUSIONS AND RELEVANCE This randomized clinical trial found that selective calcium supplementation based on postoperative PTH values was not superior to routine calcium supplementation for preventing symptomatic or biochemical hypocalcemia after total thyroidectomy. Either strategy may be used, with choice depending on resource availability and clinical setting.",
+      "abstract_ja": null,
+      "abstract_sections": [
+        {
+          "label": "背景",
+          "label_en": "IMPORTANCE",
+          "content": "術後低カルシウム血症は甲状腺全摘術後の最も頻繁な合併症である。予防的なカルシウムおよびカルシトリオール（C+C）補充が広く行われているが、術後早期の副甲状腺ホルモン（PTH）値に基づく選択的投与が過剰治療を減らす可能性がある。",
+          "content_en": "Postoperative hypocalcemia is the most frequent complication after total thyroidectomy. Prophylactic supplementation with calcium and calcitriol (C+C) is widely used, but selective administration based on early postoperative parathyroid hormone (PTH) levels may reduce overtreatment."
+        },
+        {
+          "label": "方法",
+          "label_en": "OBJECTIVE / DESIGN / INTERVENTIONS",
+          "content": "目的は、術後のルーチンな予防的C+C補充と、術後PTH値に基づく選択的補充による症候性および生化学的低カルシウム血症の発生率を比較することである。2022年6月1日から2024年7月31日まで、3つの三次病院で成人患者を対象とした多施設共同プラグマティック無作為化臨床試験を実施した。PTH群は術後4時間でPTH値が15 pg/mL未満の場合に選択的補充を行い、C+C群は15日間ルーチンに補充した。",
+          "content_en": "To compare the incidence of symptomatic and biochemical hypocalcemia with routine prophylactic C+C and selective supplementation guided by postoperative PTH levels. This was a multicenter, pragmatic, randomized clinical trial conducted from June 1, 2022, to July 31, 2024, at 3 tertiary hospitals. Selective supplementation when 4-hour postoperative PTH level was less than 15 pg/mL (PTH group) or routine prophylactic C+C for 15 days (C+C group)."
+        },
+        {
+          "label": "結果",
+          "label_en": "RESULTS",
+          "content": "計258名（PTH群117名、C+C群141名）が解析対象となった。症候性低カルシウム血症は全体で9.3%に発生し、PTH群で11名（7.8%）、C+C群で13名（11.1%）であり、統計学的有意差はなかった（OR 0.68; 95% CI 0.29-1.57; P = .36）。生化学的データが揃ったサブグループにおける生化学的低カルシウム血症の発生率にも有意差は認められなかった（P = .53）。PTH群でカルシウム補充の必要量は少なかった。",
+          "content_en": "The analysis included a total of 258 participants; the PTH group comprised 117 patients and the C+C group 141 patients. Symptomatic hypocalcemia occurred in 24 patients overall (9.3%), 11 (7.8%) in the PTH group and 13 (11.1%) in the C+C group (odds ratio [OR], 0.68; 95% CI, 0.29-1.57; P = .36). In the subgroup with complete biochemical data, biochemical hypocalcemia was observed in 29 of 148 participants (16 in PTH [21.6%] and 13 in C+C [17.6%]) (OR, 1.29; 95% CI, 0.57-2.93; P = .53). The PTH group needed less calcium supplementation."
+        },
+        {
+          "label": "結論",
+          "label_en": "CONCLUSIONS AND RELEVANCE",
+          "content": "この無作為化臨床試験の結果、術後PTH値に基づく選択的なカルシウム補充は、甲状腺全摘術後の症候性または生化学的低カルシウム血症の予防において、ルーチンなカルシウム補充に対して優越性を示さなかった。いずれの戦略も使用可能であり、リソースの可用性と臨床現場の状況に応じて選択すべきである。",
+          "content_en": "This randomized clinical trial found that selective calcium supplementation based on postoperative PTH values was not superior to routine calcium supplementation for preventing symptomatic or biochemical hypocalcemia after total thyroidectomy. Either strategy may be used, with choice depending on resource availability and clinical setting."
+        }
+      ],
+      "pico": {
+        "framework": "PICO",
+        "P": "甲状腺全摘術を受ける成人患者",
+        "I": "術後4時間のPTH値が15pg/mL未満の場合のみカルシウム・カルシトリオール補充",
+        "C": "術後の定期的（ルーチン）なカルシウム・カルシトリオール補充（15日間）",
+        "O": "術後15日時点の症候性低カルシウム血症発生率（PTH群 7.8% vs C+C群 11.1%, OR 0.68, 95% CI 0.29-1.57, P=0.36）",
+        "NNT": null,
+        "significant": false
+      },
+      "key_results": null,
+      "nnt": null,
+      "memo": null,
+      "pmid": "41712216",
+      "updated_at": "2026-06-19 05:14:10"
+    },
     {
       "id": 32,
       "title": "Discontinuation of Levothyroxine in Adults Aged 60 Years or Older",
