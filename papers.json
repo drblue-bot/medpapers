@@ -1,62 +1,6 @@
 {
-  "exported_at": "2026-06-19T05:02:18.308Z",
+  "exported_at": "2026-06-19T05:10:37.122Z",
   "papers": [
-    {
-      "id": 31,
-      "title": "Discontinuation of Levothyroxine in Adults Aged 60 Years or Older",
-      "title_ja": "60歳以上の成人におけるレボチロキシン休薬の可能性",
-      "journal": "JAMA",
-      "year": 2026,
-      "authors": "Ravensberg J, Gussekloo J, Le Cessie S, Dekkers OM, Mooijaart SP, Poortvliet RKE",
-      "tags": [
-        "コホート研究",
-        "甲状腺疾患",
-        "内分泌",
-        "薬物療法"
-      ],
-      "abstract_en": "IMPORTANCE Many adults aged 60 years or older take the thyroid hormone levothyroxine, which is generally continued for life. However, it is uncertain whether long-term continuation is always necessary.\nOBJECTIVE To determine the percentage of adults aged 60 years or older who can successfully discontinue levothyroxine treatment.\nDESIGN, SETTING, AND PARTICIPANTS This single-group, prospective study included community-dwelling adults aged 60 years or older who were taking levothyroxine at a stable dosage (≤150 μg/d) for at least 1 year and had a thyrotropin (TSH) level of less than 10 mIU/L. The study was conducted at 58 general practices in the Netherlands.\nINTERVENTIONS Open-label, protocol-driven, stepwise dose reduction with thyroid function testing performed at least 6 weeks after each reduction in levothyroxine dose.\nMAIN OUTCOMES AND MEASURES The primary outcome was the proportion of participants who discontinued levothyroxine and had both a thyrotropin level of less than 10 mIU/L and a free thyroxine level within the reference range at 1 year after the start of discontinuation.\nRESULTS Of the 370 participants who started the levothyroxine discontinuation phase, 95 (25.7% [95% CI, 21.5%-30.4%]) successfully stopped taking levothyroxine and had a median thyrotropin level of 5.03 mIU/L and a mean free thyroxine level of 1.01 ng/dL at 1 year. Among the 88 participants taking a levothyroxine dose of 50 μg/d or lower, 56 (63.6%) successfully discontinued this treatment.\nCONCLUSIONS AND RELEVANCE In this open-label, single-group prospective study, 25.7% of adults aged 60 years or older discontinued levothyroxine treatment while maintaining adequate thyroid function at 1 year. Evaluation of the need to continue levothyroxine should be considered in adults aged 60 years or older, particularly in those taking a dose of 50 μg/d or lower.",
-      "abstract_ja": null,
-      "abstract_sections": [
-        {
-          "label": "背景",
-          "label_en": "IMPORTANCE",
-          "content": "60歳以上の多くの成人が甲状腺ホルモンであるレボチロキシンを服用しており、一般的に生涯継続されるが、長期継続が常に必要かどうかは不透明である。",
-          "content_en": "Many adults aged 60 years or older take the thyroid hormone levothyroxine, which is generally continued for life. However, it is uncertain whether long-term continuation is always necessary."
-        },
-        {
-          "label": "方法",
-          "label_en": "DESIGN, SETTING, AND PARTICIPANTS",
-          "content": "オランダの58の一般診療所において、レボチロキシンを1年以上安定服用しており（150μg/日以下）、TSHが10mIU/L未満の60歳以上の地域在住成人を対象とした単群前向き研究。段階的な用量減量を行い、各減量後に甲状腺機能検査を実施した。",
-          "content_en": "This single-group, prospective study included community-dwelling adults aged 60 years or older who were taking levothyroxine at a stable dosage (≤150 μg/d) for at least 1 year and had a thyrotropin (TSH) level of less than 10 mIU/L. The study was conducted at 58 general practices in the Netherlands."
-        },
-        {
-          "label": "結果",
-          "label_en": "RESULTS",
-          "content": "休薬を開始した370名のうち、95名（25.7%）が1年後にレボチロキシンの服用を正常な甲状腺機能を維持したまま中止できた。特に50μg/日以下を服用していた88名中56名（63.6%）が休薬に成功した。",
-          "content_en": "Of the 370 participants who started the levothyroxine discontinuation phase, 95 (25.7% [95% CI, 21.5%-30.4%]) successfully stopped taking levothyroxine and had a median thyrotropin level of 5.03 mIU/L and a mean free thyroxine level of 1.01 ng/dL at 1 year. Among the 88 participants taking a levothyroxine dose of 50 μg/d or lower, 56 (63.6%) successfully discontinued this treatment."
-        },
-        {
-          "label": "結論",
-          "label_en": "CONCLUSIONS AND RELEVANCE",
-          "content": "60歳以上の成人の約4分の1がレボチロキシンの休薬に成功した。特に低用量（50μg/日以下）の服用者において休薬の検討が推奨される。",
-          "content_en": "In this open-label, single-group prospective study, 25.7% of adults aged 60 years or older discontinued levothyroxine treatment while maintaining adequate thyroid function at 1 year. Evaluation of the need to continue levothyroxine should be considered in adults aged 60 years or older, particularly in those taking a dose of 50 μg/d or lower."
-        }
-      ],
-      "pico": {
-        "framework": "PECO",
-        "P": "60歳以上で安定した用量のレボチロキシンを1年以上服用している地域在住の成人",
-        "E": "段階的なレボチロキシンの用量減量および休薬",
-        "C": "なし（単群研究のため）",
-        "O": "1年後の休薬成功率 25.7%（95% CI, 21.5%-30.4%）",
-        "NNT": null,
-        "significant": false
-      },
-      "key_results": null,
-      "nnt": null,
-      "memo": null,
-      "pmid": "41941226",
-      "updated_at": "2026-06-19 05:02:15"
-    },
     {
       "id": 30,
       "title": "Tirzepatide for Heart Failure with Preserved Ejection Fraction and Obesity",
@@ -171,62 +115,6 @@
       "memo": "<p style=\"border: 0px; vertical-align: baseline; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif; text-decoration-thickness: auto; text-decoration-style: solid;\"><font size=\"2\">CareNetより</font></p><p style=\"border: 0px; vertical-align: baseline; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif; text-decoration-thickness: auto; text-decoration-style: solid;\"><font size=\"2\"><br></font></p><p style=\"border: 0px; vertical-align: baseline; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif; text-decoration-thickness: auto; text-decoration-style: solid;\"><font size=\"2\">　脳内出血患者において、標準治療に加え3種類の低用量降圧薬の配合錠を1日1回投与することにより、プラセボと比較し脳卒中の再発および主要心血管イベントの発生が減少したことを、オーストラリア・George Institute for Global HealthのCraig S. Anderson氏らTrident Research Groupが「TRIDENT試験」の結果で報告した。降圧は脳卒中を予防する、唯一の立証済み治療法である。標準的な降圧治療への低用量3剤配合降圧薬の追加が、標準治療単独より血圧をさらに低下させ、脳卒中再発リスクを低減できるかどうかは明らかにされていなかった。NEJM誌2026年4月23日号掲載の報告。<br><br></font></p><h2 class=\"title02_border_none\" style=\"padding-top: 6px; padding-bottom: 6px; border: 0px; vertical-align: baseline; line-height: 1.4; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif; text-decoration-thickness: auto; text-decoration-style: solid;\"><font size=\"2\">テルミサルタン20mg＋アムロジピン2.5mg＋インダパミド1.25mgの配合錠</font></h2><font size=\"2\"><span style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\">　TRIDENT試験は、12ヵ国（オーストラリア、ブラジル、ジョージア、マレーシア、オランダ、ナイジェリア、シンガポール、スリランカ、スイス、台湾、英国、ベトナム）の61施設で実施された無作為化二重盲検プラセボ対照比較試験。</span><br style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif; text-decoration-thickness: auto; text-decoration-style: solid;\"><span style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\">　対象は、非外傷性の脳内出血の既往歴があり、ベースラインの収縮期血圧が130～160mmHgで臨床的に安定（必要に応じて降圧治療中）の18歳以上の患者とした。</span><br style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif; text-decoration-thickness: auto; text-decoration-style: solid;\"><span style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\">　研究グループは、導入期として全例に低用量降圧薬の3剤配合錠（テルミサルタン20mg＋アムロジピン2.5mg＋インダパミド1.25mg）を1日1回2週間投与し、導入期終了後に同意が得られた適格患者を3剤配合錠（継続）群またはプラセボ群に無作為に割り付けた。</span><br style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif; text-decoration-thickness: auto; text-decoration-style: solid;\"><span style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\">　主要アウトカムは脳卒中の初回再発、副次アウトカムは無作為化後6ヵ月時点の血圧コントロール（収縮期血圧130mmHg未満と定義）、主要心血管イベント（非致死的心筋梗塞、非致死的脳卒中または心血管死の複合）、心血管死、および安全性であった。</span><br style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif; text-decoration-thickness: auto; text-decoration-style: solid;\"><br style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif; text-decoration-thickness: auto; text-decoration-style: solid;\"></font><h2 class=\"title02_border_none\" style=\"padding-top: 6px; padding-bottom: 6px; border: 0px; vertical-align: baseline; line-height: 1.4; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif; text-decoration-thickness: auto; text-decoration-style: solid;\"><font size=\"2\">脳卒中の再発は、3剤配合錠群4.6％vs.プラセボ群7.4％</font></h2><font size=\"2\"><span style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\">　2017年9月28日～2024年11月30日に、スクリーニングを受け適格性を評価された2,206例が導入期に参加し、導入期終了後に1,670例が無作為化された（3剤配合錠群833例、プラセボ群837例）。1,670例の平均（±標準偏差）年齢は57.8±11.4歳、563例（33.7％）が女性、1,213例（72.6％）がアジア系で、1,114例（66.7％）がスリランカ在住であった。</span><br style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif; text-decoration-thickness: auto; text-decoration-style: solid;\"><span style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\">　追跡期間中央値2.5年（四分位範囲：1.6～4.4）時点で、追跡期間中の平均収縮期血圧は3剤配合錠群127mmHg、プラセボ群138mmHgであり、平均拡張期血圧はそれぞれ82mmHg、86mmHgであった。</span><br style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif; text-decoration-thickness: auto; text-decoration-style: solid;\"><span style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\">　脳卒中再発は、3剤配合錠群38例（4.6％）、プラセボ群62例（7.4％）に発生し、ハザード比（HR）は0.61（95％信頼区間[CI]：0.41～0.92、p＝0.02）であった。脳内出血再発は3剤配合錠群15例（1.8％）、プラセボ群37例（4.4％）であった（HR：0.40、95％CI：0.22～0.73）。</span><br style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif; text-decoration-thickness: auto; text-decoration-style: solid;\"><span style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\">　主要心血管イベントの発生割合は、3剤配合錠群がプラセボ群より有意に低かった（6.6％vs.9.8％、p＝0.04）。</span><br style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif; text-decoration-thickness: auto; text-decoration-style: solid;\"><br style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif; text-decoration-thickness: auto; text-decoration-style: solid;\"><span style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\">　重篤な有害事象は、3剤配合錠群で193例（23.2％）、プラセボ群で218例（26.0％）に認められた。投与中止に至った有害事象の発現率はそれぞれ13.6％、6.0％であり、主な事象は血清クレアチニン値の20％以上の上昇であった。</span></font>",
       "pmid": "42019018",
       "updated_at": "2026-06-19 04:55:06"
-    },
-    {
-      "id": 28,
-      "title": "Routine vs Selective Calcium Supplementation After Total Thyroidectomy: A Randomized Clinical Trial",
-      "title_ja": "甲状腺全摘術後のカルシウム補充において、PTH値を指標とした選択的投与はルーチン投与と比較して非劣性ではない",
-      "journal": "JAMA Otolaryngology–Head & Neck Surgery",
-      "year": 2026,
-      "authors": "Garcia-Lozano C, Betancourt C, Sanchez JG, et al.",
-      "tags": [
-        "RCT",
-        "甲状腺疾患",
-        "内分泌",
-        "手術・処置"
-      ],
-      "abstract_en": "IMPORTANCE Postoperative hypocalcemia is the most frequent complication after total thyroidectomy. Prophylactic supplementation with calcium and calcitriol (C+C) is widely used, but selective administration based on early postoperative parathyroid hormone (PTH) levels may reduce overtreatment.\nOBJECTIVE To compare the incidence of symptomatic and biochemical hypocalcemia with routine prophylactic C+C and selective supplementation guided by postoperative PTH levels.\nDESIGN, SETTINGS, AND PARTICIPANTS This was a multicenter, pragmatic, randomized clinical trial conducted from June 1, 2022, to July 31, 2024, at 3 tertiary hospitals with adult patients undergoing total thyroidectomy for benign or malignant disease.\nINTERVENTIONS Selective supplementation when 4-hour postoperative PTH level was less than 15 pg/mL (PTH group) or routine prophylactic C+C for 15 days (C+C group).\nRESULTS The analysis included a total of 258 participants; the PTH group comprised 117 patients and the C+C group, 141 patients. Symptomatic hypocalcemia occurred in 24 patients overall (9.3%), 11 (7.8%) in PTH group and 13 (11.1%) in C+C group (odds ratio [OR], 0.68; 95% CI, 0.29-1.57; P = .36). In the subgroup with complete biochemical data, biochemical hypocalcemia was observed in 29 of 148 participants (16 in PTH [21.6%] and 13 in C+C [17.6%]) (OR, 1.29; 95% CI, 0.57-2.93; P = .53). The PTH group needed less calcium supplementation.\nCONCLUSIONS AND RELEVANCE This randomized clinical trial found that selective calcium supplementation based on postoperative PTH values was not superior to routine calcium supplementation for preventing symptomatic or biochemical hypocalcemia after total thyroidectomy. Either strategy may be used, with choice depending on resource availability and clinical setting.",
-      "abstract_ja": null,
-      "abstract_sections": [
-        {
-          "label": "背景",
-          "label_en": "Importance",
-          "content": "術後低カルシウム血症は甲状腺全摘術後の最も頻度の高い合併症である。カルシウムおよびカルシトリオール（C+C）の予防的投与が広く行われているが、術後早期の副甲状腺ホルモン（PTH）値を指標とした選択的投与により過剰治療を減らせる可能性がある。",
-          "content_en": "Postoperative hypocalcemia is the most frequent complication after total thyroidectomy. Prophylactic supplementation with calcium and calcitriol (C+C) is widely used, but selective administration based on early postoperative parathyroid hormone (PTH) levels may reduce overtreatment."
-        },
-        {
-          "label": "方法",
-          "label_en": "Methods",
-          "content": "良性または悪性疾患のため甲状腺全摘術を受ける成人患者を対象とした多施設共同実用的無作為化比較試験。介入群（PTH群）は術後4時間のPTH値が15pg/mL未満の場合にのみカルシウム補充を行い、対照群（C+C群）は15日間のルーチン予防投与を行った。",
-          "content_en": "This was a multicenter, pragmatic, randomized clinical trial conducted from June 1, 2022, to July 31, 2024, at 3 tertiary hospitals with adult patients undergoing total thyroidectomy for benign or malignant disease. Selective supplementation when 4-hour postoperative PTH level was less than 15 pg/mL (PTH group) or routine prophylactic C+C for 15 days (C+C group)."
-        },
-        {
-          "label": "結果",
-          "label_en": "Results",
-          "content": "258例を解析した。術後15日時点の症候性低カルシウム血症は、PTH群で11例（7.8%）、C+C群で13例（11.1%）であり、有意差は認められなかった（OR 0.68, 95% CI 0.29-1.57, P = .36）。生化学的低カルシウム血症の発生率にも有意差はなかった。PTH群は補充の必要性が少なかった。",
-          "content_en": "The analysis included a total of 258 participants; the PTH group comprised 117 patients and the C+C group, 141 patients. Symptomatic hypocalcemia occurred in 24 patients overall (9.3%), 11 (7.8%) in PTH group and 13 (11.1%) in C+C group (odds ratio [OR], 0.68; 95% CI, 0.29-1.57; P = .36). In the subgroup with complete biochemical data, biochemical hypocalcemia was observed in 29 of 148 participants (16 in PTH [21.6%] and 13 in C+C [17.6%]) (OR, 1.29; 95% CI, 0.57-2.93; P = .53). The PTH group needed less calcium supplementation."
-        },
-        {
-          "label": "結論",
-          "label_en": "Conclusions",
-          "content": "PTH値を指標とした選択的カルシウム補充は、ルーチン補充と比較して術後低カルシウム血症の予防において優越性を示さなかった。いずれの戦略も使用可能であり、医療資源や臨床現場の状況に応じて選択すべきである。",
-          "content_en": "This randomized clinical trial found that selective calcium supplementation based on postoperative PTH values was not superior to routine calcium supplementation for preventing symptomatic or biochemical hypocalcemia after total thyroidectomy. Either strategy may be used, with choice depending on resource availability and clinical setting."
-        }
-      ],
-      "pico": {
-        "framework": "PICO",
-        "P": "甲状腺全摘術を受ける成人患者",
-        "I": "術後PTH値に基づく選択的カルシウム・カルシトリオール補充",
-        "C": "ルーチンでのカルシウム・カルシトリオール予防投与",
-        "O": "術後15日時点の症候性低カルシウム血症発生率（PTH群 7.8% vs C+C群 11.1%, OR 0.68, 95% CI 0.29-1.57, P = .36）",
-        "NNT": null,
-        "significant": false
-      },
-      "key_results": null,
-      "nnt": null,
-      "memo": null,
-      "pmid": "41712216",
-      "updated_at": "2026-06-18 03:07:44"
     },
     {
       "id": 27,
