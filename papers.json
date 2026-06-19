@@ -1,6 +1,69 @@
 {
-  "exported_at": "2026-06-19T05:34:15.132Z",
+  "exported_at": "2026-06-19T06:26:57.860Z",
   "papers": [
+    {
+      "id": 36,
+      "title": "Efficacy and safety of once-daily oral orforglipron compared with oral semaglutide in adults with type 2 diabetes (ACHIEVE-3): a multinational, multicentre, non-inferiority, open-label, randomised, phase 3 trial",
+      "title_ja": "2型糖尿病患者における経口orforglipronと経口semaglutideの有効性と安全性を比較する多国籍・多施設非劣性ランダム化第3相試験（ACHIEVE-3）",
+      "journal": "The Lancet",
+      "year": 2026,
+      "authors": "Rosenstock J, Yabe D, Cox D, Li J, Denning M, Wu W-S, Liu R, Zhao Y, et al.",
+      "tags": [
+        "RCT",
+        "糖尿病",
+        "内分泌",
+        "薬物療法",
+        "GLP-1受容体作動薬"
+      ],
+      "abstract_en": "Background Orforglipron is a novel non-peptide (GLP-1) receptor agonist designed for daily oral administration without food or water restrictions. This study aimed to compare the efficacy and safety of orforglipron with oral semaglutide in individuals with type 2 diabetes inadequately controlled with metformin.\nMethods In this 52-week, randomised, open-label, active-controlled, multicentre, multinational, phase 3 study, we enrolled adults (≥18 years) with type 2 diabetes inadequately controlled with metformin (≥1500 mg per day), glycated haemoglobin (HbA1c) between 7·0% and 10·5% (53–91 mmol/mol), and BMI at least 25 kg/m² from 131 medical research centres and hospitals in Argentina, China, Japan, Mexico, and the USA. Participants were randomly assigned (1:1:1:1) to orforglipron (12 mg or 36 mg) or semaglutide (7 mg or 14 mg); all groups had an up to 4-week lead-in period and 52-week treatment period, with the drugs administered orally once per day. The primary objective of the study was to assess non-inferiority of orforglipron 36 mg versus semaglutide 14 mg and orforglipron 12 mg versus semaglutide 7 mg for mean change at week 52 from baseline in HbA1c (with a non-inferiority margin of 0·3%) in the intention-to-treat population. Hierarchical analysis for superiority was prespecified after attainment of non-inferiority. The treatment regimen estimand, based on data from all randomly assigned participants regardless of intercurrent events, was the primary estimand; the efficacy estimand was considered supportive. The safety endpoints used data from all participants who received at least one dose of the study drug. This trial was registered on ClinicalTrials.gov (NCT06045221) and is completed.\nFindings From Sept 22, 2023, to Aug 22, 2025, 1698 participants were recruited and randomly assigned to orforglipron (n=424 on 12 mg and n=423 on 36 mg) or semaglutide (n=426 on 7 mg and n=425 on 14 mg). For the treatment regimen estimand, mean changes at week 52 from a baseline HbA1c of 8·3% were –1·71% (SE 0·07) with orforglipron 12 mg, –1·91% (0·08) with orforglipron 36 mg, –1·23% (0·05) with semaglutide 7 mg, and –1·47% (0·06) with semaglutide 14 mg. Estimated treatment differences were –0·48% (95% CI –0·65 to –0·31; p<0·0001) for orforglipron 12 mg versus semaglutide 7 mg; –0·44% (–0·62 to –0·26; p<0·0001) for orforglipron 36 mg versus semaglutide 14 mg; –0·24% (95% CI –0·41 to –0·072; p=0·0050) for orforglipron 12 mg versus semaglutide 14 mg; and –0·68% (–0·85 to –0·50; p<0·0001) for orforglipron 36 mg versus semaglutide 7 mg. The primary objective of non-inferiority was met and both orforglipron doses showed superiority to both semaglutide doses, including orforglipron 12 mg versus semaglutide 14 mg. The most frequent adverse events were gastrointestinal events (orforglipron: 249 [59%] of 424 on 12 mg and 245 [58%] of 423 on 36 mg; semaglutide: 157 [37%] of 426 on 7 mg and 193 [45%] of 425 on 14 mg), most of which were mild to moderate in severity. More participants in the orforglipron groups (37 [9%] on 12 mg and 41 [10%] on 36 mg) discontinued study treatment due to adverse events than in the semaglutide groups (19 (4%) on 7 mg and 21 (5%) on 14 mg), and mean increase in pulse rate was greater in the orforglipron groups (12 mg 3·7 bpm; 36 mg 4·7 bpm) than in the semaglutide groups (7 mg 1·0 bpm; 14 mg 1·5 bpm). Four deaths occurred during the study: one in the orforglipron 12 mg group, one in the orforglipron 36 mg group, and two in the semaglutide 7 mg group.\nInterpretation In individuals with type 2 diabetes inadequately controlled with metformin, orforglipron 12 mg and 36 mg was non-inferior and superior to semaglutide 7 mg and 14 mg with respect to the mean change in HbA1c from baseline to 52 weeks. Although the safety profiles of both orforglipron and semaglutide were generally consistent with the GLP-1 receptor agonist class, the incidence of gastrointestinal events, discontinuations due to adverse events, and mean increase in pulse rate were higher with orforglipron than oral semaglutide.",
+      "abstract_ja": null,
+      "abstract_sections": [
+        {
+          "label": "背景",
+          "label_en": "Background",
+          "content_en": "Orforglipron is a novel non-peptide (GLP-1) receptor agonist designed for daily oral administration without food or water restrictions. This study aimed to compare the efficacy and safety of orforglipron with oral semaglutide in individuals with type 2 diabetes inadequately controlled with metformin.",
+          "content": "オルフォルグリプロン（orforglipron）は、食事や水分の制限なしに毎日経口投与できるように設計された新規の非ペプチド性GLP-1受容体作動薬である。本研究は、メトホルミンで不十分にしかコントロールされていない2型糖尿病患者を対象に、オルフォルグリプロンの有効性と安全性を経口セマグルチドと比較することを目的とした。"
+        },
+        {
+          "label": "方法",
+          "label_en": "Methods",
+          "content_en": "In this 52-week, randomised, open-label, active-controlled, multicentre, multinational, phase 3 study, we enrolled adults (≥18 years) with type 2 diabetes inadequately controlled with metformin (≥1500 mg per day), glycated haemoglobin (HbA₁c) between 7·0% and 10·5% (53–91 mmol/mol), and BMI at least 25 kg/m² from 131 medical research centres and hospitals in Argentina, China, Japan, Mexico, and the USA. Participants were randomly assigned (1:1:1:1) to orforglipron (12 mg or 36 mg) or semaglutide (7 mg or 14 mg); all groups had an up to 4-week lead-in period and 52-week treatment period, with the drugs administered orally once per day. The primary objective of the study was to assess non-inferiority of orforglipron 36 mg versus semaglutide 14 mg and orforglipron 12 mg versus semaglutide 7 mg for mean change at week 52 from baseline in HbA₁c (with a non-inferiority margin of 0·3%) in the intention-to-treat population. Hierarchical analysis for superiority was prespecified after attainment of non-inferiority. The treatment regimen estimand, based on data from all randomly assigned participants regardless of intercurrent events, was the primary estimand; the efficacy estimand was considered supportive. The safety endpoints used data from all participants who received at least one dose of the study drug. This trial was registered on ClinicalTrials.gov (NCT06045221) and is completed.",
+          "content": "この52週間のランダム化、オープンラベル、実薬対照、多施設共同、多国籍第3相試験において、アルゼンチン、中国、日本、メキシコ、米国の131の医療研究センターおよび病院から、メトホルミン（1日1500mg以上）で不十分にしかコントロールされていない2型糖尿病、HbA1cが7.0%～10.5%（53～91 mmol/mol）、BMIが25 kg/m²以上の成人（18歳以上）を登録した。参加者はオルフォルグリプロン（12mgまたは36mg）またはセマグルチド（7mgまたは14mg）にランダムに割り付けられた（1:1:1:1）。全グループに最長4週間の導入期間と52週間の治療期間を設け、薬剤を1日1回経口投与した。本研究の主要目的は、治療意図（intention-to-treat）集団におけるHbA1cのベースラインから52週目までの平均変化量について、オルフォルグリプロン36mg対セマグルチド14mg、およびオルフォルグリプロン12mg対セマグルチド7mgの非劣性を評価することであった（非劣性マージンは0.3%）。非劣性が達成された後、優越性に関する階層的解析が事前に規定された。中間事象にかかわらず全ランダム化参加者からのデータに基づく治療レジメン推定値（treatment regimen estimand）を主要推定値とし、有効性推定値（efficacy estimand）は支持的なものと見なした。安全性エンドポイントには、少なくとも1回の治験薬投与を受けた全参加者のデータを使用した。本試験はClinicalTrials.gov（NCT06045221）に登録されており、完了している。"
+        },
+        {
+          "label": "結果",
+          "label_en": "Findings",
+          "content_en": "From Sept 22, 2023, to Aug 22, 2025, 1698 participants were recruited and randomly assigned to orforglipron (n=424 on 12 mg and n=423 on 36 mg) or semaglutide (n=426 on 7 mg and n=425 on 14 mg). For the treatment regimen estimand, mean changes at week 52 from a baseline HbA₁c of 8·3% were –1·71% (SE 0·07) with orforglipron 12 mg, –1·91% (0·08) with orforglipron 36 mg, –1·23% (0·05) with semaglutide 7 mg, and –1·47% (0·06) with semaglutide 14 mg. Estimated treatment differences were –0·48% (95% CI –0·65 to –0·31; p<0·0001) for orforglipron 12 mg versus semaglutide 7 mg; –0·44% (–0·62 to –0·26; p<0·0001) for orforglipron 36 mg versus semaglutide 14 mg; –0·24% (95% CI –0·41 to –0·072; p=0·0050) for orforglipron 12 mg versus semaglutide 14 mg; and –0·68% (–0·85 to –0·50; p<0·0001) for orforglipron 36 mg versus semaglutide 7 mg. The primary objective of non-inferiority was met and both orforglipron doses showed superiority to both semaglutide doses, including orforglipron 12 mg versus semaglutide 14 mg. The most frequent adverse events were gastrointestinal events (orforglipron: 249 [59%] of 424 on 12 mg and 245 [58%] of 423 on 36 mg; semaglutide: 157 [37%] of 426 on 7 mg and 193 [45%] of 425 on 14 mg), most of which were mild to moderate in severity. More participants in the orforglipron groups (37 [9%] on 12 mg and 41 [10%] on 36 mg) discontinued study treatment due to adverse events than in the semaglutide groups (19 [4%] on 7 mg and 21 [5%] on 14 mg), and mean increase in pulse rate was greater in the orforglipron groups (12 mg 3·7 bpm; 36 mg 4·7 bpm) than in the semaglutide groups (7 mg 1·0 bpm; 14 mg 1·5 bpm). Four deaths occurred during the study: one in the orforglipron 12 mg group, one in the orforglipron 36 mg group, and two in the semaglutide 7 mg group.",
+          "content": "2023年9月22日から2025年8月22日までに1698名の参加者が募集され、オルフォルグリプロン（12mg群n=424、36mg群n=423）またはセマグルチド（7mg群n=426、14mg群n=425）にランダムに割り付けられた。治療レジメン推定値について、8.3%のベースラインHbA1cからの52週目における平均変化量は、オルフォルグリプロン12mg群で–1.71%（SE 0.07）、オルフォルグリプロン36mg群で–1.91%（0.08）、セマグルチド7mg群で–1.23%（0.05）、セマグルチド14mg群で–1.47%（0.06）であった。推定治療差は、オルフォルグリプロン12mg対セマグルチド7mgで–0.48%（95% CI –0.65～–0.31; p<0.0001）、オルフォルグリプロン36mg対セマグルチド14mgで–0.44%（–0.62～–0.26; p<0.0001）、オルフォルグリプロン12mg対セマグルチド14mgで–0.24%（95% CI –0.41～–0.072; p=0.0050）、オルフォルグリプロン36mg対セマグルチド7mgで–0.68%（–0.85～–0.50; p<0.0001）であった。非劣性の主要目的は達成され、オルフォルグリプロン12mg対セマグルチド14mgを含め、オルフォルグリプロンの両用量ともセマグルチドの両用量に対する優越性が示された。最も頻繁な有害事象は消化器系イベントであった（オルフォルグリプロン12mg群249例[59%]、36mg群245例[58%]、セマグルチド7mg群157例[37%]、14mg群193例[45%]）が、そのほとんどは軽度から中等度の重症度であった。有害事象による試験治療の中止は、セマグルチド群（7mg群19例[4%]、14mg群21例[5%]）よりもオルフォルグリプロン群（12mg群37例[9%]、36mg群41例[10%]）で多かった。また、平均脈拍数増加量は、セマグルチド群（7mg群1.0 bpm、14mg群1.5 bpm）よりもオルフォルグリプロン群（12mg群3.7 bpm、36mg群4.7 bpm）の方が大きかった。試験中に4名の死亡が報告された（オルフォルグリプロン12mg群1名、オルフォルグリプロン36mg群1名、セマグルチド7mg群2名）。"
+        },
+        {
+          "label": "解釈",
+          "label_en": "Interpretation",
+          "content_en": "In individuals with type 2 diabetes inadequately controlled with metformin, orforglipron 12 mg and 36 mg was non-inferior and superior to semaglutide 7 mg and 14 mg with respect to the mean change in HbA₁c from baseline to 52 weeks. Although the safety profiles of both orforglipron and semaglutide were generally consistent with the GLP-1 receptor agonist class, the incidence of gastrointestinal events, discontinuations due to adverse events, and mean increase in pulse rate were higher with orforglipron than oral semaglutide.",
+          "content": "メトホルミンで不十分にしかコントロールされていない2型糖尿病患者において、オルフォルグリプロン12mgおよび36mgは、ベースラインから52週目までのHbA1cの平均変化量に関して、セマグルチド7mgおよび14mgに対して非劣性かつ優越性を示した。オルフォルグリプロンとセマグルチドの安全性プロファイルは、両剤とも概してGLP-1受容体作動薬クラスと一致していたが、消化器系イベントの発生率、有害事象による治療中止、および脈拍数の平均増加量は、経口セマグルチドよりもオルフォルグリプロンの方が高かった。"
+        },
+        {
+          "label": "資金提供",
+          "label_en": "Funding",
+          "content_en": "Eli Lilly.",
+          "content": "イーライリリー。"
+        }
+      ],
+      "pico": {
+        "framework": "PICO",
+        "P": "メトホルミンで十分にコントロールされていない2型糖尿病成人患者",
+        "I": "経口orforglipron（12mgまたは36mg）",
+        "C": "経口semaglutide（7mgまたは14mg）",
+        "O": "52週時点のベースラインからのHbA1c変化量（orforglipron 12mg vs semaglutide 7mgで-0.48%, 95% CI -0.65 to -0.31, p<0.0001; orforglipron 36mg vs semaglutide 14mgで-0.44%, 95% CI -0.62 to -0.26, p<0.0001）",
+        "NNT": null,
+        "significant": true
+      },
+      "key_results": null,
+      "nnt": null,
+      "memo": null,
+      "pmid": "41765029",
+      "updated_at": "2026-06-19 06:26:56"
+    },
     {
       "id": 35,
       "title": "Routine vs Selective Calcium Supplementation After Total Thyroidectomy: A Randomized Clinical Trial",
