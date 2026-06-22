@@ -1,6 +1,81 @@
 {
-  "exported_at": "2026-06-19T06:26:57.860Z",
+  "exported_at": "2026-06-22T04:27:09.877Z",
   "papers": [
+    {
+      "id": 37,
+      "title": "Cost-Effectiveness of ApoB, Non–HDL-C, and LDL-C Goals for Primary Prevention Lipid-Lowering Therapy",
+      "title_ja": "一次予防における脂質低下療法の目標として、LDL-Cおよびnon-HDL-Cに対するApoBの費用対効果を評価した",
+      "journal": "JAMA",
+      "year": 2026,
+      "authors": "Luebbe S, Sniderman AD, Moran AE, Wilkins JT, Kohli-Lynch CN",
+      "tags": [
+        "コホート研究",
+        "脂質異常症",
+        "血管",
+        "薬物療法",
+        "スタチン"
+      ],
+      "abstract_en": "IMPORTANCE Apolipoprotein B (apoB) is a superior marker of residual atherosclerotic cardiovascular disease risk in patients treated with lipid-lowering therapy (LLT) compared with low-density lipoprotein cholesterol (LDL-C) and non–high-density lipoprotein cholesterol (non–HDL-C). The cost-effectiveness of LDL-C, non–HDL-C, and apoB goals has not been established. OBJECTIVE To determine the relative cost-effectiveness of intensifying LLT for primary prevention based on LDL-C, non–HDL-C, and apoB goals. DESIGN, SETTING, AND PARTICIPANTS This economic evaluation used a computer simulation model to evaluate the cost-effectiveness of intensifying LLT with high-intensity statins or ezetimibe according to LDL-C, non–HDL-C, or apoB goals. A cohort of 250 000 statin-eligible and atherosclerotic cardiovascular disease–free US adults was constructed from 2005 to 2016 National Health and Nutrition Examination Survey participants (N = 4149). Individuals commenced the simulation after lipid screening and received statin therapy based on 2018 American Heart Association/American College of Cardiology guidelines. Model inputs were derived from national survey data, pooled longitudinal cohort studies, and published literature. Uncertainty was explored with traditional and probabilistic sensitivity analysis. EXPOSURES Lipid-lowering therapy was intensified if individuals did not achieve treated LDL-C level less than 100 mg/dL, non–HDL-C level less than 118 mg/dL, or apoB level less than 78.7 mg/dL. MAIN OUTCOMES AND MEASURES Lifetime quality-adjusted life-years (QALYs) and costs (in 2025 US dollars), discounted 3.0% annually. The primary outcome was the incremental cost-effectiveness ratio. Strategies were considered cost-effective if they cost less than $120 000 per QALY gained. RESULTS Compared with an LDL-C goal, 965 QALYs (95% uncertainty interval [UI], −3551 to 5341 QALYs) would be gained with a non–HDL-C goal, alongside a $2.1 million (95% UI, −$94.2 million to $92.0 million) reduction in costs. Compared with a non–HDL-C goal, 1324 QALYs (95% UI, −2602 to 5669 QALYs) would be gained with an apoB goal, alongside a $40.2 million (95% UI, −$43.6 million to $134 million) increase in costs, yielding an incremental cost-effectiveness ratio of $30 300 per QALY gained. At a willingness-to-pay threshold of $120 000 per QALY gained, an apoB goal was optimal in 65% of probabilistic analyses and a non–HDL-C goal was optimal in 25%. The cost of apoB testing was marginal; higher costs reflected longer life expectancy and prolonged preventive treatment. CONCLUSIONS AND RELEVANCE The results of this computer simulation study suggest that apoB can be used as a cost-effective marker to guide primary prevention LLT and improve population health.",
+      "abstract_ja": null,
+      "abstract_sections": [
+        {
+          "label": "重要性",
+          "label_en": "IMPORTANCE",
+          "content_en": "Apolipoprotein B (apoB) is a superior marker of residual atherosclerotic cardiovascular disease risk in patients treated with lipid-lowering therapy (LLT) compared with low-density lipoprotein cholesterol (LDL-C) and non–high-density lipoprotein cholesterol (non–HDL-C). The cost-effectiveness of LDL-C, non–HDL-C, and apoB goals has not been established.",
+          "content": "アポリポタンパク質B（apoB）は、脂質低下療法（LLT）を受けている患者において、低比重リポタンパク質コレステロール（LDL-C）および非高比重リポタンパク質コレステロール（non-HDL-C）と比較して、残存するアテローム動脈硬化性心血管疾患リスクのより優れたマーカーである。LDL-C、non-HDL-C、およびapoBの目標値の費用対効果は確立されていない。"
+        },
+        {
+          "label": "目的",
+          "label_en": "OBJECTIVE",
+          "content_en": "To determine the relative cost-effectiveness of intensifying LLT for primary prevention based on LDL-C, non–HDL-C, and apoB goals.",
+          "content": "LDL-C、non-HDL-C、およびapoBの目標値に基づく一次予防のためのLLT強化の相対的な費用対効果を明らかにすること。"
+        },
+        {
+          "label": "デザイン、設定、および参加者",
+          "label_en": "DESIGN, SETTING, AND PARTICIPANTS",
+          "content_en": "This economic evaluation used a computer simulation model to evaluate the cost-effectiveness of intensifying LLT with high-intensity statins or ezetimibe according to LDL-C, non–HDL-C, or apoB goals. A cohort of 250 000 statin-eligible and atherosclerotic cardiovascular disease–free US adults was constructed from 2005 to 2016 National Health and Nutrition Examination Survey participants (N = 4149). Individuals commenced the simulation after lipid screening and received statin therapy based on 2018 American Heart Association/American College of Cardiology guidelines. Model inputs were derived from national survey data, pooled longitudinal cohort studies, and published literature. Uncertainty was explored with traditional and probabilistic sensitivity analysis.",
+          "content": "本経済評価では、コンピュータシミュレーションモデルを用い、LDL-C、non-HDL-C、またはapoBの目標値に従って高強度スタチンまたはエゼチミブでLLTを強化することの費用対効果を評価した。2005年から2016年の国民健康栄養調査（NHANES）の参加者（N=4149）から、スタチン治療適格かつアテローム動脈硬化性心血管疾患を有さない米国の成人25万人からなるコホートを構築した。個々の対象者は脂質スクリーニング後にシミュレーションを開始し、2018年の米国心臓協会/米国心臓病学会のガイドラインに基づいてスタチン療法を受けた。モデルの入力値は、全米調査データ、統合縦断コホート研究、および公表された文献から導出した。不確実性については、従来の感度分析および確率論的感度分析を用いて探索した。"
+        },
+        {
+          "label": "曝露",
+          "label_en": "EXPOSURES",
+          "content_en": "Lipid-lowering therapy was intensified if individuals did not achieve treated LDL-C level less than 100 mg/dL, non–HDL-C level less than 118 mg/dL, or apoB level less than 78.7 mg/dL.",
+          "content": "治療後のLDL-C値が100 mg/dL未満、non-HDL-C値が118 mg/dL未満、またはapoB値が78.7 mg/dL未満を達成できなかった場合、脂質低下療法を強化した。"
+        },
+        {
+          "label": "主要評価項目および尺度",
+          "label_en": "MAIN OUTCOMES AND MEASURES",
+          "content_en": "Lifetime quality-adjusted life-years (QALYs) and costs (in 2025 US dollars), discounted 3.0% annually. The primary outcome was the incremental cost-effectiveness ratio. Strategies were considered cost-effective if they cost less than $120 000 per QALY gained.",
+          "content": "生涯の質調整生存年（QALY）および費用（2025年米ドル換算）とし、年率3.0%で割引計算を行った。主要評価項目は増分費用効果比（ICER）とした。QALY獲得あたりの費用が12万ドル未満である戦略を費用対効果が高いとみなした。"
+        },
+        {
+          "label": "結果",
+          "label_en": "RESULTS",
+          "content_en": "Compared with an LDL-C goal, 965 QALYs (95% uncertainty interval [UI], −3551 to 5341 QALYs) would be gained with a non–HDL-C goal, alongside a $2.1 million (95% UI, −$94.2 million to $92.0 million) reduction in costs. Compared with a non–HDL-C goal, 1324 QALYs (95% UI, −2602 to 5669 QALYs) would be gained with an apoB goal, alongside a $40.2 million (95% UI, −$43.6 million to $134 million) increase in costs, yielding an incremental cost-effectiveness ratio of $30 300 per QALY gained. At a willingness-to-pay threshold of $120 000 per QALY gained, an apoB goal was optimal in 65% of probabilistic analyses and a non–HDL-C goal was optimal in 25%. The cost of apoB testing was marginal; higher costs reflected longer life expectancy and prolonged preventive treatment.",
+          "content": "LDL-C目標と比較して、non-HDL-C目標では965 QALY（95%不確実性区間［UI］：-3551〜5341 QALY）が得られ、同時に210万ドル（95% UI：-9420万ドル〜9200万ドル）のコスト削減が得られた。non-HDL-C目標と比較して、apoB目標では1324 QALY（95% UI：-2602〜5669 QALY）が得られ、同時に4020万ドル（95% UI：-4360万ドル〜1億3400万ドル）のコスト増が生じ、QALY獲得あたりの増分費用効果比は3万300ドルとなった。QALY獲得あたりの支払意思額の閾値を12万ドルとした場合、apoB目標は確率論的分析の65%で最適であり、non-HDL-C目標は25%で最適であった。apoB検査の費用はわずかなものであり、コストの上昇は平均余命の延長と予防的治療期間の延長を反映していた。"
+        },
+        {
+          "label": "結論および妥当性",
+          "label_en": "CONCLUSIONS AND RELEVANCE",
+          "content_en": "The results of this computer simulation study suggest that apoB can be used as a cost-effective marker to guide primary prevention LLT and improve population health.",
+          "content": "本コンピュータシミュレーション研究の結果は、apoBが一次予防のLLTを導き、集団の健康を改善するための費用対効果の高いマーカーとして使用できることを示唆している。"
+        }
+      ],
+      "pico": {
+        "framework": "PECO",
+        "P": "スタチン適応がありアテローム性動脈硬化性心血管疾患のない米国成人（N=250,000のシミュレーション）",
+        "I": "ApoB値を指標とした脂質低下療法の強化",
+        "C": "LDL-Cまたはnon-HDL-C値を指標とした脂質低下療法",
+        "O": "QALY獲得あたりの増分費用効果比（ICER）が30,300ドル（apoB vs non-HDL-C）",
+        "NNT": null,
+        "significant": true
+      },
+      "key_results": null,
+      "nnt": null,
+      "memo": null,
+      "pmid": "41949879",
+      "updated_at": "2026-06-22 04:27:08"
+    },
     {
       "id": 36,
       "title": "Efficacy and safety of once-daily oral orforglipron compared with oral semaglutide in adults with type 2 diabetes (ACHIEVE-3): a multinational, multicentre, non-inferiority, open-label, randomised, phase 3 trial",
