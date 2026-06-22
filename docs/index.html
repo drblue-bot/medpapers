@@ -23,14 +23,26 @@
     </div>
     <div class="search-bar">
       <input class="search-input" id="search-input" type="search" placeholder="タイトル・著者・アブストで検索..." />
-      <select class="sort-select" id="sort-select" title="並び替え">
-        <option value="added">追加順</option>
-        <option value="updated">更新順</option>
-        <option value="year">発行年（新しい順）</option>
-        <option value="title">タイトル順</option>
-      </select>
+      <button class="filter-btn" id="filter-btn" title="絞り込み・並び替え">⌄</button>
     </div>
-    <div class="tags-scroll" id="tags-scroll"></div>
+    <div class="search-popover" id="search-popover" hidden>
+      <div class="popover-section">
+        <div class="popover-label">並び替え</div>
+        <select class="sort-select" id="sort-select" title="並び替え">
+          <option value="added">追加順</option>
+          <option value="updated">更新順</option>
+          <option value="year">発行年（新しい順）</option>
+          <option value="title">タイトル順</option>
+        </select>
+      </div>
+      <div class="popover-section" id="tag-filter-section">
+        <div class="popover-label">
+          <span>タグで絞り込み</span>
+          <button class="tag-clear-btn" id="tag-clear-btn" hidden>クリア</button>
+        </div>
+        <div class="tag-grid" id="tags-grid"></div>
+      </div>
+    </div>
     <div class="status-bar" id="status-bar">読み込み中...</div>
   </div>
   <div id="paper-list"></div>

@@ -1,4 +1,4 @@
-const CACHE_NAME = 'medpapers-v10'
+const CACHE_NAME = 'medpapers-v11'
 
 self.addEventListener('install', e => {
   self.skipWaiting()

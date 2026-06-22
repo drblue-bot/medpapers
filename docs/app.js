@@ -13,7 +13,11 @@ let currentDetailPaper = null
 const appEl         = document.getElementById('app')
 const syncBtn       = document.getElementById('sync-btn')
 const searchInput   = document.getElementById('search-input')
-const tagsScroll    = document.getElementById('tags-scroll')
+const filterBtn     = document.getElementById('filter-btn')
+const searchPopover = document.getElementById('search-popover')
+const tagFilterSec  = document.getElementById('tag-filter-section')
+const tagClearBtn   = document.getElementById('tag-clear-btn')
+const tagsGrid      = document.getElementById('tags-grid')
 const statusBar     = document.getElementById('status-bar')
 const sortSelect    = document.getElementById('sort-select')
 const paperList     = document.getElementById('paper-list')
@@ -168,20 +172,59 @@ function renderTags() {
   }))
   const sorted = Object.entries(tagCounts).sort((a, b) => b[1] - a[1])
 
-  tagsScroll.innerHTML = ''
-  sorted.forEach(([tag]) => {
+  // タグが無ければセクションごと隠す
+  tagFilterSec.hidden = sorted.length === 0
+
+  tagsGrid.innerHTML = ''
+  sorted.forEach(([tag, count]) => {
     const chip = document.createElement('button')
     chip.className = 'tag-chip' + (activeTags.has(tag) ? ' active' : '')
-    chip.textContent = tag
+    chip.textContent = `${tag} (${count})`
     chip.addEventListener('click', () => {
       if (activeTags.has(tag)) activeTags.delete(tag)
       else activeTags.add(tag)
       renderTags()
       applyFilters()
     })
-    tagsScroll.appendChild(chip)
+    tagsGrid.appendChild(chip)
   })
+
+  updateFilterIndicator()
 }
+
+// 絞り込みボタンのバッジ／クリアボタンの表示を更新
+function updateFilterIndicator() {
+  const n = activeTags.size
+  filterBtn.textContent = n > 0 ? `🏷${n}` : '⌄'
+  filterBtn.classList.toggle('has-active', n > 0)
+  tagClearBtn.hidden = n === 0
+}
+
+// ── 絞り込みポップオーバー開閉 ──────────────────────────
+function setPopoverOpen(open) {
+  searchPopover.hidden = !open
+  filterBtn.classList.toggle('open', open)
+}
+
+filterBtn.addEventListener('click', () => {
+  setPopoverOpen(searchPopover.hidden)
+})
+
+tagClearBtn.addEventListener('click', () => {
+  activeTags.clear()
+  renderTags()
+  applyFilters()
+})
+
+// 外側タップ / Esc で閉じる
+document.addEventListener('click', e => {
+  if (searchPopover.hidden) return
+  if (searchPopover.contains(e.target) || filterBtn.contains(e.target)) return
+  setPopoverOpen(false)
+})
+document.addEventListener('keydown', e => {
+  if (e.key === 'Escape') setPopoverOpen(false)
+})
 
 // ── Paper List ────────────────────────────────────────
 function renderList() {
