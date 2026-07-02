@@ -1,6 +1,81 @@
 {
-  "exported_at": "2026-07-02T00:35:16.982Z",
+  "exported_at": "2026-07-02T03:02:53.325Z",
   "papers": [
+    {
+      "id": 43,
+      "title": "Finerenone in Patients With Chronic Kidney Disease Due to Glomerular Diseases: A Randomized Clinical Trial",
+      "title_ja": "糸球体疾患による慢性腎臓病患者に対するフィネレノンの有効性と安全性：ランダム化臨床試験",
+      "journal": "JAMA",
+      "year": 2026,
+      "authors": "Neuen BL, Perkovic V, Agarwal R, et al.",
+      "tags": [
+        "RCT",
+        "CKD",
+        "腎臓",
+        "薬物療法",
+        "ミネラルコルチコイド受容体拮抗薬"
+      ],
+      "abstract_en": "IMPORTANCE Glomerular diseases are a leading cause of chronic kidney disease (CKD) and kidney failure. Finerenone, a nonsteroidal mineralocorticoid receptor antagonist, reduces the risk of kidney function loss in CKD, but its effects in individuals with CKD due to glomerular diseases are uncertain.\nOBJECTIVES To evaluate the efficacy and safety of finerenone in patients with glomerular diseases.\nDESIGN, SETTING, AND PARTICIPANTS Prespecified exploratory subgroup analysis of a phase 3, randomized, double-blind, placebo-controlled trial conducted across 24 countries and regions, focusing on participants with an investigator-reported glomerular disease diagnosis. The overall trial enrolled adults with nondiabetic CKD and an estimated glomerular filtration rate (eGFR) of either (1) at least 25 to less than 60 mL/min/1.73 m2 and urinary albumin to creatinine ratio of at least 200 mg/g to less than 500 mg/g or (2) an eGFR of at least 25 to less than 90 mL/min/1.73 m2 and urinary albumin to creatinine ratio of at least 500 mg/g to less than 3500 mg/g.\nINTERVENTION Finerenone 10 mg or 20 mg taken orally once daily (n = 446) vs matching placebo (n = 457).\nMAIN OUTCOMES AND MEASURES Annualized rate of eGFR decline (total eGFR slope) from baseline to month 32 (primary outcome of the main trial); percent change in albuminuria to 12 months; and a composite outcome of kidney failure or sustained 40% or more decline in eGFR (prespecified exploratory outcomes).\nRESULTS Of 1584 participants, 903 (57.0%) had investigator-reported glomerular disease, including 416 (46.1%) with immunoglobulin A nephropathy, 215 (23.8%) with focal segmental glomerulosclerosis, and 90 (10.0%) with membranous nephropathy. Participants with glomerular disease (mean [SD] age, 51.1 [13.6] years; 362 female [40.1%]; 558 Asian [61.9%]) had a mean eGFR of 48.8 mL/min/1.73 m2 and median urinary albumin to creatinine ratio of 839.6 mg/g. The total eGFR slope up to 32 months was −3.50 mL/min/1.73 m2 per year with finerenone and −4.23 mL/min/1.73 m2 per year with placebo (0.73 mL/min/1.73 m2 per year difference; 95% CI, 0.22-1.24). Finerenone reduced albuminuria at month 12 by 42% (95% CI, 35%-48%) and lowered the risk of kidney failure or 40% or more eGFR decline (7.42 vs 9.60 events per 100 patient-years; hazard ratio, 0.74; 95% CI, 0.57-0.97).\nCONCLUSIONS AND RELEVANCE In this exploratory analysis, treatment with finerenone slowed kidney function decline, reduced albuminuria, and lowered the risk of kidney failure or substantial loss of kidney function in patients with glomerular diseases. These findings suggest an important role for finerenone in preserving kidney function in this population.",
+      "abstract_ja": null,
+      "abstract_sections": [
+        {
+          "label": "重要性",
+          "label_en": "IMPORTANCE",
+          "content_en": "Glomerular diseases are a leading cause of chronic kidney disease (CKD) and kidney failure. Finerenone, a nonsteroidal mineralocorticoid receptor antagonist, reduces the risk of kidney function loss in CKD, but its effects in individuals with CKD due to glomerular diseases are uncertain.",
+          "content": "糸球体疾患は、慢性腎臓病（CKD）および腎不全の主要な原因である。フィネレノンは、非ステロイド型ミネラルコルチコイド受容体拮抗薬であり、CKDにおける腎機能喪失のリスクを低下させるが、糸球体疾患に起因するCKD患者に対するその効果は不確実である。"
+        },
+        {
+          "label": "目的",
+          "label_en": "OBJECTIVES",
+          "content_en": "To evaluate the efficacy and safety of finerenone in patients with glomerular diseases.",
+          "content": "糸球体疾患患者におけるフィネレノンの有効性と安全性を評価すること。"
+        },
+        {
+          "label": "デザイン、設定、および参加者",
+          "label_en": "DESIGN, SETTING, AND PARTICIPANTS",
+          "content_en": "Prespecified exploratory subgroup analysis of a phase 3, randomized, double-blind, placebo-controlled trial conducted across 24 countries and regions, focusing on participants with an investigator-reported glomerular disease diagnosis. The overall trial enrolled adults with nondiabetic CKD and an estimated glomerular filtration rate (eGFR) of either (1) at least 25 to less than 60 mL/min/1.73 m2 and urinary albumin to creatinine ratio of at least 200 mg/g to less than 500 mg/g or (2) an eGFR of at least 25 to less than 90 mL/min/1.73 m2 and urinary albumin to creatinine ratio of at least 500 mg/g to less than 3500 mg/g.",
+          "content": "研究者により糸球体疾患と診断された参加者に焦点を当て、24カ国・地域で実施された第3相ランダム化二重盲検プラセボ対照試験の事前指定された探索的サブグループ解析。試験全体では、非糖尿病性CKDを有する成人で、推算糸球体濾過量（eGFR）が(1)25 mL/min/1.73 m2以上60 mL/min/1.73 m2未満かつ尿中アルブミン/クレアチニン比が200 mg/g以上500 mg/g未満、または(2)eGFRが25 mL/min/1.73 m2以上90 mL/min/1.73 m2未満かつ尿中アルブミン/クレアチニン比が500 mg/g以上3500 mg/g未満の患者が登録された。"
+        },
+        {
+          "label": "介入",
+          "label_en": "INTERVENTION",
+          "content_en": "Finerenone 10 mg or 20 mg taken orally once daily (n = 446) vs matching placebo (n = 457).",
+          "content": "フィネレノン10 mgまたは20 mgの1日1回経口投与（n = 446）対マッチングプラセボ（n = 457）。"
+        },
+        {
+          "label": "主要評価項目および測定項目",
+          "label_en": "MAIN OUTCOMES AND MEASURES",
+          "content_en": "Annualized rate of eGFR decline (total eGFR slope) from baseline to month 32 (primary outcome of the main trial); percent change in albuminuria to 12 months; and a composite outcome of kidney failure or sustained 40% or more decline in eGFR (prespecified exploratory outcomes).",
+          "content": "ベースラインから32カ月までのeGFR低下の年率（総eGFRスロープ）（本試験の主要評価項目）、12カ月までのアルブミン尿の％変化、および腎不全またはeGFRの40%以上の持続的低下という複合アウトカム（事前指定された探索的アウトカム）。"
+        },
+        {
+          "label": "結果",
+          "label_en": "RESULTS",
+          "content_en": "Of 1584 participants, 903 (57.0%) had investigator-reported glomerular disease, including 416 (46.1%) with immunoglobulin A nephropathy, 215 (23.8%) with focal segmental glomerulosclerosis, and 90 (10.0%) with membranous nephropathy. Participants with glomerular disease (mean [SD] age, 51.1 [13.6] years; 362 female [40.1%]; 558 Asian [61.9%]) had a mean eGFR of 48.8 mL/min/1.73 m2 and median urinary albumin to creatinine ratio of 839.6 mg/g. The total eGFR slope up to 32 months was −3.50 mL/min/1.73 m2 per year with finerenone and −4.23 mL/min/1.73 m2 per year with placebo (0.73 mL/min/1.73 m2 per year difference; 95% CI, 0.22-1.24). Finerenone reduced albuminuria at month 12 by 42% (95% CI, 35%-48%) and lowered the risk of kidney failure or 40% or more eGFR decline (7.42 vs 9.60 events per 100 patient-years; hazard ratio, 0.74; 95% CI, 0.57-0.97).",
+          "content": "1584人の参加者のうち、903人（57.0%）が研究者報告による糸球体疾患を有しており、その内訳は、免疫グロブリンA腎症が416人（46.1%）、巣状分節状糸球体硬化症が215人（23.8%）、膜性腎症が90人（10.0%）であった。糸球体疾患を有する参加者（平均[SD]年齢51.1 [13.6]歳、女性362人 [40.1%]、アジア人558人 [61.9%]）の平均eGFRは48.8 mL/min/1.73 m2、尿中アルブミン/クレアチニン比の中央値は839.6 mg/gであった。32カ月までの総eGFRスロープは、フィネレノン群で−3.50 mL/min/1.73 m2/年、プラセボ群で−4.23 mL/min/1.73 m2/年であった（差は0.73 mL/min/1.73 m2/年、95% CI, 0.22-1.24）。フィネレノンは12カ月時点のアルブミン尿を42%低下させ（95% CI, 35%-48%）、腎不全またはeGFRの40%以上の低下のリスクを低減させた（100人・年あたり7.42対9.60イベント、ハザード比0.74、95% CI, 0.57-0.97）。"
+        },
+        {
+          "label": "結論および妥当性",
+          "label_en": "CONCLUSIONS AND RELEVANCE",
+          "content_en": "In this exploratory analysis, treatment with finerenone slowed kidney function decline, reduced albuminuria, and lowered the risk of kidney failure or substantial loss of kidney function in patients with glomerular diseases. These findings suggest an important role for finerenone in preserving kidney function in this population.",
+          "content": "この探索的解析において、フィネレノンによる治療は、糸球体疾患患者における腎機能低下を遅延させ、アルブミン尿を減少させ、腎不全または大幅な腎機能喪失のリスクを低減させた。これらの知見は、この集団における腎機能の保持においてフィネレノンが重要な役割を果たすことを示唆している。"
+        }
+      ],
+      "pico": {
+        "framework": "PICO",
+        "P": "治験責任医師によって糸球体疾患と診断された非糖尿病性CKD患者",
+        "I": "フィネレノン（10mgまたは20mg/日）",
+        "C": "プラセボ",
+        "O": "腎不全またはeGFRの40%以上の持続的低下のリスク（HR 0.74, 95% CI 0.57-0.97, p<0.05）",
+        "NNT": 45.5,
+        "significant": true
+      },
+      "key_results": null,
+      "nnt": null,
+      "memo": null,
+      "pmid": null,
+      "updated_at": "2026-07-02 03:02:51"
+    },
     {
       "id": 42,
       "title": "Cefazolin for Methicillin-Susceptible Staphylococcus aureus Bacteremia",
@@ -54,9 +129,9 @@
       },
       "key_results": null,
       "nnt": null,
-      "memo": null,
+      "memo": "<font size=\"2\">CareNetより</font><div><font size=\"2\"><br></font></div><div><p style=\"border: 0px; vertical-align: baseline; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif; text-decoration-thickness: auto; text-decoration-style: solid;\"><font size=\"2\">　メチシリン感受性黄色ブドウ球菌（MSSA）菌血症患者において、90日死亡率に関して抗ブドウ球菌ペニシリン（flucloxacillinまたはクロキサシリン）に対するセファゾリンの非劣性が認められ、急性腎障害の発生率はセファゾリンで低かった。カナダ・マギル大学のTodd C. Lee氏ら<i style=\"border: 0px; vertical-align: baseline;\">Staphylococcus aureus</i><span class=\"Apple-converted-space\">&nbsp;</span>Network Adaptive Platform（SNAP）Trial Groupが、多施設共同無作為化非盲検非劣性試験「SNAP試験」の結果を報告した。黄色ブドウ球菌菌血症は死亡率が高い。MSSA菌血症の治療において、セファゾリンと抗ブドウ球菌ペニシリンのどちらが望ましいかは明らかになっていなかった。NEJM誌2026年6月18日号掲載の報告。<br><br></font></p><h2 class=\"title02_border_none\" style=\"padding-top: 6px; padding-bottom: 6px; border: 0px; vertical-align: baseline; line-height: 1.4; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif; text-decoration-thickness: auto; text-decoration-style: solid;\"><font size=\"2\">セファゾリンとflucloxacillinまたはクロキサシリンを比較</font></h2><font size=\"2\"><span style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\">　SNAP試験は、8ヵ国（オーストラリア、カナダ、イスラエル、オランダ、ニュージーランド、シンガポール、南アフリカ共和国、英国）の91施設において実施されている現在進行中のベイジアン・アダプティブ・プラットフォーム試験で、黄色ブドウ球菌菌血症に対する複数の治療（例：抗菌薬治療、クリンダマイシン併用療法、早期の経口薬への切り替えなど）を評価している。今回は、抗菌薬治療のMSSAに関する結果が報告された。</span><br style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif; text-decoration-thickness: auto; text-decoration-style: solid;\"><span style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\">　研究グループは、ペニシリン耐性MSSA菌血症の18歳以上の入院患者を、血液培養（黄色ブドウ球菌が初めて陽性となった培養）の検体採取後72時間以内に登録し、セファゾリン群とflucloxacillinまたはクロキサシリン群に1対1の割合で無作為に割り付けた。セファゾリンは2gを8時間ごと（重症例または心内膜炎の場合は6時間ごと）、flucloxacillinは2gを6時間ごと（重症例または心内膜炎の場合は4時間ごと）、クロキサシリンは2gを4時間ごとに静脈内投与し、腎機能に応じて用量を調整した。</span><br style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif; text-decoration-thickness: auto; text-decoration-style: solid;\"><span style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\">　投与期間は、非複雑性菌血症で最低14日間、複雑性菌血症で28～42日間とした。なお、非複雑性菌血症の場合は7日目に、複雑性菌血症の場合は14日目に、適格であれば早期の経口薬への切り替えを評価するドメインへの移行が許可された。</span><br style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif; text-decoration-thickness: auto; text-decoration-style: solid;\"><span style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\">　主要アウトカムは登録後90日以内の全死因死亡で、階層ベイズロジスティック回帰モデルを用いて解析し、セファゾリンがflucloxacillinまたはクロキサシリンに対して非劣性である事後確率（非劣性基準は補正後オッズ比[OR]＜1.2と事前に規定、これはflucloxacillinまたはクロキサシリン群の死亡率が15％の場合に死亡率の絶対差が2.5％ポイント未満に相当することを示す）、ならびに優越性の事後確率（基準は補正後OR＜1.0）を評価した。安全性の評価項目には、14日以内の急性腎障害の発症が含まれた。</span><br style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif; text-decoration-thickness: auto; text-decoration-style: solid;\"><br style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif; text-decoration-thickness: auto; text-decoration-style: solid;\"></font><h2 class=\"title02_border_none\" style=\"padding-top: 6px; padding-bottom: 6px; border: 0px; vertical-align: baseline; line-height: 1.4; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif; text-decoration-thickness: auto; text-decoration-style: solid;\"><font size=\"2\">90日死亡率、セファゾリン群15％、flucloxacillinまたはクロキサシリン群17％</font></h2><font size=\"2\"><span style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\">　2022年2月17日より登録を開始し、2024年6月21日に、事前に計画された第4回中間解析に基づき、データ安全性モニタリング委員会から急性腎障害に関する安全性シグナルを理由に患者登録の中断が要請された。その時点の解析で非劣性の基準が満たされたことから、2024年8月7日に試験は終了した。</span><br style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif; text-decoration-thickness: auto; text-decoration-style: solid;\"><span style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\">　計1,341例が無作為化され、671例がセファゾリン、670例がflucloxacillinまたはクロキサシリンの投与を受け、追跡不能例等を除く1,287例（セファゾリン群645例、flucloxacillinまたはクロキサシリン群642例）が主要アウトカムの解析対象となった。</span><br style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif; text-decoration-thickness: auto; text-decoration-style: solid;\"><span style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\">　90日死亡率は、セファゾリン群15.0％（97/645例）、flucloxacillinまたはクロキサシリン群17.0％（109/642例）、補正後ORは0.81（95％信頼区間[CI]：0.59～1.12）であり、非劣性の事後確率は99.2％、優越性の事後確率は89.8％であった。</span><br style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif; text-decoration-thickness: auto; text-decoration-style: solid;\"><span style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\">　14日以内の急性腎障害は、セファゾリン群で660例中92例（13.9％）に、flucloxacillinまたはクロキサシリン群では648例中127例（19.6％）に認められた（補正後OR：0.67、95％CI：0.50～0.89、優越性の事後確率99.7％）。</span></font></div>",
       "pmid": "42308484",
-      "updated_at": "2026-07-02 00:35:15"
+      "updated_at": "2026-07-02 00:38:29"
     },
     {
       "id": 41,
