@@ -1,6 +1,69 @@
 {
-  "exported_at": "2026-06-25T00:34:41.609Z",
+  "exported_at": "2026-07-02T00:32:49.406Z",
   "papers": [
+    {
+      "id": 41,
+      "title": "Hyperglycosylation is a metabolic driver of Alzheimer’s disease",
+      "title_ja": "脳内の過剰糖鎖付加がアルツハイマー病の代謝的駆動因子である",
+      "journal": "Nature Metabolism",
+      "year": 2026,
+      "authors": "Hawkinson TR, Liu Z, Ribas RA, et al.",
+      "tags": [
+        "コホート研究",
+        "アルツハイマー病",
+        "神経",
+        "食事・栄養",
+        "その他"
+      ],
+      "abstract_en": "Alzheimer’s disease (AD) is a devastating neurodegenerative disorder marked by progressive cognitive decline. Metabolic disruptions are widely observed, yet their involvement in the molecular aetiology of AD remains underexplored.\n\nHere we identify hyperglycosylation as a driver of AD.\n\nIntegrating spatial metabolomics, lipidomics and glycomics in transgenic AD mouse models and post-mortem human AD samples, along with advanced spatial isotopic tracing pulse-chase analysis of N-linked glycans, we demonstrate that the conserved phenotype of brain hyperglycosylation is driven by increased glycan biosynthesis.\n\nGenetic knockdown of glycan biosynthetic enzymes improves cognitive outcomes in AD mice whereas oral glucosamine supplementation impairs them. A retrospective analysis of electronic health records from patients with AD with varying disease severity shows that glucosamine supplementation is associated with accelerated AD progression and worsened survival.\n\nOverall, these results establish hyperglycosylation as a pathological driver of AD and highlight glycan metabolism as an actionable target in the fight against AD.",
+      "abstract_ja": null,
+      "abstract_sections": [
+        {
+          "label": "背景",
+          "label_en": "None",
+          "content_en": "Alzheimer’s disease (AD) is a devastating neurodegenerative disorder marked by progressive cognitive decline. Metabolic disruptions are widely observed, yet their involvement in the molecular aetiology of AD remains underexplored.",
+          "content": "アルツハイマー病（AD）は、進行性の認知機能低下を特徴とする壊滅的な神経変性疾患である。代謝の攪乱は広く観察されているが、ADの分子病因におけるそれらの関与については、いまだ十分に調査されていない。"
+        },
+        {
+          "label": "目的",
+          "label_en": "None",
+          "content_en": "Here we identify hyperglycosylation as a driver of AD.",
+          "content": "本研究において、我々はハイパーグリコシル化（過剰糖鎖付加）をADの促進因子として特定する。"
+        },
+        {
+          "label": "方法",
+          "label_en": "None",
+          "content_en": "Integrating spatial metabolomics, lipidomics and glycomics in transgenic AD mouse models and post-mortem human AD samples, along with advanced spatial isotopic tracing pulse-chase analysis of N-linked glycans, we demonstrate that the conserved phenotype of brain hyperglycosylation is driven by increased glycan biosynthesis.",
+          "content": "トランスジェニックADマウスモデルおよび死後のヒトAD検体において空間メタボロミクス、リピドミクス、およびグリコミクスを統合し、さらにN結合型糖鎖の高度な空間同位体トレーシングによるパルスチェイス解析を併用することで、脳のハイパーグリコシル化という保存された表現型が、糖鎖生合成の増加によって引き起こされることを実証する。"
+        },
+        {
+          "label": "結果",
+          "label_en": "None",
+          "content_en": "Genetic knockdown of glycan biosynthetic enzymes improves cognitive outcomes in AD mice whereas oral glucosamine supplementation impairs them. A retrospective analysis of electronic health records from patients with AD with varying disease severity shows that glucosamine supplementation is associated with accelerated AD progression and worsened survival.",
+          "content": "糖鎖生合成酵素の遺伝学的ノックダウンはADマウスの認知機能予後を改善する一方、経口グルコサミン投与はそれを悪化させる。様々な疾患重症度を有するAD患者の電子健康記録のレトロスペクティブ解析により、グルコサミンの補給はADの進行加速および生存率の悪化と関連していることが示された。"
+        },
+        {
+          "label": "結論",
+          "label_en": "None",
+          "content_en": "Overall, these results establish hyperglycosylation as a pathological driver of AD and highlight glycan metabolism as an actionable target in the fight against AD.",
+          "content": "全体として、これらの結果はハイパーグリコシル化をADの病理学的促進因子として確立するものであり、ADとの闘いにおける介入可能な標的として糖鎖代謝を浮き彫りにするものである。"
+        }
+      ],
+      "pico": {
+        "framework": "PECO",
+        "P": "アルツハイマー病（AD）関連認知症患者およびトランスジェニックADマウスモデル",
+        "I": "グルコサミン補給（曝露）",
+        "C": "グルコサミン非使用群",
+        "O": "AD進行の加速および生存率の悪化（EHR解析においてADRD患者で死亡リスク25%増加、p=0.0023）",
+        "NNT": null,
+        "significant": true
+      },
+      "key_results": null,
+      "nnt": null,
+      "memo": null,
+      "pmid": "42265388",
+      "updated_at": "2026-07-02 00:32:47"
+    },
     {
       "id": 40,
       "title": "Efficacy and safety of finerenone in patients with chronic kidney disease: an individual participant data pooled analysis (INFINITY)",
@@ -54,9 +117,9 @@
       },
       "key_results": null,
       "nnt": null,
-      "memo": null,
+      "memo": "<p style=\"border: 0px; vertical-align: baseline; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif; text-decoration-thickness: auto; text-decoration-style: solid;\"><font size=\"2\">CareNetより</font></p><p style=\"border: 0px; vertical-align: baseline; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif; text-decoration-thickness: auto; text-decoration-style: solid;\"><font size=\"2\">　原因疾患や血糖値、推算糸球体濾過量（eGFR）、アルブミン尿の程度が異なる慢性腎臓病（CKD）の患者において、非ステロイド型ミネラルコルチコイド受容体拮抗薬フィネレノンは腎不全単独を含むCKD進行リスクを抑制し、心不全による入院、心血管死および全死因死亡リスクを低下させることが、オーストラリア・ニューサウスウェールズ大学のBrendon L. Neuen氏らFIND-CKD, FIDELIO-DKD and FIGARO-DKD Investigatorsが行ったメタ解析の結果で示された。フィネレノンは、2型糖尿病合併CKDにおいて腎関連および心血管系への有益性が示されているが、広範なCKD患者集団における有効性や安全性は評価されていなかった。結果を踏まえて著者は、「フィネレノンは多岐にわたるCKD患者の基礎治療として支持される」と述べている。Lancet誌2026年6月13日号掲載の報告。<br><br></font></p><h2 class=\"title02_border_none\" style=\"padding-top: 6px; padding-bottom: 6px; border: 0px; vertical-align: baseline; line-height: 1.4; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif; text-decoration-thickness: auto; text-decoration-style: solid;\"><font size=\"2\">3つの無作為化二重盲検プラセボ対照試験の患者個別データをメタ解析</font></h2><font size=\"2\"><span style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\">　研究グループは、CKD患者におけるフィネレノンについて評価した3つの無作為化二重盲検プラセボ対照試験（FIDELIO-DKD試験［2015年9月17日～2020年4月14日］、FIGARO-DKD試験［2015年9月17日～2021年2月2日］、FIND-CKD試験［2021年9月21日～2026年2月2日］）の、被験者個々のデータを用いてメタ解析を行った。</span><br style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif; text-decoration-thickness: auto; text-decoration-style: solid;\"><span style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\">　Cox比例ハザードモデルを用いて、腎関連および心血管アウトカムへの相対的有効性を評価した。腎関連の主要アウトカムは、腎不全またはeGFRの57％以上の持続的な低下であり、心血管系の主要アウトカムは、心不全による入院または心血管死であった。</span><br style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif; text-decoration-thickness: auto; text-decoration-style: solid;\"><br style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif; text-decoration-thickness: auto; text-decoration-style: solid;\"></font><h2 class=\"title02_border_none\" style=\"padding-top: 6px; padding-bottom: 6px; border: 0px; vertical-align: baseline; line-height: 1.4; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif; text-decoration-thickness: auto; text-decoration-style: solid;\"><font size=\"2\">腎関連複合アウトカムリスクを24％、心血管系複合アウトカムリスクを20％低下</font></h2><font size=\"2\"><span style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\">　3試験には1万4,574例が登録されており、平均年齢は63.7歳（SD 10.6）、女性4,467例（30.7％）、男性1万107例（69.3％）で、平均eGFRは56.4mL/分/1.73m</span><span class=\"FNTsup\" style=\"border: 0px; vertical-align: 4px; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif; text-decoration-thickness: auto; text-decoration-style: solid;\">2</span><span style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\">（SD 21.4）であり、尿中アルブミン/クレアチニン比の中央値は567.4mg/g（四分位範囲：233.6～1,164.7）であった。</span><br style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif; text-decoration-thickness: auto; text-decoration-style: solid;\"><span style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\">　フィネレノンはプラセボと比較して、腎関連複合アウトカムのリスクを24％低下させ（22.3 vs.28.8件/1,000患者年、ハザード比[HR]：0.76［95％信頼区間[CI]：0.68～0.86］）、腎不全単独のリスクも低下させた（HR：0.85［95％CI：0.74～0.99］）。</span><br style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif; text-decoration-thickness: auto; text-decoration-style: solid;\"><span style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\">　また、フィネレノンはプラセボと比較して、心血管系複合アウトカムのリスクを20％低下させた（19.1 vs.23.9件/1,000患者年、HR：0.80［95％CI：0.70～0.91］）。心不全による入院のHRは0.78（95％CI：0.66～0.92）、心血管死のHRは0.82（95％CI：0.67～0.999）であった。</span><br style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif; text-decoration-thickness: auto; text-decoration-style: solid;\"><span style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\">　フィネレノンは、全死因死亡のリスクも低下させた（HR：0.88、95％CI：0.79～0.99）。</span><br style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif; text-decoration-thickness: auto; text-decoration-style: solid;\"><span style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\">　腎関連複合アウトカムへの治療効果は、血糖値、CKDの原因疾患、ベースラインのeGFR値、アルブミン尿およびSGLT2阻害薬の使用状況を問わず一貫していた。</span><br style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif; text-decoration-thickness: auto; text-decoration-style: solid;\"><span style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\">　フィネレノン群ではプラセボ群よりも高カリウム血症が高頻度に認められたが、入院に至る高カリウム血症の絶対的な発現頻度は低かった。</span></font>",
       "pmid": "42248158",
-      "updated_at": "2026-06-25 00:34:39"
+      "updated_at": "2026-06-25 00:37:29"
     },
     {
       "id": 39,
