@@ -1,6 +1,63 @@
 {
-  "exported_at": "2026-07-09T06:47:04.397Z",
+  "exported_at": "2026-07-09T07:32:06.477Z",
   "papers": [
+    {
+      "id": 49,
+      "title": "Do caregiver cooking skills boost adolescent resilience and prosocial behavior? Results from a population-based longitudinal study in Japan",
+      "title_ja": "養育者の調理スキルは思春期の子どものレジリエンスと向社会的行動を促進するか：日本における住民ベースの縦断研究の結果",
+      "journal": "BMC Psychology",
+      "year": 2026,
+      "authors": "Tani Y, Isumi A, Fujiwara T",
+      "tags": [
+        "コホート研究",
+        "うつ病",
+        "全身",
+        "食事・栄養",
+        "生活習慣"
+      ],
+      "abstract_en": "Purpose Promoting positive mental health in adolescence is important for life-course well-being. We sought to examine whether caregivers’ cooking skills are associated with the promotion of adolescents’ resilience and prosocial behavior in Japan.\nMethods We used longitudinal data from 2018 to 2020 from the Adachi Child Health Impact of Living Difficulty (A-CHILD) study. The baseline survey was administered to all fourth-grade elementary school students (9–10 years old) and their caregivers, and a follow-up survey was administered 2 years later (n=3,641, follow-up rate=87%). Caregiver cooking skills were assessed at baseline using a cooking skills scale modified for use in Japan. Child resilience and prosocial behavior in fourth and sixth grade were assessed by caregivers using the Children’s Resilient Coping Scale and the Strength and Difficulties Questionnaire, respectively, and scores were rescaled to a 0–100 metric to facilitate interpretation. Multivariable linear regression models were used to examine associations between caregiver cooking skills and child outcomes after adjustment for potential confounders. Mediation analyses estimated indirect effects through food-related household routines, caregiver-child interactions, and family cohesion.\nResults In multivariable linear regression analyses, higher baseline caregiver cooking skills were associated with higher resilience and prosocial behavior scores at follow-up. Compared with children in the lowest quartile, those in the highest quartile had resilience scores that were 8.75 points higher (95% CI: 7.38 to 10.1) and prosocial behavior scores that were 9.51 points higher (95% CI: 7.68 to 11.3) in the model adjusted for potential confounders. These associations were partially mediated by food-related household routines, caregiver-child interactions, and family cohesion.\nConclusions For early adolescents in Japan, caregivers’ cooking skills were associated with children’s positive mental health. An educational program that allows caregivers to learn cooking skills may be important in promoting adolescent positive mental health.",
+      "abstract_ja": null,
+      "abstract_sections": [
+        {
+          "label": "目的",
+          "label_en": "Purpose",
+          "content_en": "Promoting positive mental health in adolescence is important for life-course well-being. We sought to examine whether caregivers’ cooking skills are associated with the promotion of adolescents’ resilience and prosocial behavior in Japan.",
+          "content": "思春期におけるポジティブなメンタルヘルスを促進することは、ライフコースを通じたウェルビーイングにとって重要である。我々は、日本の思春期の子どもたちにおいて、養育者の調理スキルが子どものレジリエンスおよび向社会的行動の促進に関連しているかどうかを検討することを目的とした。"
+        },
+        {
+          "label": "方法",
+          "label_en": "Methods",
+          "content_en": "We used longitudinal data from 2018 to 2020 from the Adachi Child Health Impact of Living Difficulty (A-CHILD) study. The baseline survey was administered to all fourth-grade elementary school students (9–10 years old) and their caregivers, and a follow-up survey was administered 2 years later (n=3,641, follow-up rate=87%). Caregiver cooking skills were assessed at baseline using a cooking skills scale modified for use in Japan. Child resilience and prosocial behavior in fourth and sixth grade were assessed by caregivers using the Children’s Resilient Coping Scale and the Strength and Difficulties Questionnaire, respectively, and scores were rescaled to a 0–100 metric to facilitate interpretation. Multivariable linear regression models were used to examine associations between caregiver cooking skills and child outcomes after adjustment for potential confounders. Mediation analyses estimated indirect effects through food-related household routines, caregiver-child interactions, and family cohesion.",
+          "content": "我々は、2018年から2020年までの「足立区子どもの健康・生活実態調査（A-CHILD研究）」の縦断データを使用した。ベースライン調査はすべての小学4年生（9～10歳）とその養育者を対象に実施され、追跡調査は2年後に実施された（n=3,641、追跡率=87%）。養育者の調理スキルは、ベースライン時に日本向けに修正された調理スキル尺度を用いて評価された。4年生および6年生時点での子どものレジリエンスおよび向社会的行動は、養育者によりそれぞれChildren’s Resilient Coping Scale（子どものレジリエンス・コーピング尺度）およびStrength and Difficulties Questionnaire（強みと困難さアンケート）を用いて評価され、解釈を容易にするためにスコアを0～100の指標に再換算した。潜在的な交絡因子を調整した後、養育者の調理スキルと子どものアウトカムとの関連を検討するために、多変量線形回帰モデルを用いた。媒介分析により、食事に関連する家庭のルーチン、養育者と子どもの相互作用、および家族の結束を通じた間接効果を推定した。"
+        },
+        {
+          "label": "結果",
+          "label_en": "Results",
+          "content_en": "In multivariable linear regression analyses, higher baseline caregiver cooking skills were associated with higher resilience and prosocial behavior scores at follow-up. Compared with children in the lowest quartile, those in the highest quartile had resilience scores that were 8.75 points higher (95% CI: 7.38 to 10.1) and prosocial behavior scores that were 9.51 points higher (95% CI: 7.68 to 11.3) in the model adjusted for potential confounders. These associations were partially mediated by food-related household routines, caregiver-child interactions, and family cohesion.",
+          "content": "多変量線形回帰分析において、ベースライン時の養育者の調理スキルが高いことは、追跡調査時のより高いレジリエンスおよび向社会的行動スコアと関連していた。潜在的な交絡因子を調整したモデルにおいて、最低四分位群の子どもと比較して、最高四分位群の子どもは、レジリエンススコアが8.75ポイント高く（95% CI: 7.38～10.1）、向社会的行動スコアが9.51ポイント高かった（95% CI: 7.68～11.3）。これらの関連は、食事に関連する家庭のルーチン、養育者と子どもの相互作用、および家族の結束によって部分的に媒介されていた。"
+        },
+        {
+          "label": "結論",
+          "label_en": "Conclusions",
+          "content_en": "For early adolescents in Japan, caregivers’ cooking skills were associated with children’s positive mental health. An educational program that allows caregivers to learn cooking skills may be important in promoting adolescent positive mental health.",
+          "content": "日本の初期思春期において、養育者の調理スキルは子どものポジティブなメンタルヘルスと関連していた。養育者が調理スキルを学習できる教育プログラムは、思春期のポジティブなメンタルヘルスを促進する上で重要である可能性がある。"
+        }
+      ],
+      "pico": {
+        "framework": "PECO",
+        "P": "日本における小学4年生（9〜10歳）とその養育者（n=3,641）",
+        "I": "養育者の調理スキル（ベースライン時の四分位）",
+        "C": "養育者の調理スキルが最低の四分位群",
+        "O": "2年後の子どものレジリエンスおよび向社会的行動スコア（最高四分位群でレジリエンス+8.75、向社会的行動+9.51、いずれもp<0.001）",
+        "NNT": null,
+        "significant": true
+      },
+      "key_results": null,
+      "nnt": null,
+      "memo": null,
+      "pmid": null,
+      "updated_at": "2026-07-09 07:32:04"
+    },
     {
       "id": 48,
       "title": "Lifestyle and Metformin Interventions and Risk of Multimorbidity in Adults With Prediabetes",
@@ -72,9 +129,9 @@
       },
       "key_results": null,
       "nnt": null,
-      "memo": null,
+      "memo": "<font size=\"2\">CareNetより</font><div><font size=\"2\"><br></font><div><p style=\"border: 0px; vertical-align: baseline; color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\"><font size=\"2\">　前糖尿病の成人において、生活習慣の改善は多疾患併存の負担軽減と関連するが、メトホルミン介入ではそのような関連は示されなかった。米国国立老化研究所のMarcel E. Salive氏らDPP Research Groupによる、無作為化試験の被験者を長期にわたって追跡評価した観察コホート研究で示された。個別疾患のみならず多疾患併存の予防や発症遅延についての研究は、公衆衛生上きわめて重要であるが、長期的な追跡調査で有効性が実証された介入方法はほとんどない。今回の結果について著者は、「生活習慣改善プログラムは、慢性疾患の発症を長期にわたって抑制する可能性がある」とまとめている。JAMA誌オンライン版2026年6月15日号掲載の報告。<br><br></font></p><h2 class=\"title02_border_none\" style=\"padding-top: 6px; padding-bottom: 6px; border: 0px; vertical-align: baseline; line-height: 1.4; color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\"><font size=\"2\">無作為化試験に参加した前糖尿病患者を、試験後21年間にわたり追跡</font></h2><font size=\"2\"><span style=\"color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\">　研究グループは、前糖尿病の成人における多疾患併存の発症との関連性について、生活習慣への介入またはメトホルミンによる介入とプラセボを比較する検討を、1996年6月1日～2021年12月31日に米国27施設で実施した。1996年6月1日～1999年5月28日の3年間にわたるDiabetes Prevention Program（DPP）に、2型糖尿病リスクの高い成人3,234例が登録され、これらの被験者はその後にDPP Outcomes Study（DPPOS）に登録された。本コホートのうち、2021年までのCenters for Medicare &amp; Medicaid Services疾患データが入手可能であり、同意が得られた1,173例のデータについて、2024年6月5日～2025年11月7日に解析を行った。</span><br style=\"color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\"><span style=\"color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\">　DPPにおいて被験者は、生活習慣改善群、メトホルミン群、プラセボ群に無作為化された。DPPOSにおいては、プラセボ投与が中止され薬物治療が非盲検化された。メトホルミン治療は継続された。</span><br style=\"color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\"><span style=\"color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\">　生活習慣改善群には年2回の集団介入が提供され、また全被験者について2014年までに年4回、生活習慣改善の介入が提供された。</span><br style=\"color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\"><span style=\"color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\">　主要アウトカムは多疾患併存の発症で、Medicare支払いデータベースで定義される15の主要な慢性疾患のうち2つ以上の発症が認められる場合と定義した。</span><br style=\"color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\"><span style=\"color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\">　Cox比例ハザードモデルを用いて、各治療群のアウトカム発症リスクを推定した。</span><br style=\"color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\"><br style=\"color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\"></font><h2 class=\"title02_border_none\" style=\"padding-top: 6px; padding-bottom: 6px; border: 0px; vertical-align: baseline; line-height: 1.4; color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\"><font size=\"2\">対プラセボの多疾患併存リスク、生活習慣改善群は低下、メトホルミン群は差異なし</font></h2><font size=\"2\"><span style=\"color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\">　1,173例（年齢中央値74歳［四分位範囲[IQR]：70～80］、795例［68％］が女性）のうち、993例（85％）で2つ以上（中央値5［IQR：3～7］）の疾患の併存が、フォローアップ終了時点までに認められた（生活習慣改善群316/385例［82％］、メトホルミン群327/385例［85％］、プラセボ群350/403例［87％］）。</span><br style=\"color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\"><span style=\"color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\">　多疾患併存のリスクは関連する共変量補正後、生活習慣改善群がプラセボ群と比較して低下した（ハザード比[HR]：0.79、95％信頼区間[CI]：0.68～0.93）。メトホルミン群とプラセボ群では有意差がみられなかった（HR：0.91、95％CI：0.78～1.07）。</span><br style=\"color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\"><span style=\"color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\">　これらの関連性は、多疾患併存の定義から糖尿病を除外した場合も維持されていた。また、最も医療費が高い疾患の組み合わせに限定した場合、生活習慣改善群とプラセボ群を比較した関連性のHRは0.57（95％CI：0.38～0.85）であった。</span></font></div></div>",
       "pmid": "42295772",
-      "updated_at": "2026-07-09 06:47:03"
+      "updated_at": "2026-07-09 06:53:01"
     },
     {
       "id": 47,
