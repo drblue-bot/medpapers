@@ -1,6 +1,63 @@
 {
-  "exported_at": "2026-07-13T08:07:38.106Z",
+  "exported_at": "2026-07-18T00:27:08.595Z",
   "papers": [
+    {
+      "id": 52,
+      "title": "Finerenone in Persons with Chronic Kidney Disease without Diabetes",
+      "title_ja": "糖尿病を合併しない慢性腎臓病患者におけるフィネレノンの有効性：FIND-CKD試験",
+      "journal": "The New England Journal of Medicine",
+      "year": 2026,
+      "authors": "Heerspink HJL, Neuen BL, Agarwal R, et al.",
+      "tags": [
+        "RCT",
+        "CKD",
+        "腎臓",
+        "薬物療法",
+        "ARB/ACE阻害薬"
+      ],
+      "abstract_en": "BACKGROUND: In randomized trials, finerenone, a nonsteroidal mineralocorticoid receptor antagonist, improved kidney and cardiovascular outcomes in patients with type 2 diabetes and chronic kidney disease (CKD). Whether finerenone has similar effects in patients without diabetes who have CKD is unknown. METHODS: We randomly assigned adults without diabetes who had CKD (estimated glomerular filtration rate [eGFR], 25 to <90 ml per minute per 1.73 m2 of body-surface area) and albuminuria (urinary albumin-to-creatinine ratio, 200 to ≤3500, with albumin in milligrams and creatinine in grams) and were using a renin–angiotensin system inhibitor to receive finerenone (10 or 20 mg daily) or placebo. The primary outcome was the total eGFR slope (mean annual rate of change in the eGFR from baseline to month 32), assessed with a two-slope linear spline mixed-effects model. Secondary outcomes included a composite of kidney or cardiovascular events (reduction from baseline of at least 57% in the eGFR, kidney failure, hospitalization for heart failure, or death from cardiovascular causes), a composite of the two kidney events, and a composite of the two cardiovascular events. RESULTS: A total of 1584 participants underwent randomization — 793 were assigned to the finerenone group, and 791 to the placebo group. The mean (±SD) baseline eGFR was 46.8±16.2 ml per minute per 1.73 m2 with finerenone and 46.6±16.0 ml per minute per 1.73 m2 with placebo. The mean annual rate of change in the eGFR from baseline to month 32 was −3.3 ml per minute per 1.73 m2 (95% confidence interval [CI], −3.6 to −3.1) with finerenone and −4.0 ml per minute per 1.73 m2 (95% CI, −4.3 to −3.8) with placebo (difference, 0.7; 95% CI, 0.3 to 1.1; P<0.001). Prespecified hierarchical testing showed that the risk of a composite kidney or cardiovascular outcome event was lower with finerenone than with placebo (hazard ratio, 0.77; 95% CI, 0.60 to 0.99; P=0.04); the hazard ratio was 0.78 (95% CI, 0.60 to 1.01) for the composite of the two kidney events and 0.60 (95% CI, 0.27 to 1.33) for the composite of the two cardiovascular events. The most common adverse event was hyperkalemia (135 participants [17.0%] with finerenone and 105 [13.3%] with placebo); hyperkalemia events led to discontinuation of the trial regimen in 12 participants (1.5%) and 1 participant (0.1%), respectively, and to hospitalization in 7 (0.9%) and 5 (0.6%). CONCLUSIONS: Among adults with CKD who did not have diabetes, finerenone led to a slower decrease in the eGFR than placebo over 32 months. (Funded by Bayer; FIND-CKD ClinicalTrials.gov number, NCT05047263.)",
+      "abstract_ja": null,
+      "abstract_sections": [
+        {
+          "label": "背景",
+          "label_en": "BACKGROUND",
+          "content_en": "In randomized trials, finerenone, a nonsteroidal mineralocorticoid receptor antagonist, improved kidney and cardiovascular outcomes in patients with type 2 diabetes and chronic kidney disease (CKD). Whether finerenone has similar effects in patients without diabetes who have CKD is unknown.",
+          "content": "ランダム化試験において、非ステロイド型ミネラルコルチコイド受容体拮抗薬であるフィネレノンは、2型糖尿病および慢性腎臓病（CKD）患者の腎臓および心血管の転帰を改善した。糖尿病を伴わないCKD患者においてもフィネレノンが同様の効果をもたらすかどうかは不明である。"
+        },
+        {
+          "label": "方法",
+          "label_en": "METHODS",
+          "content_en": "We randomly assigned adults without diabetes who had CKD (estimated glomerular filtration rate [eGFR], 25 to <90 ml per minute per 1.73 m2 of body-surface area) and albuminuria (urinary albumin-to-creatinine ratio, 200 to ≤3500, with albumin in milligrams and creatinine in grams) and were using a renin–angiotensin system inhibitor to receive finerenone (10 or 20 mg daily) or placebo. The primary outcome was the total eGFR slope (mean annual rate of change in the eGFR from baseline to month 32), assessed with a two-slope linear spline mixed-effects model. Secondary outcomes included a composite of kidney or cardiovascular events (reduction from baseline of at least 57% in the eGFR, kidney failure, hospitalization for heart failure, or death from cardiovascular causes), a composite of the two kidney events, and a composite of the two cardiovascular events.",
+          "content": "我々は、糖尿病を伴わず、CKD（推算糸球体濾過量［eGFR］が25〜90ml/分/1.73m2未満）およびアルブミン尿（尿中アルブミン/クレアチニン比が200〜3500以下、アルブミンはミリグラム、クレアチニンはグラムで測定）を有し、レニン・アンジオテンシン系阻害薬を使用している成人を、フィネレノン（1日10mgまたは20mg）またはプラセボを投与する群にランダムに割り付けた。主要評価項目は全eGFR勾配（ベースラインから32か月までのeGFRの平均年間変化率）とし、2勾配線形スプライン混合効果モデルを用いて評価した。副次評価項目には、腎臓または心血管イベントの複合（eGFRのベースラインからの57%以上の低下、腎不全、心不全による入院、または心血管死）、2つの腎臓イベントの複合、および2つの心血管イベントの複合が含まれた。"
+        },
+        {
+          "label": "結果",
+          "label_en": "RESULTS",
+          "content_en": "A total of 1584 participants underwent randomization — 793 were assigned to the finerenone group, and 791 to the placebo group. The mean (±SD) baseline eGFR was 46.8±16.2 ml per minute per 1.73 m2 with finerenone and 46.6±16.0 ml per minute per 1.73 m2 with placebo. The mean annual rate of change in the eGFR from baseline to month 32 was −3.3 ml per minute per 1.73 m2 (95% confidence interval [CI], −3.6 to −3.1) with finerenone and −4.0 ml per minute per 1.73 m2 (95% CI, −4.3 to −3.8) with placebo (difference, 0.7; 95% CI, 0.3 to 1.1; P<0.001). Prespecified hierarchical testing showed that the risk of a composite kidney or cardiovascular outcome event was lower with finerenone than with placebo (hazard ratio, 0.77; 95% CI, 0.60 to 0.99; P=0.04); the hazard ratio was 0.78 (95% CI, 0.60 to 1.01) for the composite of the two kidney events and 0.60 (95% CI, 0.27 to 1.33) for the composite of the two cardiovascular events. The most common adverse event was hyperkalemia (135 participants [17.0%] with finerenone and 105 [13.3%] with placebo); hyperkalemia events led to discontinuation of the trial regimen in 12 participants (1.5%) and 1 participant (0.1%), respectively, and to hospitalization in 7 (0.9%) and 5 (0.6%).",
+          "content": "計1584名の参加者がランダム化を受け、793名がフィネレノン群に、791名がプラセボ群に割り付けられた。ベースラインの平均（±SD）eGFRは、フィネレノン群で46.8±16.2ml/分/1.73m2、プラセボ群で46.6±16.0ml/分/1.73m2であった。ベースラインから32か月までのeGFRの平均年間変化率は、フィネレノン群で−3.3ml/分/1.73m2（95%信頼区間［CI］、−3.6〜−3.1）、プラセボ群で−4.0ml/分/1.73m2（95% CI、−4.3〜−3.8）であり、その差は0.7（95% CI、0.3〜1.1、P<0.001）であった。事前に規定された階層的検定により、腎臓または心血管転帰イベントの複合リスクは、プラセボ群よりもフィネレノン群の方が低いことが示された（ハザード比、0.77；95% CI、0.60〜0.99；P=0.04）。2つの腎臓イベントの複合に関するハザード比は0.78（95% CI、0.60〜1.01）、2つの心血管イベントの複合に関するハザード比は0.60（95% CI、0.27〜1.33）であった。最も頻度の高い有害事象は高カリウム血症であった（フィネレノン群で135名［17.0%］、プラセボ群で105名［13.3%］）。高カリウム血症イベントにより、試験治療薬の中止に至ったのはそれぞれ12名（1.5%）と1名（0.1%）であり、入院に至ったのは7名（0.9%）と5名（0.6%）であった。"
+        },
+        {
+          "label": "結論",
+          "label_en": "CONCLUSIONS",
+          "content_en": "Among adults with CKD who did not have diabetes, finerenone led to a slower decrease in the eGFR than placebo over 32 months. (Funded by Bayer; FIND-CKD ClinicalTrials.gov number, NCT05047263.)",
+          "content": "糖尿病を伴わないCKD成人において、フィネレノンは32か月間にわたりプラセボよりもeGFRの低下を緩やかにした。（バイエル社による資金提供。FIND-CKD ClinicalTrials.gov登録番号、NCT05047263。）"
+        }
+      ],
+      "pico": {
+        "framework": "PICO",
+        "P": "糖尿病を合併せず、CKDおよびアルブミン尿を有し、レニン・アンジオテンシン系阻害薬を使用している成人",
+        "I": "フィネレノン（1日10mgまたは20mg）",
+        "C": "プラセボ",
+        "O": "主要アウトカム：総eGFRスロープ（32か月間の平均年間変化率）はフィネレノン群で-3.3 ml/分/1.73 m2、プラセボ群で-4.0 ml/分/1.73 m2（差 0.7; P<0.001）。副次アウトカム（腎または心血管イベントの複合）：ハザード比 0.77 (95% CI 0.60〜0.99; P=0.04)",
+        "NNT": null,
+        "significant": true
+      },
+      "key_results": null,
+      "nnt": null,
+      "memo": null,
+      "pmid": null,
+      "updated_at": "2026-07-18 00:27:05"
+    },
     {
       "id": 51,
       "title": "Setmelanotide for the Treatment of Acquired Hypothalamic Obesity",
