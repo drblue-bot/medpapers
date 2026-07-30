@@ -1,6 +1,82 @@
 {
-  "exported_at": "2026-07-30T00:19:02.491Z",
+  "exported_at": "2026-07-30T05:27:55.466Z",
   "papers": [
+    {
+      "id": 57,
+      "title": "Evolocumab to Reduce First Major Cardiovascular Events in Patients Without Known Significant Atherosclerosis and With Diabetes: Results From the VESALIUS-CV Trial",
+      "title_ja": "糖尿病を合併し、既知の有意なアテローム動脈硬化を有しない患者におけるエボロクマブによる初回主要心血管イベントの減少：VESALIUS-CV試験結果",
+      "journal": "JAMA",
+      "year": 2026,
+      "authors": "Marston NA, Bohula EA, Bhatia AK, et al.",
+      "tags": [
+        "RCT",
+        "冠動脈疾患",
+        "糖尿病",
+        "心臓",
+        "薬物療法",
+        "PCSK9阻害薬"
+      ],
+      "abstract_en": "IMPORTANCE Intensive lowering of low-density lipoprotein cholesterol (LDL-C) levels with PCSK9 (proprotein convertase subtilisin/kexin type 9) inhibitors for cardiovascular event reduction has largely been reserved for patients with significant atherosclerosis. OBJECTIVE To investigate whether evolocumab could prevent a first major cardiovascular event (MACE) in patients without known significant atherosclerosis. DESIGN, SETTING, AND PARTICIPANTS VESALIUS-CV was a randomized, double-blind, placebo-controlled trial of evolocumab conducted across 774 sites in 33 countries and enrolling 12 257 patients with no prior myocardial infarction or stroke, LDL-C level 90 mg/dL or greater, and qualifying atherosclerosis or high-risk diabetes. This prespecified subgroup analysis examined outcomes in patients without known significant atherosclerosis (none of the following: prior arterial revascularization, arterial stenosis 50%, or coronary artery calcium score 100 Agatston units), all of whom had diabetes. Enrollment started in June 2019 and the last patient visit was July 2025, with a median follow-up of 4.8 years. INTERVENTION Patients were randomized in a 1:1 ratio to subcutaneous administration of either evolocumab (140 mg every 2 weeks) or matching placebo added to optimally tolerated statin therapy. MAIN OUTCOMES AND MEASURES The dual primary end points were composites of coronary heart disease death, myocardial infarction, or ischemic stroke (3-P MACE) and 3-P MACE plus ischemia-driven arterial revascularization (4-P MACE). Secondary end points included all-cause mortality. RESULTS This predefined subgroup included 3655 patients (1849 in the evolocumab group and 1806 in the placebo group) with a median age of 65 years (57% female). Among those in the lipid substudy, the median LDL-C level at 48 weeks was 52 mg/dL in the evolocumab group vs 111 mg/dL in the placebo group (P < .001). A 3-P MACE event occurred in 83 patients (5-year Kaplan-Meier estimate, 5.0%) in the evolocumab group compared with 117 patients (5-year Kaplan-Meier estimate, 7.1%) in the placebo group (hazard ratio [HR], 0.69 [95% CI, 0.52-0.91]; P = .009; between-group difference, 2.1% [95% CI, 0.4%-3.8%]). A 4-P MACE event occurred in 127 patients (5-year Kaplan-Meier estimate, 7.6%) in the evolocumab group compared with 178 patients (5-year Kaplan-Meier estimate, 10.5%) in the placebo group (HR, 0.69 [95% CI, 0.55-0.86]; P = .001; between-group difference, 2.9% [95% CI, 0.9%-4.9%]). There were 136 deaths (5-year Kaplan-Meier estimate, 7.8%) in the evolocumab group compared with 172 deaths (5-year Kaplan-Meier estimate, 10.1%) in the placebo group (HR, 0.76 [95% CI, 0.61-0.95]). CONCLUSIONS AND RELEVANCE In high-risk patients without known significant atherosclerosis and with diabetes, evolocumab reduced the risk of a first major cardiovascular event.",
+      "abstract_ja": null,
+      "abstract_sections": [
+        {
+          "label": "重要性",
+          "label_en": "IMPORTANCE",
+          "content_en": "Intensive lowering of low-density lipoprotein cholesterol (LDL-C) levels with PCSK9 (proprotein convertase subtilisin/kexin type 9) inhibitors for cardiovascular event reduction has largely been reserved for patients with significant atherosclerosis.",
+          "content": "心血管イベント低減を目的としたPCSK9（プロタンパク質転換酵素サブチリシン/ケキシン9型）阻害薬による低比重リポタンパク質コレステロール（LDL-C）値の集中的な低下は、主に有意な動脈硬化を有する患者を対象に行われてきた。"
+        },
+        {
+          "label": "目的",
+          "label_en": "OBJECTIVE",
+          "content_en": "To investigate whether evolocumab could prevent a first major cardiovascular event (MACE) in patients without known significant atherosclerosis.",
+          "content": "既知の有意な動脈硬化を有さない患者において、エボロクマブが初回主要心血管イベント（MACE）を予防できるかどうかを検討すること。"
+        },
+        {
+          "label": "試験デザイン、設定、参加者",
+          "label_en": "DESIGN, SETTING, AND PARTICIPANTS",
+          "content_en": "VESALIUS-CV was a randomized, double-blind, placebo-controlled trial of evolocumab conducted across 774 sites in 33 countries and enrolling 12 257 patients with no prior myocardial infarction or stroke, LDL-C level 90 mg/dL or greater, and qualifying atherosclerosis or high-risk diabetes. This prespecified subgroup analysis examined outcomes in patients without known significant atherosclerosis (none of the following: prior arterial revascularization, arterial stenosis ≥50%, or coronary artery calcium score ≥100 Agatston units), all of whom had diabetes. Enrollment started in June 2019 and the last patient visit was July 2025, with a median follow-up of 4.8 years.",
+          "content": "VESALIUS-CVは、33か国774施設で実施されたエボロクマブの無作為化二重盲検プラセボ対照試験であり、心筋梗塞または脳卒中の既往がなく、LDL-C値が90 mg/dL以上で、適格な動脈硬化または高リスクの糖尿病を有する12,257名の患者を登録した。この事前に規定されたサブグループ解析では、既知の有意な動脈硬化を有さない患者（以下のいずれにも該当しない：動脈血行再建術の既往、50%以上の動脈狭窄、または冠動脈カルシウムスコア100 Agatston単位以上）を対象に転帰を検討した。これらの患者は全員糖尿病を有していた。登録は2019年6月に開始され、最終患者来院日は2025年7月で、追跡期間の中央値は4.8年であった。"
+        },
+        {
+          "label": "介入",
+          "label_en": "INTERVENTION",
+          "content_en": "Patients were randomized in a 1:1 ratio to subcutaneous administration of either evolocumab (140 mg every 2 weeks) or matching placebo added to optimally tolerated statin therapy.",
+          "content": "患者は、忍容性が最適化されたスタチン療法への上乗せとして、エボロクマブ（140 mgを2週間ごと）または適合するプラセボの皮下投与を受けるよう1:1の比率で無作為に割り付けられた。"
+        },
+        {
+          "label": "主要評価項目および尺度",
+          "label_en": "MAIN OUTCOMES AND MEASURES",
+          "content_en": "The dual primary end points were composites of coronary heart disease death, myocardial infarction, or ischemic stroke (3-P MACE) and 3-P MACE plus ischemia-driven arterial revascularization (4-P MACE). Secondary end points included all-cause mortality.",
+          "content": "二つの主要評価項目は、冠動脈疾患死、心筋梗塞、または虚血性脳卒中の複合（3-P MACE）と、3-P MACEに虚血性の動脈血行再建術を加えたもの（4-P MACE）とした。副次評価項目には全死亡を含めた。"
+        },
+        {
+          "label": "結果",
+          "label_en": "RESULTS",
+          "content_en": "This predefined subgroup included 3655 patients (1849 in the evolocumab group and 1806 in the placebo group) with a median age of 65 years (57% female). Among those in the lipid substudy, the median LDL-C level at 48 weeks was 52 mg/dL in the evolocumab group vs 111 mg/dL in the placebo group (P < .001). A 3-P MACE event occurred in 83 patients (5-year Kaplan-Meier estimate, 5.0%) in the evolocumab group compared with 117 patients (5-year Kaplan-Meier estimate, 7.1%) in the placebo group (hazard ratio [HR], 0.69 [95% CI, 0.52-0.91]; P = .009; between-group difference, 2.1% [95% CI, 0.4%-3.8%]). A 4-P MACE event occurred in 127 patients (5-year Kaplan-Meier estimate, 7.6%) in the evolocumab group compared with 178 patients (5-year Kaplan-Meier estimate, 10.5%) in the placebo group (HR, 0.69 [95% CI, 0.55-0.86]; P = .001; between-group difference, 2.9% [95% CI, 0.9%-4.9%]). There were 136 deaths (5-year Kaplan-Meier estimate, 7.8%) in the evolocumab group compared with 172 deaths (5-year Kaplan-Meier estimate, 10.1%) in the placebo group (HR, 0.76 [95% CI, 0.61-0.95]).",
+          "content": "この事前に規定されたサブグループには3,655名の患者（エボロクマブ群1,849名、プラセボ群1,806名）が含まれ、年齢中央値は65歳（57%が女性）であった。脂質サブスタディの参加者のうち、48週時点のLDL-C値中央値はエボロクマブ群で52 mg/dL、プラセボ群で111 mg/dLであった（P < .001）。3-P MACEイベントはエボロクマブ群で83名（5年カプラン・マイヤー推定値5.0%）に発生し、プラセボ群の117名（5年カプラン・マイヤー推定値7.1%）と比較された（ハザード比[HR] 0.69 [95% CI, 0.52-0.91]; P = .009; 群間差 2.1% [95% CI, 0.4%-3.8%]）。4-P MACEイベントはエボロクマブ群で127名（5年カプラン・マイヤー推定値7.6%）に発生し、プラセボ群の178名（5年カプラン・マイヤー推定値10.5%）と比較された（HR 0.69 [95% CI, 0.55-0.86]; P = .001; 群間差 2.9% [95% CI, 0.9%-4.9%]）。死亡数はエボロクマブ群で136名（5年カプラン・マイヤー推定値7.8%）、プラセボ群で172名（5年カプラン・マイヤー推定値10.1%）であった（HR 0.76 [95% CI, 0.61-0.95]）。"
+        },
+        {
+          "label": "結論および妥当性",
+          "label_en": "CONCLUSIONS AND RELEVANCE",
+          "content_en": "In high-risk patients without known significant atherosclerosis and with diabetes, evolocumab reduced the risk of a first major cardiovascular event.",
+          "content": "既知の有意な動脈硬化を有さず糖尿病を合併する高リスク患者において、エボロクマブは初回主要心血管イベントのリスクを低減させた。"
+        }
+      ],
+      "pico": {
+        "framework": "PICO",
+        "P": "糖尿病を合併し、既知の有意なアテローム動脈硬化を有しない高リスク患者（n=3655）",
+        "I": "エボロクマブ（140mgを2週間ごと）皮下投与",
+        "C": "プラセボ投与",
+        "O": "初回主要心血管イベント（3-P MACE）の発生率。エボロクマブ群 5.0% vs プラセボ群 7.1%（HR 0.69, 95% CI 0.52-0.91, P=0.009）",
+        "NNT": 47.6,
+        "significant": true
+      },
+      "key_results": null,
+      "nnt": null,
+      "memo": null,
+      "pmid": null,
+      "updated_at": "2026-07-30 05:27:53"
+    },
     {
       "id": 56,
       "title": "Efficacy and safety of bempedoic acid among patients with and without diabetes: prespecified analysis of the CLEAR Outcomes randomised trial",
