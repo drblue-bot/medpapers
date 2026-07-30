@@ -1,6 +1,64 @@
 {
-  "exported_at": "2026-07-25T02:26:43.108Z",
+  "exported_at": "2026-07-30T00:12:44.267Z",
   "papers": [
+    {
+      "id": 55,
+      "title": "Bempedoic Acid and Cardiovascular Outcomes in Statin-Intolerant Patients",
+      "title_ja": "スタチン不耐性患者におけるベムペド酸の心血管アウトカムへの影響",
+      "journal": "The New England Journal of Medicine",
+      "year": 2023,
+      "authors": "Nissen SE, Lincoff AM, Brennan D, et al.",
+      "tags": [
+        "RCT",
+        "脂質異常症",
+        "冠動脈疾患",
+        "心臓",
+        "薬物療法",
+        "スタチン"
+      ],
+      "abstract_en": "BACKGROUND\nBempedoic acid, an ATP citrate lyase inhibitor, reduces low-density lipoprotein (LDL) cholesterol levels and is associated with a low incidence of muscle-related adverse events; its effects on cardiovascular outcomes remain uncertain.\nMETHODS\nWe conducted a double-blind, randomized, placebo-controlled trial involving patients who were unable or unwilling to take statins owing to unacceptable adverse effects (“statin-intolerant” patients) and had, or were at high risk for, cardiovascular disease. The patients were assigned to receive oral bempedoic acid, 180 mg daily, or placebo. The primary end point was a four-component composite of major adverse cardiovascular events, defined as death from cardiovascular causes, nonfatal myocardial infarction, nonfatal stroke, or coronary revascularization.\nRESULTS\nA total of 13,970 patients underwent randomization; 6992 were assigned to the bempedoic acid group and 6978 to the placebo group. The median duration of follow-up was 40.6 months. The mean LDL cholesterol level at baseline was 139.0 mg per deciliter in both groups, and after 6 months, the reduction in the level was greater with bempedoic acid than with placebo by 29.2 mg per deciliter; the observed difference in the percent reductions was 21.1 percentage points in favor of bempedoic acid. The incidence of a primary end-point event was significantly lower with bempedoic acid than with placebo (819 patients [11.7%] vs. 927 [13.3%]; hazard ratio, 0.87; 95% confidence interval [CI], 0.79 to 0.96; P=0.004), as were the incidences of a composite of death from cardiovascular causes, nonfatal stroke, or nonfatal myocardial infarction (575 [8.2%] vs. 663 [9.5%]; hazard ratio, 0.85; 95% CI, 0.76 to 0.96; P=0.006); fatal or nonfatal myocardial infarction (261 [3.7%] vs. 334 [4.8%]; hazard ratio, 0.77; 95% CI, 0.66 to 0.91; P=0.002); and coronary revascularization (435 [6.2%] vs. 529 [7.6%]; hazard ratio, 0.81; 95% CI, 0.72 to 0.92; P=0.001). Bempedoic acid had no significant effects on fatal or nonfatal stroke, death from cardiovascular causes, and death from any cause. The incidences of gout and cholelithiasis were higher with bempedoic acid than with placebo (3.1% vs. 2.1% and 2.2% vs. 1.2%, respectively), as were the incidences of small increases in serum creatinine, uric acid, and hepatic-enzyme levels.\nCONCLUSIONS\nAmong statin-intolerant patients, treatment with bempedoic acid was associated with a lower risk of major adverse cardiovascular events (death from cardiovascular causes, nonfatal myocardial infarction, nonfatal stroke, or coronary revascularization). (Funded by Esperion Therapeutics; CLEAR Outcomes ClinicalTrials.gov number, NCT02993406.)",
+      "abstract_ja": null,
+      "abstract_sections": [
+        {
+          "label": "背景",
+          "label_en": "BACKGROUND",
+          "content_en": "Bempedoic acid, an ATP citrate lyase inhibitor, reduces low-density lipoprotein (LDL) cholesterol levels and is associated with a low incidence of muscle-related adverse events; its effects on cardiovascular outcomes remain uncertain.",
+          "content": "ATPクエン酸リアーゼ阻害薬であるベムペドイ酸は、低比重リポタンパク（LDL）コレステロール値を低下させ、筋肉関連の有害事象の発生率が低いことと関連しているが、心血管アウトカムに対するその効果は不確実なままである。"
+        },
+        {
+          "label": "方法",
+          "label_en": "METHODS",
+          "content_en": "We conducted a double-blind, randomized, placebo-controlled trial involving patients who were unable or unwilling to take statins owing to unacceptable adverse effects (“statin-intolerant” patients) and had, or were at high risk for, cardiovascular disease. The patients were assigned to receive oral bempedoic acid, 180 mg daily, or placebo. The primary end point was a four-component composite of major adverse cardiovascular events, defined as death from cardiovascular causes, nonfatal myocardial infarction, nonfatal stroke, or coronary revascularization.",
+          "content": "我々は、許容できない有害事象のためにスタチンを服用できない、または服用を望まない患者（「スタチン不耐容」患者）で、心血管疾患を有するか、またはその高リスクにある患者を対象とした二重盲検無作為化プラセボ対照試験を実施した。患者は、ベムペドイ酸180mgの経口1日1回投与、またはプラセボの投与に割り付けられた。主要評価項目は、心血管死、非致死性心筋梗塞、非致死性脳卒中、または冠動脈血行再建術と定義される主要心血管イベントの4成分複合アウトカムとした。"
+        },
+        {
+          "label": "結果",
+          "label_en": "RESULTS",
+          "content_en": "A total of 13,970 patients underwent randomization; 6992 were assigned to the bempedoic acid group and 6978 to the placebo group. The median duration of follow-up was 40.6 months. The mean LDL cholesterol level at baseline was 139.0 mg per deciliter in both groups, and after 6 months, the reduction in the level was greater with bempedoic acid than with placebo by 29.2 mg per deciliter; the observed difference in the percent reductions was 21.1 percentage points in favor of bempedoic acid. The incidence of a primary end-point event was significantly lower with bempedoic acid than with placebo (819 patients [11.7%] vs. 927 [13.3%]; hazard ratio, 0.87; 95% confidence interval [CI], 0.79 to 0.96; P=0.004), as were the incidences of a composite of death from cardiovascular causes, nonfatal stroke, or nonfatal myocardial infarction (575 [8.2%] vs. 663 [9.5%]; hazard ratio, 0.85; 95% CI, 0.76 to 0.96; P=0.006); fatal or nonfatal myocardial infarction (261 [3.7%] vs. 334 [4.8%]; hazard ratio, 0.77; 95% CI, 0.66 to 0.91; P=0.002); and coronary revascularization (435 [6.2%] vs. 529 [7.6%]; hazard ratio, 0.81; 95% CI, 0.72 to 0.92; P=0.001). Bempedoic acid had no significant effects on fatal or nonfatal stroke, death from cardiovascular causes, and death from any cause. The incidences of gout and cholelithiasis were higher with bempedoic acid than with placebo (3.1% vs. 2.1% and 2.2% vs. 1.2%, respectively), as were the incidences of small increases in serum creatinine, uric acid, and hepatic-enzyme levels.",
+          "content": "合計13,970例の患者が無作為化を受け、6992例がベムペドイ酸群に、6978例がプラセボ群に割り付けられた。追跡期間の中央値は40.6か月であった。ベースライン時の平均LDLコレステロール値は両群とも139.0 mg/dLであり、6か月後には、ベムペドイ酸群ではプラセボ群よりも29.2 mg/dL多く低下し、観察された低下率の差はベムペドイ酸に有利な21.1パーセントポイントであった。主要評価項目イベントの発生率は、ベムペドイ酸群の方がプラセボ群よりも有意に低く（819例 [11.7%] 対 927例 [13.3%]、ハザード比 0.87、95%信頼区間 [CI] 0.79～0.96、P=0.004）、心血管死、非致死性脳卒中、または非致死性心筋梗塞の複合（575例 [8.2%] 対 663例 [9.5%]、ハザード比 0.85、95% CI 0.76～0.96、P=0.006）、致死性または非致死性心筋梗塞（261例 [3.7%] 対 334例 [4.8%]、ハザード比 0.77、95% CI 0.66～0.91、P=0.002）、および冠動脈血行再建術（435例 [6.2%] 対 529例 [7.6%]、ハザード比 0.81、95% CI 0.72～0.92、P=0.001）の発生率も同様に低かった。ベムペドイ酸は、致死性または非致死性脳卒中、心血管死、および全死亡には有意な影響を及ぼさなかった。痛風および胆石症の発生率はベムペドイ酸群の方がプラセボ群よりも高く（それぞれ3.1%対2.1%および2.2%対1.2%）、血清クレアチニン、尿酸、および肝酵素値のわずかな上昇の発生率も同様であった。"
+        },
+        {
+          "label": "結論",
+          "label_en": "CONCLUSIONS",
+          "content_en": "Among statin-intolerant patients, treatment with bempedoic acid was associated with a lower risk of major adverse cardiovascular events (death from cardiovascular causes, nonfatal myocardial infarction, nonfatal stroke, or coronary revascularization). (Funded by Esperion Therapeutics; CLEAR Outcomes ClinicalTrials.gov number, NCT02993406.)",
+          "content": "スタチン不耐容患者において、ベムペドイ酸による治療は、主要心血管イベント（心血管死、非致死性心筋梗塞、非致死性脳卒中、または冠動脈血行再建術）のリスク低下と関連していた。（Esperion Therapeutics社による資金提供、CLEAR Outcomes ClinicalTrials.gov登録番号 NCT02993406）"
+        }
+      ],
+      "pico": {
+        "framework": "PICO",
+        "P": "スタチン服用が困難または拒否する、心血管疾患の既往がある、あるいはそのリスクが高い患者",
+        "I": "ベムペド酸 180mg/日投与",
+        "C": "プラセボ投与",
+        "O": "主要心血管有害事象（心血管死、非致死的心筋梗塞、非致死的脳卒中、または冠動脈血行再建術）の発生率。ベムペド酸群 11.7% 対 プラセボ群 13.3%（ハザード比 0.87; 95% CI 0.79-0.96; P=0.004）",
+        "NNT": 62.5,
+        "significant": true
+      },
+      "key_results": null,
+      "nnt": null,
+      "memo": null,
+      "pmid": "36876740",
+      "updated_at": "2026-07-30 00:12:42"
+    },
     {
       "id": 54,
       "title": "Tirzepatide compared with semaglutide in obesity disease: a subpopulation analysis applying Japan Society for the Study of Obesity criteria in the global SURMOUNT-5 trial",
@@ -54,9 +112,9 @@
       },
       "key_results": null,
       "nnt": null,
-      "memo": null,
+      "memo": "<font size=\"2\">CareNetより</font><div><font size=\"2\"><br></font></div><div><font size=\"2\"><span style=\"color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\">　日本における肥満症の薬物療法適応基準を満たす集団において、チルゼパチドはセマグルチドと比較して72週時点での体重変化率が有意に大きく、体重、BMI、腹囲のいずれにおいても減少幅が有意に大きいことが示された。千葉大学大学院医学研究院の北本 匠氏らによるこの研究成果は、Current Medical Research and Opinion誌2026年7月11日号に掲載された。</span><br style=\"color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\"><span style=\"color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\">　本研究は、国際共同試験であるSURMOUNT-5のサブ解析として実施された。日本における肥満症の薬物療法適応基準を満たす参加者（BMI 27～34.9、高血圧、脂質異常症のいずれかを有し、さらに肥満関連健康障害［ORHD］を2つ以上有する、またはBMI≧35かつORHDを 1つ以上有する）を対象とした。評価期間はベースラインから72週とし、体重変化率、減量目標達成率、腹囲・BMI・心代謝リスク因子の変化、有害事象を評価した。</span><br style=\"color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\"><span style=\"color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\">　主な結果は以下のとおり。</span><br style=\"color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\"><br style=\"color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\"><span style=\"color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\">・組み入れられた750例のうち383例が基準を満たし、チルゼパチド群（15 mgまたは最大耐用量）190例、セマグルチド群（2.4 mgまたは最大耐用量）193例に割り付けられた。</span><br style=\"color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\"><span style=\"color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\">・72週時点での体重変化率の最小二乗平均値（LSM）は、チルゼパチド群で－20.1％（標準誤差：0.76％）、セマグルチド群で－12.9％（同0.74％）であり、LSM差は－7.2％（95％信頼区間：－9.3％〜－5.1％、p＜0.001）とチルゼパチド群で有意に大きかった。</span><br style=\"color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\"><span style=\"color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\">・減量目標達成率でも、≧10％、≧15％、≧20％、≧25％、≧30％のいずれの閾値においても、チルゼパチド群においてより多くの参加者が達成した。腹囲の減少はベースラインから4週目以降、BMIの減少は12週目以降にチルゼパチド群で有意に大きな差が認められ、いずれも72週を通じて維持された。</span><br style=\"color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\"><span style=\"color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\">・安全性プロファイルはSURMOUNT-5試験の全体集団と概ね一致しており、消化器系の事象が最も多く認められた。</span><br style=\"color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\"><br style=\"color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\"><span style=\"color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\">　本サブ解析は、日本における肥満症の薬物療法適応基準となる集団において、チルゼパチドがセマグルチドと比較して体重、BMI、腹囲のいずれにおいても有意に大きな減少をもたらすことを示した。</span><br style=\"color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\"><span style=\"color: rgb(0, 0, 0); font-family: &quot;segoe ui&quot;, meiryo, メイリオ, &quot;yu gothic&quot;, &quot;Hiragino Kaku Gothic Pro&quot;, &quot;ヒラギノ角ゴ Pro W3&quot;, &quot;ＭＳ Ｐゴシック&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Verdana, sans-serif;\">　著者らは「日本では肥満症の定義がBMI≧25と国際基準よりも低く設定されており、本解析はその基準に即した実臨床に近い集団での比較データを提供するものである。消化器系有害事象を中心とした安全性プロファイルは全体集団と一致しており、忍容性に大きな差異は認められなかった。今後は日本人集団を対象とした長期的な心血管アウトカムや体重減少の維持に関するさらなる検討が求められる」としている。</span></font></div>",
       "pmid": "42434924",
-      "updated_at": "2026-07-25 02:26:41"
+      "updated_at": "2026-07-25 02:28:39"
     },
     {
       "id": 53,
