@@ -1,6 +1,63 @@
 {
-  "exported_at": "2026-07-30T00:12:44.267Z",
+  "exported_at": "2026-07-30T00:19:02.491Z",
   "papers": [
+    {
+      "id": 56,
+      "title": "Efficacy and safety of bempedoic acid among patients with and without diabetes: prespecified analysis of the CLEAR Outcomes randomised trial",
+      "title_ja": "糖尿病の有無にかかわらずベムペド酸は心血管イベントリスクを低減し、糖尿病発症リスクを増加させない",
+      "journal": "The Lancet Diabetes & Endocrinology",
+      "year": 2024,
+      "authors": "Kausik K Ray, Stephen J Nicholls, Na Li, Michael J Louie, Danielle Brennan, A Michael Lincoff, Steven E Nissen, on behalf of the CLEAR OUTCOMES Committees and Investigators",
+      "tags": [
+        "RCT",
+        "糖尿病",
+        "心臓",
+        "薬物療法",
+        "スタチン"
+      ],
+      "abstract_en": "Background Statins reduce LDL cholesterol and cardiovascular events among those with or without diabetes but have been reported to increase new-onset diabetes. The CLEAR Outcomes trial demonstrated that bempedoic acid reduced the risk of major adverse cardiovascular events among statin-intolerant patients at high cardiovascular risk. In this prespecified analysis, our dual aims were to evaluate the cardiovascular benefits of bempedoic acid, an ATP-citrate lyase inhibitor, in individuals with diabetes, and to evaluate the risk of new-onset diabetes and HbA1c among those without diabetes in the CLEAR Outcomes trial.\nMethods CLEAR Outcomes was a randomised, double-blind, placebo-controlled trial conducted across 1250 primary care and outpatient sites in 32 countries. Patients with or without cardiovascular disease who were unwilling or unable to take guideline-recommended doses of statins and an LDL cholesterol of 2·59 mmol/L or more were randomly assigned (1:1) in a double-blinded manner to either bempedoic acid 180 mg once per day or placebo. In this prespecified analysis, the efficacy endpoint was a time-to-event analysis of four-component major adverse cardiovascular event (MACE-4), which is the composite of cardiovascular death, nonfatal myocardial infarction, nonfatal stroke, or coronary revascularisation, using the intention-to-treat population stratified by baseline glycaemia status. The prespecified analysis of risk of new-onset diabetes and HbA1c increase was evaluated in patients without diabetes at baseline. The CLEAR Outcomes trial was completed on Nov 7, 2022, and is registered with ClinicalTrials.gov (NCT02993406).\nFindings Between Dec 22, 2016, and Nov 7, 2022, 13 970 patients were screened and randomly assigned ; 6373 (45·6%) with diabetes, 5796 (41·5%) with prediabetes, and 1801 (12·9%) with normoglycaemia. Over a median of 3·4 years follow up, patients with diabetes had significant relative and absolute cardiovascular risk reductions in MACE-4 endpoints with bempedoic acid (HR 0·83; 95% CI 0·72–0·95; absolute risk reduction of 2·4%) compared to placebo, with no statistical evidence of effect modification across glycaemic strata (interaction p=0·42). The proportion of patients who developed new-onset diabetes were similar between the bempedoic acid and placebo groups, with 429 of 3848 (11·1%) with bempedoic acid versus 433 of 3749 (11·5%) with placebo (HR 0·95; 95% CI 0·83–1·09). HbA1c concentrations at month 12 and the end of the study were similar between randomised groups in patients who had prediabetes and normoglycaemia. Placebo-corrected LDL cholesterol concentrations and high-sensitivity C-reactive protein at 6 months were reduced in each glycaemic stratum (diabetes, prediabtes, and normoglycaemia) for patients randomly assigned to bempedoic acid (all p<0·001).\nInterpretation Among patients with diabetes, bempedoic acid reduces LDL cholesterol and high-sensitivity C-reactive protein and risk of cardiovascular events. Patients without diabetes had no increase in new-onset diabetes or worsening HbA1c with bempedoic acid. The efficacy and cardiometabolic safety profile of bempedoic acid makes it a clinical option for those with and without diabetes.",
+      "abstract_ja": null,
+      "abstract_sections": [
+        {
+          "label": "背景",
+          "label_en": "Background",
+          "content_en": "Statins reduce LDL cholesterol and cardiovascular events among those with or without diabetes but have been reported to increase new-onset diabetes. The CLEAR Outcomes trial demonstrated that bempedoic acid reduced the risk of major adverse cardiovascular events among statin-intolerant patients at high cardiovascular risk. In this prespecified analysis, our dual aims were to evaluate the cardiovascular benefits of bempedoic acid, an ATP-citrate lyase inhibitor, in individuals with diabetes, and to evaluate the risk of new-onset diabetes and HbA1c among those without diabetes in the CLEAR Outcomes trial.",
+          "content": "スタチンは糖尿病の有無にかかわらずLDLコレステロールと心血管イベントを減少させるが、新規発症糖尿病を増加させることが報告されている。CLEAR Outcomes試験は、心血管疾患リスクが高いスタチン不耐容患者において、ベムペドイック酸が主要な心血管イベントのリスクを減少させることを示した。本事前規定解析において、我々の二重の目的は、糖尿病患者におけるATPクエン酸リアーゼ阻害薬であるベムペドイック酸の心血管ベネフィットを評価すること、およびCLEAR Outcomes試験における非糖尿病患者の新規発症糖尿病とHbA1cのリスクを評価することであった。"
+        },
+        {
+          "label": "方法",
+          "label_en": "Methods",
+          "content_en": "CLEAR Outcomes was a randomised, double-blind, placebo-controlled trial conducted across 1250 primary care and outpatient sites in 32 countries. Patients with or without cardiovascular disease who were unwilling or unable to take guideline-recommended doses of statins and an LDL cholesterol of 2·59 mmol/L or more were randomly assigned (1:1) in a double-blinded manner to either bempedoic acid 180 mg once per day or placebo. In this prespecified analysis, the efficacy endpoint was a time-to-event analysis of four-component major adverse cardiovascular event (MACE-4), which is the composite of cardiovascular death, nonfatal myocardial infarction, nonfatal stroke, or coronary revascularisation, using the intention-to-treat population stratified by baseline glycaemia status. The prespecified analysis of risk of new-onset diabetes and HbA1c increase was evaluated in patients without diabetes at baseline. The CLEAR Outcomes trial was completed on Nov 7, 2022, and is registered with ClinicalTrials.gov (NCT02993406).",
+          "content": "CLEAR Outcomesは、32カ国の1250のプライマリ・ケア施設および外来施設で実施された無作為化二重盲検プラセボ対照試験である。心血管疾患の有無にかかわらず、ガイドラインで推奨される用量のスタチン服用を希望しない、または服用できない、かつLDLコレステロール値が2.59 mmol/L以上の患者を、ベムペドイック酸180 mg 1日1回投与またはプラセボのいずれかに二重盲検下で（1:1に）無作為に割り付けた。本事前規定解析における有効性エンドポイントは、心血管死、非致死的心筋梗塞、非致死的脳卒中、または冠動脈血行再建術の複合である4項目メジャー有害心血管イベント（MACE-4）のイベント発生までの時間解析であり、ベースラインの血糖状態によって層別化した治療意図（ITT）集団を用いて解析した。新規発症糖尿病およびHbA1c上昇のリスクに関する事前規定解析は、ベースラインで糖尿病を有さない患者において評価した。CLEAR Outcomes試験は2022年11月7日に完了し、ClinicalTrials.gov（NCT02993406）に登録されている。"
+        },
+        {
+          "label": "結果",
+          "label_en": "Findings",
+          "content_en": "Between Dec 22, 2016, and Nov 7, 2022, 13 970 patients were screened and randomly assigned ; 6373 (45·6%) with diabetes, 5796 (41·5%) with prediabetes, and 1801 (12·9%) with normoglycaemia. Over a median of 3·4 years follow up, patients with diabetes had significant relative and absolute cardiovascular risk reductions in MACE-4 endpoints with bempedoic acid (HR 0·83; 95% CI 0·72–0·95; absolute risk reduction of 2·4%) compared to placebo, with no statistical evidence of effect modification across glycaemic strata (interaction p=0·42). The proportion of patients who developed new-onset diabetes were similar between the bempedoic acid and placebo groups, with 429 of 3848 (11·1%) with bempedoic acid versus 433 of 3749 (11·5%) with placebo (HR 0·95; 95% CI 0·83–1·09). HbA1c concentrations at month 12 and the end of the study were similar between randomised groups in patients who had prediabetes and normoglycaemia. Placebo-corrected LDL cholesterol concentrations and high-sensitivity C-reactive protein at 6 months were reduced in each glycaemic stratum (diabetes, prediabtes, and normoglycaemia) for patients randomly assigned to bempedoic acid (all p<0·001).",
+          "content": "2016年12月22日から2022年11月7日までの間に、13,970例の患者がスクリーニングを受け、無作為に割り付けられた。その内訳は、糖尿病6,373例（45.6%）、前糖尿病5,796例（41.5%）、正常血糖1,801例（12.9%）であった。中央値3.4年の追跡期間中、糖尿病患者においてベムペドイック酸はプラセボと比較してMACE-4エンドポイントの有意な相対的および絶対的心血管リスク減少をもたらし（ハザード比 0.83；95%信頼区間 0.72～0.95；絶対リスク減少率 2.4%）、血糖層間での効果修飾の統計的エビデンスは認められなかった（交互作用p=0.42）。新規糖尿病を発症した患者の割合は、ベムペドイック酸群の3,848例中429例（11.1%）に対しプラセボ群では3,749例中433例（11.5%）と、両群間で同等であった（ハザード比 0.95；95%信頼区間 0.83～1.09）。12ヶ月目および試験終了時のHbA1c濃度は、前糖尿病および正常血糖の患者において無作為化群間で同等であった。ベムペドイック酸に無作為に割り付けられた患者では、各血糖層（糖尿病、前糖尿病、正常血糖）において、6ヶ月時点でのプラセボ補正LDLコレステロール濃度および高感度C反応性蛋白が低下した（すべてp<0.001）。"
+        },
+        {
+          "label": "解釈",
+          "label_en": "Interpretation",
+          "content_en": "Among patients with diabetes, bempedoic acid reduces LDL cholesterol and high-sensitivity C-reactive protein and risk of cardiovascular events. Patients without diabetes had no increase in new-onset diabetes or worsening HbA1c with bempedoic acid. The efficacy and cardiometabolic safety profile of bempedoic acid makes it a clinical option for those with and without diabetes.",
+          "content": "糖尿病患者において、ベムペドイック酸はLDLコレステロールおよび高感度C反応性蛋白、ならびに心血管イベントのリスクを減少させる。非糖尿病患者において、ベムペドイック酸による新規糖尿病の発症増加やHbA1cの悪化は認められなかった。ベムペドイック酸の有効性および心代謝系における安全性プロファイルは、本薬を糖尿病の有無にかかわらず患者に対する臨床的な選択肢たらしめている。"
+        }
+      ],
+      "pico": {
+        "framework": "PICO",
+        "P": "ガイドライン推奨量のスタチン服用が困難または不可能な、心血管疾患を有するまたは高リスクの患者（糖尿病患者6373例、糖尿病予備群5796例、正常血糖1801例）",
+        "I": "ベムペド酸 180mg/日投与",
+        "C": "プラセボ投与",
+        "O": "糖尿病患者における主要心血管イベント(MACE-4)の低減（HR 0.83, 95% CI 0.72–0.95）",
+        "NNT": 41.7,
+        "significant": true
+      },
+      "key_results": null,
+      "nnt": null,
+      "memo": null,
+      "pmid": null,
+      "updated_at": "2026-07-30 00:19:00"
+    },
     {
       "id": 55,
       "title": "Bempedoic Acid and Cardiovascular Outcomes in Statin-Intolerant Patients",
